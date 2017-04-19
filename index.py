@@ -8,6 +8,13 @@ import re
 class index():
 
     def __init__(self):
+        
+        self.creator = ''
+        self.comments = ''
+        self.title = ''
+        self.pubdate = ''
+        self.link = ''
+        self.vals = ()
 
         # the url links for all rss feeds for
         # each jamiiforum category
@@ -69,8 +76,6 @@ class index():
 
     def db(self):
 
-        self.items = []
-        self.t = ()
         self.cont_ID = 1
 
         # open up a connection to a database
@@ -87,28 +92,23 @@ class index():
             self.fName = 'indices\\raw\\' + key + '.xml'
 
             # stri the important info and store in a database
-            with codecs.open(self.fName, 'r', 'utf-8') as f:
+            with open(self.fName, 'r') as f:
                 self.xml = f.read()
-
-            self.xml =re.sub('dc:', '', self.xml)
-            self.xml = re.sub('slash:', '', self.xml)
 
             self.soup = BeautifulSoup(self.xml)
 
             # for each item in the xml files we add to the database
             for uzi in self.soup.find_all("item"):
-
+            
                 self.title = uzi.title.string
                 self.pubdate = uzi.pubdate.string
                 self.link = uzi.link.string
-                self.creater = uzi.creator.string
-                self.comments = uzi.comments.string
+                self.vals = (self.title,self.pubdate,self.link,self.cont_ID)
 
-                self.vals = (self.title,self.pubdate,self.link,self.creater,self.comments, self.cont_ID,)
+                c.execute('INSERT INTO posts (title,pubdate,link,cont_ID) VALUES (?,?,?,?)', self.vals)
 
-                c.execute('INSERT INTO posts (title,pubdate,link,author,comments,cont_ID) VALUES (?,?,?,?,?,?)', self.vals)
-
-                self.cont_ID = self.cont_ID + 1
+            self.cont_ID = self.cont_ID + 1
+            self.xml = ''
 
         # close the database connection
         c.close()

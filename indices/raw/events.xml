@@ -3,11 +3,28 @@
   <channel>
     <title>News &amp; Current Events</title>
     <description>Discussion on current news and event on what is happening in Tanzania. Discuss in ENGLISH ONLY</description>
-    <pubDate>Mon, 17 Apr 2017 19:33:44 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2017 19:33:44 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2017 07:41:20 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2017 07:41:20 +0000</lastBuildDate>
     <generator>JamiiForums | The Home of Great Thinkers</generator>
     <link>https://www.jamiiforums.com/forums/news-current-events.125/</link>
     <atom:link rel="self" type="application/rss+xml" href="https://www.jamiiforums.com/forums/news-current-events.125/index.rss"/>
+    <item>
+      <title>Msaada</title>
+      <pubDate>Tue, 18 Apr 2017 14:25:51 +0000</pubDate>
+      <link>https://www.jamiiforums.com/threads/msaada.1237697/</link>
+      <guid>https://www.jamiiforums.com/threads/msaada.1237697/</guid>
+      <author>invalid@example.com (Yusuph Wernery)</author>
+      <dc:creator>Yusuph Wernery</dc:creator>
+    </item>
+    <item>
+      <title>Mzozo wa Marekani na Korea ya Kasikazini</title>
+      <pubDate>Tue, 18 Apr 2017 09:33:40 +0000</pubDate>
+      <link>https://www.jamiiforums.com/threads/mzozo-wa-marekani-na-korea-ya-kasikazini.1237528/</link>
+      <guid>https://www.jamiiforums.com/threads/mzozo-wa-marekani-na-korea-ya-kasikazini.1237528/</guid>
+      <author>invalid@example.com (Junior Ayo)</author>
+      <dc:creator>Junior Ayo</dc:creator>
+      <slash:comments>1</slash:comments>
+    </item>
     <item>
       <title>Techinical explanation on Concentrate Ban from ACACIA Chief Operating Officer</title>
       <pubDate>Mon, 17 Apr 2017 17:08:38 +0000</pubDate>
@@ -165,23 +182,6 @@
       <author>invalid@example.com (kaitila)</author>
       <dc:creator>kaitila</dc:creator>
       <slash:comments>8</slash:comments>
-    </item>
-    <item>
-      <title>MOROGORO: High Grade Graphite Discovered in Mahenge, Tanzania</title>
-      <pubDate>Fri, 10 Mar 2017 08:53:14 +0000</pubDate>
-      <link>https://www.jamiiforums.com/threads/morogoro-high-grade-graphite-discovered-in-mahenge-tanzania.1135949/</link>
-      <guid>https://www.jamiiforums.com/threads/morogoro-high-grade-graphite-discovered-in-mahenge-tanzania.1135949/</guid>
-      <author>invalid@example.com (RUCCI)</author>
-      <dc:creator>RUCCI</dc:creator>
-      <slash:comments>15</slash:comments>
-    </item>
-    <item>
-      <title>Uporoto, Kipengere and Livingstone Ranges</title>
-      <pubDate>Thu, 02 Mar 2017 02:04:26 +0000</pubDate>
-      <link>https://www.jamiiforums.com/threads/uporoto-kipengere-and-livingstone-ranges.1209326/</link>
-      <guid>https://www.jamiiforums.com/threads/uporoto-kipengere-and-livingstone-ranges.1209326/</guid>
-      <author>invalid@example.com (bagamoyo)</author>
-      <dc:creator>bagamoyo</dc:creator>
     </item>
   </channel>
 </rss>

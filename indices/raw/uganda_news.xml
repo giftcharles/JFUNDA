@@ -3,11 +3,28 @@
   <channel>
     <title>Ugandan News and Politics</title>
     <description>Serious discussions on Politics and Latest news from Uganda</description>
-    <pubDate>Mon, 17 Apr 2017 19:33:45 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2017 19:33:45 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2017 07:40:05 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2017 07:40:05 +0000</lastBuildDate>
     <generator>JamiiForums | The Home of Great Thinkers</generator>
     <link>https://www.jamiiforums.com/forums/ugandan-news-and-politics.131/</link>
     <atom:link rel="self" type="application/rss+xml" href="https://www.jamiiforums.com/forums/ugandan-news-and-politics.131/index.rss"/>
+    <item>
+      <title>Mega projects in Uganda</title>
+      <pubDate>Tue, 18 Apr 2017 05:29:11 +0000</pubDate>
+      <link>https://www.jamiiforums.com/threads/mega-projects-in-uganda.1237421/</link>
+      <guid>https://www.jamiiforums.com/threads/mega-projects-in-uganda.1237421/</guid>
+      <author>invalid@example.com (Cicero)</author>
+      <dc:creator>Cicero</dc:creator>
+    </item>
+    <item>
+      <title>Bajeti Afrika Mashariki: Uganda waondoa VAT kwenye Utalii</title>
+      <pubDate>Tue, 18 Apr 2017 05:05:27 +0000</pubDate>
+      <link>https://www.jamiiforums.com/threads/bajeti-afrika-mashariki-uganda-waondoa-vat-kwenye-utalii.1230223/</link>
+      <guid>https://www.jamiiforums.com/threads/bajeti-afrika-mashariki-uganda-waondoa-vat-kwenye-utalii.1230223/</guid>
+      <author>invalid@example.com (MPadmire)</author>
+      <dc:creator>MPadmire</dc:creator>
+      <slash:comments>1</slash:comments>
+    </item>
     <item>
       <title>Mhadhiri aliyemfananisha Rais na makalio atupwa lupango</title>
       <pubDate>Sun, 16 Apr 2017 12:45:33 +0000</pubDate>
@@ -152,14 +169,6 @@
       <slash:comments>2</slash:comments>
     </item>
     <item>
-      <title>Bajeti Afrika Mashariki: Uganda waondoa VAT kwenye Utalii</title>
-      <pubDate>Tue, 04 Apr 2017 18:28:16 +0000</pubDate>
-      <link>https://www.jamiiforums.com/threads/bajeti-afrika-mashariki-uganda-waondoa-vat-kwenye-utalii.1230223/</link>
-      <guid>https://www.jamiiforums.com/threads/bajeti-afrika-mashariki-uganda-waondoa-vat-kwenye-utalii.1230223/</guid>
-      <author>invalid@example.com (MPadmire)</author>
-      <dc:creator>MPadmire</dc:creator>
-    </item>
-    <item>
       <title>Riaadha Uganda Ethiopia na Kenya zinatawala</title>
       <pubDate>Mon, 03 Apr 2017 14:18:22 +0000</pubDate>
       <link>https://www.jamiiforums.com/threads/riaadha-uganda-ethiopia-na-kenya-zinatawala.1224787/</link>
@@ -167,14 +176,6 @@
       <author>invalid@example.com (simplemind)</author>
       <dc:creator>simplemind</dc:creator>
       <slash:comments>15</slash:comments>
-    </item>
-    <item>
-      <title>Aide to warlord Kony surrenders as US pulls from mission</title>
-      <pubDate>Fri, 31 Mar 2017 05:49:02 +0000</pubDate>
-      <link>https://www.jamiiforums.com/threads/aide-to-warlord-kony-surrenders-as-us-pulls-from-mission.1227630/</link>
-      <guid>https://www.jamiiforums.com/threads/aide-to-warlord-kony-surrenders-as-us-pulls-from-mission.1227630/</guid>
-      <author>invalid@example.com (Chachu Ombara)</author>
-      <dc:creator>Chachu Ombara</dc:creator>
     </item>
   </channel>
 </rss>
