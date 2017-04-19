@@ -8,13 +8,6 @@ import re
 class index():
 
     def __init__(self):
-        
-        self.creator = ''
-        self.comments = ''
-        self.title = ''
-        self.pubdate = ''
-        self.link = ''
-        self.vals = ()
 
         # the url links for all rss feeds for
         # each jamiiforum category
@@ -99,7 +92,7 @@ class index():
             
             self.sfName = 'indices\\struct\\' + key + '.xml'
             
-            self.xmlOpener = '<?xml version="1.0" encoding="utf-8"?>\n<nyuzi>\n'
+            self.xmlOpener = '<?xml version="1.0" encoding="utf-8"?>\n<nyuzi>\n<cat>' + key + '</cat>\n'
             self.xmlCloser = '\n</nyuzi>'
             
             with codecs.open(self.sfName, 'w', 'UTF-8') as f:
