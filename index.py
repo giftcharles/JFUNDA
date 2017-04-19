@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import datetime
 import codecs
 import time
-import sqlite3
 import re
+
 class index():
 
     def __init__(self):
@@ -55,7 +55,12 @@ class index():
                      'imani' : 'https://www.jamiiforums.com/forums/dini-imani.24/index.rss'}
 
     def ombi(self):
-
+        """
+        This is a necessary comment on the functions that 
+        serve no real purpose at the moment depending
+        on how you view things in here, you will eventually get it
+    
+        """
         # download the xml for each category rss
         for key, value in self.urls.items():
             self.ombi = requests.get(value)
@@ -74,17 +79,12 @@ class index():
         print('Kazi imemalizika')
 
 
-    def db(self):
-
-        self.cont_ID = 1
-
-        # open up a connection to a database
-        con = sqlite3.connect("indices\database")
-
-        c = con.cursor()
-
-        c.execute('CREATE TABLE IF NOT EXISTS posts (ID int AUTO INCREMENT, title text, pubdate text, link text, author text, comments text, cont_ID int)')
-
+    def tunza(self):
+        """
+        This is a necessary comment on the functions that 
+        serve no real purpose at the moment depending
+        on how you view things in here, you will eventually get it
+        """
         # for each file in the expected urls
         for key, value in self.urls.items():
 
@@ -92,25 +92,26 @@ class index():
             self.fName = 'indices\\raw\\' + key + '.xml'
 
             # stri the important info and store in a database
-            with open(self.fName, 'r') as f:
+            with codecs.open(self.fName, 'r', 'UTF-8') as f:
                 self.xml = f.read()
 
             self.soup = BeautifulSoup(self.xml)
-
-            # for each item in the xml files we add to the database
-            for uzi in self.soup.find_all("item"):
             
-                self.title = uzi.title.string
-                self.pubdate = uzi.pubdate.string
-                self.link = uzi.link.string
-                self.vals = (self.title,self.pubdate,self.link,self.cont_ID)
+            self.sfName = 'indices\\struct\\' + key + '.xml'
+            
+            self.xmlOpener = '<?xml version="1.0" encoding="utf-8"?>\n<nyuzi>\n'
+            self.xmlCloser = '\n</nyuzi>'
+            
+            with codecs.open(self.sfName, 'w', 'UTF-8') as f:
+                f.write(self.xmlOpener)
+                
+                for item in self.soup.find_all('item'):
+                    f.write(str(item))
+                    
+                f.write(self.xmlCloser)
 
-                c.execute('INSERT INTO posts (title,pubdate,link,cont_ID) VALUES (?,?,?,?)', self.vals)
-
-            self.cont_ID = self.cont_ID + 1
             self.xml = ''
+            print(key + ' structured')
 
-        # close the database connection
-        c.close()
         print("the whole operation was successfull")
 

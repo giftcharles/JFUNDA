@@ -2,4 +2,4 @@ import index
 
 test = index.index()
 
-test.db()
+test.tunza()
