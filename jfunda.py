@@ -2,7 +2,6 @@ import feedparser
 import time
 import codecs
 import json
-import sqlite3
 
 class Jfunda():
     """
@@ -49,16 +48,36 @@ class Jfunda():
     
     def feeds(self):
         
+        counter = 0
+        json_data = []
+        
         for key,value in self.urls.items():
             f = feedparser.parse(value)
-            with codecs.open("feeds/" + key + ".json", "a", "utf-8") as file:
-                file.write(json.dumps(f.entries, indent=4, separators=(',', ': ')))
+            
+            for entry in f.entries:
+            
+                title = f.entries[counter].title
+                author = f.entries[counter].author
+                pub = f.entries[counter].published
+                link = f.entries[counter].link
                 
+                thread_data = {"title":title,
+                               "author":author,
+                               "published":pub,
+                               "link":link}
+
+                json_data.append(thread_data)
+                
+                print("done with the thread ", counter)
+                counter = counter + 1
+            
+            counter = 0
+            
+            with codecs.open("feeds/" + key + ".json", "a", "utf-8") as file:
+                file.write(json.dumps(json_data, indent=4, separators=(',', ': ')))                
+            
             print("entires saved for " + key + "\n")
             time.sleep(1)
-            
-    def json(self):
-        pass
             
 inst = Jfunda()
 

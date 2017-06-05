@@ -1,921 +1,2642 @@
 [
     {
-        "id": "https://www.jamiiforums.com/threads/kilichotokea-baada-ya-kuwaweka-kuku-rangi.1262446/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            54,
-            53,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kilichotokea-baada-ya-kuwaweka-kuku-rangi.1262446/"
-            }
-        ],
-        "title": "Kilichotokea baada ya kuwaweka kuku rangi",
-        "author_detail": {
-            "name": "GAZETI",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kilichotokea baada ya kuwaweka kuku rangi",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "GAZETI",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "GAZETI"
-            }
-        ],
-        "slash_comments": "41",
-        "link": "https://www.jamiiforums.com/threads/kilichotokea-baada-ya-kuwaweka-kuku-rangi.1262446/",
+        "title": "Ujumbe wa Sakayo",
+        "published": "Mon, 05 Jun 2017 22:24:31 +0000",
+        "author": "Shunie",
+        "link": "https://www.jamiiforums.com/threads/ujumbe-wa-sakayo.1262989/"
+    },
+    {
+        "title": "The Foundation to Fearlessness",
+        "published": "Mon, 05 Jun 2017 22:14:39 +0000",
+        "author": "dellyphilly",
+        "link": "https://www.jamiiforums.com/threads/the-foundation-to-fearlessness.1263194/"
+    },
+    {
+        "title": "Makapuku Forum",
+        "published": "Mon, 05 Jun 2017 21:50:51 +0000",
+        "author": "Bailly5",
+        "link": "https://www.jamiiforums.com/threads/makapuku-forum.1032847/"
+    },
+    {
+        "title": "Distinctive features of JF",
+        "published": "Mon, 05 Jun 2017 20:50:30 +0000",
+        "author": "nyandaad",
+        "link": "https://www.jamiiforums.com/threads/distinctive-features-of-jf.1262988/"
+    },
+    {
+        "title": "Chemsha Bongo!",
+        "published": "Mon, 05 Jun 2017 20:47:13 +0000",
+        "author": "Quemu",
+        "link": "https://www.jamiiforums.com/threads/chemsha-bongo.5955/"
+    },
+    {
+        "title": "Members 'ninaowakubali' zaidi humu jf",
+        "published": "Mon, 05 Jun 2017 20:44:14 +0000",
+        "author": "Black fire",
+        "link": "https://www.jamiiforums.com/threads/members-ninaowakubali-zaidi-humu-jf.1263008/"
+    },
+    {
+        "title": "HEKA HEKA",
+        "published": "Mon, 05 Jun 2017 20:43:23 +0000",
+        "author": "holy holm",
+        "link": "https://www.jamiiforums.com/threads/heka-heka.1263154/"
+    },
+    {
+        "title": "Mwanamke anaweza kuishi na mwanaume asiyekuwa na kazi kwa muda wa siku 5 tu",
+        "published": "Mon, 05 Jun 2017 20:31:13 +0000",
+        "author": "Eddy Love",
+        "link": "https://www.jamiiforums.com/threads/mwanamke-anaweza-kuishi-na-mwanaume-asiyekuwa-na-kazi-kwa-muda-wa-siku-5-tu.1226610/"
+    },
+    {
+        "title": "THAQAAFA HIGH SCHOOL 2003 TUONANE HAPA.",
+        "published": "Mon, 05 Jun 2017 20:30:14 +0000",
+        "author": "ngoshaboy",
+        "link": "https://www.jamiiforums.com/threads/thaqaafa-high-school-2003-tuonane-hapa.1263143/"
+    },
+    {
+        "title": "Mwanaume kumtawaza mtoto ni sawa kweli?",
+        "published": "Mon, 05 Jun 2017 20:26:50 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/mwanaume-kumtawaza-mtoto-ni-sawa-kweli.1218807/"
+    },
+    {
+        "title": "Nyani Ngabu Mjengoni! Interview: Mapenzi, Utajiri&Mali, Marafiki na Maisha ya ugenini.",
+        "published": "Mon, 05 Jun 2017 20:26:01 +0000",
+        "author": "STUNTER",
+        "link": "https://www.jamiiforums.com/threads/nyani-ngabu-mjengoni-interview-mapenzi-utajiri-mali-marafiki-na-maisha-ya-ugenini.1261483/"
+    },
+    {
+        "title": "Kama hujafanya hii katika ujana wako POLE sana",
+        "published": "Mon, 05 Jun 2017 20:05:40 +0000",
+        "author": "Ethos",
+        "link": "https://www.jamiiforums.com/threads/kama-hujafanya-hii-katika-ujana-wako-pole-sana.1250565/"
+    },
+    {
+        "title": "Kuwa na mwanamke askari ni shida",
+        "published": "Mon, 05 Jun 2017 19:43:50 +0000",
+        "author": "banned do",
+        "link": "https://www.jamiiforums.com/threads/kuwa-na-mwanamke-askari-ni-shida.1262149/"
+    },
+    {
+        "title": "Humu ndani kumepoa sana",
+        "published": "Mon, 05 Jun 2017 19:35:28 +0000",
+        "author": "Daby",
+        "link": "https://www.jamiiforums.com/threads/humu-ndani-kumepoa-sana.1262365/"
+    },
+    {
+        "title": "Wanachokisema wazungu kuhusu Tanzania...",
+        "published": "Mon, 05 Jun 2017 19:24:31 +0000",
+        "author": "TANMO",
+        "link": "https://www.jamiiforums.com/threads/wanachokisema-wazungu-kuhusu-tanzania.118232/"
+    },
+    {
+        "title": "Hivi kwa nini mtu mzima akiua paka maisha yake yanakuwa mabovu sana",
+        "published": "Mon, 05 Jun 2017 19:17:34 +0000",
+        "author": "Yeezus 2",
+        "link": "https://www.jamiiforums.com/threads/hivi-kwa-nini-mtu-mzima-akiua-paka-maisha-yake-yanakuwa-mabovu-sana.1262903/"
+    },
+    {
+        "title": "WanaJF wenyeji wa Lindi na Mtwara tukutane hapa",
+        "published": "Mon, 05 Jun 2017 19:00:58 +0000",
         "author": "GAZETI",
-        "published": "Sun, 04 Jun 2017 17:54:53 +0000"
+        "link": "https://www.jamiiforums.com/threads/wanajf-wenyeji-wa-lindi-na-mtwara-tukutane-hapa.1250120/"
     },
     {
-        "authors": [
-            {
-                "name": "ndio walewale",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "ndio walewale"
-            }
-        ],
-        "title": "Hizi hapa fursa 20 kwenye ufugaji",
-        "author_detail": {
-            "name": "ndio walewale",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Hizi hapa fursa 20 kwenye ufugaji",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "id": "https://www.jamiiforums.com/threads/hizi-hapa-fursa-20-kwenye-ufugaji.1262555/",
-        "author": "ndio walewale",
-        "link": "https://www.jamiiforums.com/threads/hizi-hapa-fursa-20-kwenye-ufugaji.1262555/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            27,
-            5,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/hizi-hapa-fursa-20-kwenye-ufugaji.1262555/"
-            }
-        ],
-        "published": "Sun, 04 Jun 2017 17:27:05 +0000"
+        "title": "Nani ambaye hajawahi kufungua nyuzi zangu?",
+        "published": "Mon, 05 Jun 2017 19:00:13 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/nani-ambaye-hajawahi-kufungua-nyuzi-zangu.1243952/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/kilimo-cha-mihogo-eneo-la-pwani.1255809/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            4,
-            28,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kilimo-cha-mihogo-eneo-la-pwani.1255809/"
-            }
-        ],
-        "title": "Kilimo cha mihogo eneo la pwani",
-        "author_detail": {
-            "name": "DR.POLITICS",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kilimo cha mihogo eneo la pwani",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "DR.POLITICS",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "DR.POLITICS"
-            }
-        ],
-        "slash_comments": "35",
-        "link": "https://www.jamiiforums.com/threads/kilimo-cha-mihogo-eneo-la-pwani.1255809/",
+        "title": "Vifisadi Vitoto Tunavijua (VVT)",
+        "published": "Mon, 05 Jun 2017 18:54:34 +0000",
+        "author": "Gagurito",
+        "link": "https://www.jamiiforums.com/threads/vifisadi-vitoto-tunavijua-vvt.118037/"
+    },
+    {
+        "title": "Makusudi au bahati mbaya?",
+        "published": "Mon, 05 Jun 2017 18:50:58 +0000",
+        "author": "tinya",
+        "link": "https://www.jamiiforums.com/threads/makusudi-au-bahati-mbaya.117931/"
+    },
+    {
+        "title": "Kimchepuko",
+        "published": "Mon, 05 Jun 2017 22:29:49 +0000",
+        "author": "Red Scorpion",
+        "link": "https://www.jamiiforums.com/threads/kimchepuko.1262764/"
+    },
+    {
+        "title": "Salt n pepa! Enzi ya enzi",
+        "published": "Mon, 05 Jun 2017 22:23:27 +0000",
+        "author": "mshana jr",
+        "link": "https://www.jamiiforums.com/threads/salt-n-pepa-enzi-ya-enzi.1263006/"
+    },
+    {
+        "title": "Hatimaye Dereva wa lori apatiwa lori",
+        "published": "Mon, 05 Jun 2017 22:12:25 +0000",
+        "author": "py thon",
+        "link": "https://www.jamiiforums.com/threads/hatimaye-dereva-wa-lori-apatiwa-lori.1263055/"
+    },
+    {
+        "title": "Hawa wanaitwajwe kwa kiswahili na kidhungu?",
+        "published": "Mon, 05 Jun 2017 20:58:15 +0000",
+        "author": "Zamaulid",
+        "link": "https://www.jamiiforums.com/threads/hawa-wanaitwajwe-kwa-kiswahili-na-kidhungu.411607/"
+    },
+    {
+        "title": "Karibu kwetu tukuyu!",
+        "published": "Mon, 05 Jun 2017 19:48:26 +0000",
+        "author": "Mwalimu",
+        "link": "https://www.jamiiforums.com/threads/karibu-kwetu-tukuyu.224261/"
+    },
+    {
+        "title": "Compilation toka mitandaoni (not JF)",
+        "published": "Mon, 05 Jun 2017 19:46:43 +0000",
+        "author": "mshana jr",
+        "link": "https://www.jamiiforums.com/threads/compilation-toka-mitandaoni-not-jf.1250000/"
+    },
+    {
+        "title": "Kumbe Wema Sepetu alikuwa mzuri hivi?",
+        "published": "Mon, 05 Jun 2017 19:19:22 +0000",
+        "author": "FRANCIS DA DON",
+        "link": "https://www.jamiiforums.com/threads/kumbe-wema-sepetu-alikuwa-mzuri-hivi.805005/"
+    },
+    {
+        "title": "Kutoka Maktaba",
+        "published": "Mon, 05 Jun 2017 18:55:49 +0000",
+        "author": "sanchez255",
+        "link": "https://www.jamiiforums.com/threads/kutoka-maktaba.1263147/"
+    },
+    {
+        "title": "I love this quote",
+        "published": "Mon, 05 Jun 2017 18:37:16 +0000",
+        "author": "Jodeo",
+        "link": "https://www.jamiiforums.com/threads/i-love-this-quote.1262935/"
+    },
+    {
+        "title": "Kwa Huyu Jamaa Mshana Jr na Mzizi Mkavu Wakae Mbali",
+        "published": "Mon, 05 Jun 2017 17:51:12 +0000",
+        "author": "SHIMBA YA BUYENZE",
+        "link": "https://www.jamiiforums.com/threads/kwa-huyu-jamaa-mshana-jr-na-mzizi-mkavu-wakae-mbali.1262646/"
+    },
+    {
+        "title": "Toba!! Haya maji mengine bwana...!!!",
+        "published": "Mon, 05 Jun 2017 17:14:52 +0000",
+        "author": "donlucchese",
+        "link": "https://www.jamiiforums.com/threads/toba-haya-maji-mengine-bwana.1259907/"
+    },
+    {
+        "title": "Where would you put your money at?????",
+        "published": "Mon, 05 Jun 2017 17:12:52 +0000",
+        "author": "donlucchese",
+        "link": "https://www.jamiiforums.com/threads/where-would-you-put-your-money-at.1262524/"
+    },
+    {
+        "title": "Pata juice ya tikiti buree",
+        "published": "Mon, 05 Jun 2017 16:24:10 +0000",
+        "author": "shatisuruali",
+        "link": "https://www.jamiiforums.com/threads/pata-juice-ya-tikiti-buree.1262881/"
+    },
+    {
+        "title": "PHOTOSHOPU YA KICHINA",
+        "published": "Mon, 05 Jun 2017 16:17:37 +0000",
+        "author": "Amavubi",
+        "link": "https://www.jamiiforums.com/threads/photoshopu-ya-kichina.1262038/"
+    },
+    {
+        "title": "Dar es Salaam City in Photos",
+        "published": "Mon, 05 Jun 2017 16:13:01 +0000",
+        "author": "NDINDA",
+        "link": "https://www.jamiiforums.com/threads/dar-es-salaam-city-in-photos.126646/"
+    },
+    {
+        "title": "Mheshimiwa \"MKULIMA\"",
+        "published": "Mon, 05 Jun 2017 14:27:47 +0000",
+        "author": "mfilisti",
+        "link": "https://www.jamiiforums.com/threads/mheshimiwa-mkulima.1262650/"
+    },
+    {
+        "title": "Wanaume wa Dar mnahitaji msaidiwe",
+        "published": "Mon, 05 Jun 2017 14:22:20 +0000",
+        "author": "jembe afrika",
+        "link": "https://www.jamiiforums.com/threads/wanaume-wa-dar-mnahitaji-msaidiwe.1261505/"
+    },
+    {
+        "title": "Kikazi zaidi!!",
+        "published": "Mon, 05 Jun 2017 13:28:07 +0000",
+        "author": "Saguda47",
+        "link": "https://www.jamiiforums.com/threads/kikazi-zaidi.1262215/"
+    },
+    {
+        "title": "Ronaldo atoa 'like' kwa picha inayomkejeli Messi mtandaoni",
+        "published": "Mon, 05 Jun 2017 11:50:06 +0000",
+        "author": "real G",
+        "link": "https://www.jamiiforums.com/threads/ronaldo-atoa-like-kwa-picha-inayomkejeli-messi-mtandaoni.1262933/"
+    },
+    {
+        "title": "Sio bangi hii ni ubunifu tu",
+        "published": "Mon, 05 Jun 2017 11:41:23 +0000",
+        "author": "Numbisa",
+        "link": "https://www.jamiiforums.com/threads/sio-bangi-hii-ni-ubunifu-tu.1260773/"
+    },
+    {
+        "title": "Kimenuka Saudia yaifungia al jazeera ya qatar",
+        "published": "Mon, 05 Jun 2017 22:25:49 +0000",
+        "author": "kimsboy",
+        "link": "https://www.jamiiforums.com/threads/kimenuka-saudia-yaifungia-al-jazeera-ya-qatar.1263206/"
+    },
+    {
+        "title": "Misri yampa masaa 48 Balozi wa Qatar awe amefungasha virago na kuondoka nchini humo",
+        "published": "Mon, 05 Jun 2017 22:20:45 +0000",
+        "author": "miss zomboko",
+        "link": "https://www.jamiiforums.com/threads/misri-yampa-masaa-48-balozi-wa-qatar-awe-amefungasha-virago-na-kuondoka-nchini-humo.1262979/"
+    },
+    {
+        "title": "ADUI WA SADDAM HUSSEIN AJUTIA ALICHOKIFANYA",
+        "published": "Mon, 05 Jun 2017 22:19:54 +0000",
+        "author": "Malcom Lumumba",
+        "link": "https://www.jamiiforums.com/threads/adui-wa-saddam-hussein-ajutia-alichokifanya.1263064/"
+    },
+    {
+        "title": "Kumbe wasaudia ni wasikivu kwa Donald Joseph Trump",
+        "published": "Mon, 05 Jun 2017 21:36:51 +0000",
+        "author": "2013",
+        "link": "https://www.jamiiforums.com/threads/kumbe-wasaudia-ni-wasikivu-kwa-donald-joseph-trump.1263208/"
+    },
+    {
+        "title": "Mataifa ya Bahrain, Saudi Arabia & Egypt yavunja mahusiano ya kidiplomasia na Qatar",
+        "published": "Mon, 05 Jun 2017 21:32:50 +0000",
+        "author": "Kurzweil",
+        "link": "https://www.jamiiforums.com/threads/mataifa-ya-bahrain-saudi-arabia-egypt-yavunja-mahusiano-ya-kidiplomasia-na-qatar.1262690/"
+    },
+    {
+        "title": "Trump aiondoa Marekani kwenye mkataba wa Paris",
+        "published": "Mon, 05 Jun 2017 20:45:05 +0000",
+        "author": "Kurzweil",
+        "link": "https://www.jamiiforums.com/threads/trump-aiondoa-marekani-kwenye-mkataba-wa-paris.1261013/"
+    },
+    {
+        "title": "Vita ya USA VS Vietnam",
+        "published": "Mon, 05 Jun 2017 20:19:08 +0000",
+        "author": "Bujibuji",
+        "link": "https://www.jamiiforums.com/threads/vita-ya-usa-vs-vietnam.1242488/"
+    },
+    {
+        "title": "North Korea yalaani jaribio la Marekani, yasema ni matayarisho ya vita vya nuclear",
+        "published": "Mon, 05 Jun 2017 19:56:23 +0000",
+        "author": "ze kokuyo",
+        "link": "https://www.jamiiforums.com/threads/north-korea-yalaani-jaribio-la-marekani-yasema-ni-matayarisho-ya-vita-vya-nuclear.1262092/"
+    },
+    {
+        "title": "NASA 'Unprecedented' mission to touch the Sun",
+        "published": "Mon, 05 Jun 2017 19:52:02 +0000",
+        "author": "Nalendwa",
+        "link": "https://www.jamiiforums.com/threads/nasa-unprecedented-mission-to-touch-the-sun.1259266/"
+    },
+    {
+        "title": "MISS NIGERIA AMUANDIKIA BARUA YA WAZI TRUMP:",
+        "published": "Mon, 05 Jun 2017 19:40:15 +0000",
+        "author": "Traveller X",
+        "link": "https://www.jamiiforums.com/threads/miss-nigeria-amuandikia-barua-ya-wazi-trump.1263186/"
+    },
+    {
+        "title": "Trump amesitisha utamaduni wa kuwaenzi mashoga ikulu",
+        "published": "Mon, 05 Jun 2017 18:33:41 +0000",
+        "author": "Jackal",
+        "link": "https://www.jamiiforums.com/threads/trump-amesitisha-utamaduni-wa-kuwaenzi-mashoga-ikulu.1262425/"
+    },
+    {
+        "title": "London Terror Attacks: 6 people killed 20 Injured",
+        "published": "Mon, 05 Jun 2017 16:19:26 +0000",
+        "author": "BAK",
+        "link": "https://www.jamiiforums.com/threads/london-terror-attacks-6-people-killed-20-injured.1262118/"
+    },
+    {
+        "title": "Ufisadi Mkubwa wa Biashara ya Dhahabu Waikumba Uganda",
+        "published": "Mon, 05 Jun 2017 15:51:35 +0000",
+        "author": "Bowie",
+        "link": "https://www.jamiiforums.com/threads/ufisadi-mkubwa-wa-biashara-ya-dhahabu-waikumba-uganda.1263089/"
+    },
+    {
+        "title": "Msikiti wagoma kuuzika mwili wa kijana aliyefanya shambulio la Manchester na kuua 22",
+        "published": "Mon, 05 Jun 2017 13:06:32 +0000",
+        "author": "miss zomboko",
+        "link": "https://www.jamiiforums.com/threads/msikiti-wagoma-kuuzika-mwili-wa-kijana-aliyefanya-shambulio-la-manchester-na-kuua-22.1260139/"
+    },
+    {
+        "title": "22 charred to death after bus-truck collision in Bareilly",
+        "published": "Mon, 05 Jun 2017 10:08:28 +0000",
+        "author": "miss zomboko",
+        "link": "https://www.jamiiforums.com/threads/22-charred-to-death-after-bus-truck-collision-in-bareilly.1262876/"
+    },
+    {
+        "title": "Saudi Arabia na Vatican city",
+        "published": "Mon, 05 Jun 2017 09:58:21 +0000",
+        "author": "Usher-smith",
+        "link": "https://www.jamiiforums.com/threads/saudi-arabia-na-vatican-city.1257334/"
+    },
+    {
+        "title": "Kufaru kipya cha Urusi cha wakosesha usingizi NATO",
+        "published": "Mon, 05 Jun 2017 09:46:11 +0000",
+        "author": "MURUSI",
+        "link": "https://www.jamiiforums.com/threads/kufaru-kipya-cha-urusi-cha-wakosesha-usingizi-nato.1260391/"
+    },
+    {
+        "title": "Nchi 5 zakata uhusiano na Quatar",
+        "published": "Mon, 05 Jun 2017 09:31:21 +0000",
+        "author": "Jeremiahsinkonde",
+        "link": "https://www.jamiiforums.com/threads/nchi-5-zakata-uhusiano-na-quatar.1262852/"
+    },
+    {
+        "title": "Kunani Arabuni, UAE  na nchi nyingine 5 kuanzia kesho wanasitisha ndege kutua za kutoka Qatar",
+        "published": "Mon, 05 Jun 2017 09:28:23 +0000",
+        "author": "essy sensei",
+        "link": "https://www.jamiiforums.com/threads/kunani-arabuni-uae-na-nchi-nyingine-5-kuanzia-kesho-wanasitisha-ndege-kutua-za-kutoka-qatar.1262843/"
+    },
+    {
+        "title": "Kundi la Islamic State lasema lilihusika na shambulio London",
+        "published": "Mon, 05 Jun 2017 09:24:50 +0000",
+        "author": "Kurzweil",
+        "link": "https://www.jamiiforums.com/threads/kundi-la-islamic-state-lasema-lilihusika-na-shambulio-london.1262797/"
+    },
+    {
+        "title": "Ni kweli ujauzito unaweza kuonekana kwenye kipimo siku 6 baada ya kuingia?",
+        "published": "Mon, 05 Jun 2017 22:22:39 +0000",
+        "author": "Nyanda lunduma",
+        "link": "https://www.jamiiforums.com/threads/ni-kweli-ujauzito-unaweza-kuonekana-kwenye-kipimo-siku-6-baada-ya-kuingia.1259953/"
+    },
+    {
+        "title": "Joints za miguu zina uma sababu ya punyeto",
+        "published": "Mon, 05 Jun 2017 22:06:13 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/joints-za-miguu-zina-uma-sababu-ya-punyeto.1219990/"
+    },
+    {
+        "title": "Nimeambiwa sina vidonda vya tumbo, nina hpylori tu, iweje nisikie kiungulia(Heart burn)",
+        "published": "Mon, 05 Jun 2017 21:54:02 +0000",
+        "author": "onyx",
+        "link": "https://www.jamiiforums.com/threads/nimeambiwa-sina-vidonda-vya-tumbo-nina-hpylori-tu-iweje-nisikie-kiungulia-heart-burn.1250706/"
+    },
+    {
+        "title": "Ushauri: Nataka kuwa na mwili size ya kati",
+        "published": "Mon, 05 Jun 2017 21:46:01 +0000",
+        "author": "faru joni",
+        "link": "https://www.jamiiforums.com/threads/ushauri-nataka-kuwa-na-mwili-size-ya-kati.1262800/"
+    },
+    {
+        "title": "Nahitaji ushauri wako kuhusu saratani ya damu",
+        "published": "Mon, 05 Jun 2017 19:51:11 +0000",
+        "author": "Satuuuu",
+        "link": "https://www.jamiiforums.com/threads/nahitaji-ushauri-wako-kuhusu-saratani-ya-damu.1147957/"
+    },
+    {
+        "title": "Ukikonda nyama zinaenda wapi?",
+        "published": "Mon, 05 Jun 2017 19:32:44 +0000",
+        "author": "Ziroseventytwo",
+        "link": "https://www.jamiiforums.com/threads/ukikonda-nyama-zinaenda-wapi.1263163/"
+    },
+    {
+        "title": "Nakaribisha maswali kuhusu Tiba / Dawa",
+        "published": "Mon, 05 Jun 2017 19:11:44 +0000",
+        "author": "gorgeousmimi",
+        "link": "https://www.jamiiforums.com/threads/nakaribisha-maswali-kuhusu-tiba-dawa.821519/"
+    },
+    {
+        "title": "Hali ya kupinda uume husababishwa na nini?",
+        "published": "Mon, 05 Jun 2017 17:42:37 +0000",
+        "author": "Mwakindyevile",
+        "link": "https://www.jamiiforums.com/threads/hali-ya-kupinda-uume-husababishwa-na-nini.1216959/"
+    },
+    {
+        "title": "Hili lishakuwa janga sasa!",
+        "published": "Mon, 05 Jun 2017 16:20:43 +0000",
+        "author": "Panga Makalikuwili",
+        "link": "https://www.jamiiforums.com/threads/hili-lishakuwa-janga-sasa.1262623/"
+    },
+    {
+        "title": "kufanya mapenzi ukiwa na ujauzito, Dr. Msua ameeleza kwa kina hapa",
+        "published": "Mon, 05 Jun 2017 15:26:42 +0000",
+        "author": "ukabu",
+        "link": "https://www.jamiiforums.com/threads/kufanya-mapenzi-ukiwa-na-ujauzito-dr-msua-ameeleza-kwa-kina-hapa.1262457/"
+    },
+    {
+        "title": "Tatizo la ugumba kwa wanawake  na wanaume",
+        "published": "Mon, 05 Jun 2017 14:12:11 +0000",
+        "author": "Sangida Herbal",
+        "link": "https://www.jamiiforums.com/threads/tatizo-la-ugumba-kwa-wanawake-na-wanaume.1260365/"
+    },
+    {
+        "title": "Msaada wa mtu anayefanya kazi Muhimbili",
+        "published": "Mon, 05 Jun 2017 13:36:53 +0000",
+        "author": "mind ur bussness",
+        "link": "https://www.jamiiforums.com/threads/msaada-wa-mtu-anayefanya-kazi-muhimbili.1262860/"
+    },
+    {
+        "title": "Msaada ndugu zangu kwa anaefahamu sululisho la huu ugonjwa au hata tiba yake",
+        "published": "Mon, 05 Jun 2017 13:01:31 +0000",
+        "author": "putin 2030",
+        "link": "https://www.jamiiforums.com/threads/msaada-ndugu-zangu-kwa-anaefahamu-sululisho-la-huu-ugonjwa-au-hata-tiba-yake.1260245/"
+    },
+    {
+        "title": "Rafiki yangu kampenda dada mwenye Sickle Cell",
+        "published": "Mon, 05 Jun 2017 12:10:30 +0000",
+        "author": "KATASAN'KAZA",
+        "link": "https://www.jamiiforums.com/threads/rafiki-yangu-kampenda-dada-mwenye-sickle-cell.1255216/"
+    },
+    {
+        "title": "msaada madaktari",
+        "published": "Mon, 05 Jun 2017 11:53:26 +0000",
+        "author": "AnnaG",
+        "link": "https://www.jamiiforums.com/threads/msaada-madaktari.1262558/"
+    },
+    {
+        "title": "Ni vema kujifunza hili",
+        "published": "Mon, 05 Jun 2017 09:18:11 +0000",
+        "author": "divisiblebyzero",
+        "link": "https://www.jamiiforums.com/threads/ni-vema-kujifunza-hili.1261393/"
+    },
+    {
+        "title": "Kujaribu Tovuti Mpya Kipengele cha Afya",
+        "published": "Mon, 05 Jun 2017 07:17:12 +0000",
+        "author": "Tanzania Tech",
+        "link": "https://www.jamiiforums.com/threads/kujaribu-tovuti-mpya-kipengele-cha-afya.1262784/"
+    },
+    {
+        "title": "Ni dr. gani Tanzania anatoa huduma ya IVF (kuwawekea wanandoa mtoto?)",
+        "published": "Mon, 05 Jun 2017 04:10:28 +0000",
+        "author": "mbalaga",
+        "link": "https://www.jamiiforums.com/threads/ni-dr-gani-tanzania-anatoa-huduma-ya-ivf-kuwawekea-wanandoa-mtoto.590443/"
+    },
+    {
+        "title": "Kitovu na Uume wa mtoto.",
+        "published": "Mon, 05 Jun 2017 03:44:30 +0000",
+        "author": "Tyrone mofekeng",
+        "link": "https://www.jamiiforums.com/threads/kitovu-na-uume-wa-mtoto.1262164/"
+    },
+    {
+        "title": "Matatizo ya mfumo wa chakula wakati wa mfungo",
+        "published": "Mon, 05 Jun 2017 03:15:12 +0000",
+        "author": "Donatila",
+        "link": "https://www.jamiiforums.com/threads/matatizo-ya-mfumo-wa-chakula-wakati-wa-mfungo.1262385/"
+    },
+    {
+        "title": "WALIMU: Kwa wale wanaotaka kubadilishana vituo vya kazi",
+        "published": "Mon, 05 Jun 2017 21:48:44 +0000",
+        "author": "JamiiForums",
+        "link": "https://www.jamiiforums.com/threads/walimu-kwa-wale-wanaotaka-kubadilishana-vituo-vya-kazi.417341/"
+    },
+    {
+        "title": "NI SABABU ZIPI ZINAZOPELEKEA CHUO CHA TEKNOLOJIA ZANZIBAR KUWEKA ADA NDOGO KWA KOZI ZA UFUNDI?",
+        "published": "Mon, 05 Jun 2017 20:42:47 +0000",
+        "author": "Poluyakhtov",
+        "link": "https://www.jamiiforums.com/threads/ni-sababu-zipi-zinazopelekea-chuo-cha-teknolojia-zanzibar-kuweka-ada-ndogo-kwa-kozi-za-ufundi.1263203/"
+    },
+    {
+        "title": "Natafuta Mwalimu mtaalamu wa lugha ya kiingereza",
+        "published": "Mon, 05 Jun 2017 20:06:18 +0000",
+        "author": "13 mega pixel",
+        "link": "https://www.jamiiforums.com/threads/natafuta-mwalimu-mtaalamu-wa-lugha-ya-kiingereza.1263178/"
+    },
+    {
+        "title": "Diploma TIA March intake 2017 wanaanza lini masomo?",
+        "published": "Mon, 05 Jun 2017 19:54:30 +0000",
+        "author": "24hrs",
+        "link": "https://www.jamiiforums.com/threads/diploma-tia-march-intake-2017-wanaanza-lini-masomo.1230727/"
+    },
+    {
+        "title": "Medical lab, pharmacy, education and  clinical medicine",
+        "published": "Mon, 05 Jun 2017 19:45:47 +0000",
+        "author": "ommky",
+        "link": "https://www.jamiiforums.com/threads/medical-lab-pharmacy-education-and-clinical-medicine.1262438/"
+    },
+    {
+        "title": "Tanzania Mathematics Club",
+        "published": "Mon, 05 Jun 2017 18:47:46 +0000",
+        "author": "ANTHONY B. ELIAS",
+        "link": "https://www.jamiiforums.com/threads/tanzania-mathematics-club.1253694/"
+    },
+    {
+        "title": "Tanzania Mathematics Club",
+        "published": "Mon, 05 Jun 2017 18:44:45 +0000",
+        "author": "ANTHONY B. ELIAS",
+        "link": "https://www.jamiiforums.com/threads/tanzania-mathematics-club.1217098/"
+    },
+    {
+        "title": "Waliosoma mchepuo wa PCB tukutane hapa",
+        "published": "Mon, 05 Jun 2017 18:25:03 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/waliosoma-mchepuo-wa-pcb-tukutane-hapa.1109827/"
+    },
+    {
+        "title": "Nimechagua open BBA",
+        "published": "Mon, 05 Jun 2017 17:53:28 +0000",
+        "author": "baba bora",
+        "link": "https://www.jamiiforums.com/threads/nimechagua-open-bba.1261791/"
+    },
+    {
+        "title": "Namuomba muongozo wa hili kwenye maombi ya mkopo wa elimu ya juu",
+        "published": "Mon, 05 Jun 2017 17:45:49 +0000",
+        "author": "Benjamin Bearling Jr",
+        "link": "https://www.jamiiforums.com/threads/namuomba-muongozo-wa-hili-kwenye-maombi-ya-mkopo-wa-elimu-ya-juu.1262615/"
+    },
+    {
+        "title": "Mwaka huu bodi ya mikopo bajeti yake sh ngapi?",
+        "published": "Mon, 05 Jun 2017 17:31:36 +0000",
+        "author": "mpiga dili mzoefu",
+        "link": "https://www.jamiiforums.com/threads/mwaka-huu-bodi-ya-mikopo-bajeti-yake-sh-ngapi.1262730/"
+    },
+    {
+        "title": "Mkopo kwa wa diploma",
+        "published": "Mon, 05 Jun 2017 17:28:27 +0000",
+        "author": "fenisher",
+        "link": "https://www.jamiiforums.com/threads/mkopo-kwa-wa-diploma.1262997/"
+    },
+    {
+        "title": "Utaratibu wa walimu kubadilishana vituo vya kazi",
+        "published": "Mon, 05 Jun 2017 17:26:29 +0000",
+        "author": "stanb",
+        "link": "https://www.jamiiforums.com/threads/utaratibu-wa-walimu-kubadilishana-vituo-vya-kazi.977976/"
+    },
+    {
+        "title": "Naomba mwenye link ya riwaya ya Rosa Mistika",
+        "published": "Mon, 05 Jun 2017 17:00:38 +0000",
+        "author": "issa mweusi",
+        "link": "https://www.jamiiforums.com/threads/naomba-mwenye-link-ya-riwaya-ya-rosa-mistika.1207189/"
+    },
+    {
+        "title": "MAKE MONEY ONLINE NI MUDA TZ NOW",
+        "published": "Mon, 05 Jun 2017 16:41:54 +0000",
+        "author": "Mouricy",
+        "link": "https://www.jamiiforums.com/threads/make-money-online-ni-muda-tz-now.1263063/"
+    },
+    {
+        "title": "Msaada O-level physics syllabus soft copy",
+        "published": "Mon, 05 Jun 2017 16:26:24 +0000",
+        "author": "zimwilachi",
+        "link": "https://www.jamiiforums.com/threads/msaada-o-level-physics-syllabus-soft-copy.1230985/"
+    },
+    {
+        "title": "Vyuo vipi ni bora kwa kilimo?",
+        "published": "Mon, 05 Jun 2017 15:46:04 +0000",
+        "author": "Fredrick Mmari",
+        "link": "https://www.jamiiforums.com/threads/vyuo-vipi-ni-bora-kwa-kilimo.1261240/"
+    },
+    {
+        "title": "Mwanafunzi, Weka swali linalokusumbua ili walimu na wazoefu wakusaidie",
+        "published": "Mon, 05 Jun 2017 15:21:17 +0000",
+        "author": "Madam Mwajuma",
+        "link": "https://www.jamiiforums.com/threads/mwanafunzi-weka-swali-linalokusumbua-ili-walimu-na-wazoefu-wakusaidie.869194/"
+    },
+    {
+        "title": "Hivi  kwa nini hamna tuition ya chuo kikuu?",
+        "published": "Mon, 05 Jun 2017 14:46:22 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/hivi-kwa-nini-hamna-tuition-ya-chuo-kikuu.1157678/"
+    },
+    {
+        "title": "Nimepata Sup 5 katika masomo 8 ninayo soma ,msaada tafadhali",
+        "published": "Mon, 05 Jun 2017 14:33:16 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/nimepata-sup-5-katika-masomo-8-ninayo-soma-msaada-tafadhali.1203020/"
+    },
+    {
+        "title": "Ni Nawezaje Kuizuia Namba Yangu Ya Simu Isonekane Kwa Mtu Anaye Ni_Spy",
+        "published": "Mon, 05 Jun 2017 22:15:30 +0000",
+        "author": "tinno criss",
+        "link": "https://www.jamiiforums.com/threads/ni-nawezaje-kuizuia-namba-yangu-ya-simu-isonekane-kwa-mtu-anaye-ni_spy.1261572/"
+    },
+    {
+        "title": "Jinsi ya kuji ublock WhatsApp",
+        "published": "Mon, 05 Jun 2017 21:33:34 +0000",
+        "author": "sheremaya",
+        "link": "https://www.jamiiforums.com/threads/jinsi-ya-kuji-ublock-whatsapp.1256831/"
+    },
+    {
+        "title": "MSAADA WA KUNLOCK FRANKLIN R711  4G ROUTER",
+        "published": "Mon, 05 Jun 2017 21:08:07 +0000",
+        "author": "hero7",
+        "link": "https://www.jamiiforums.com/threads/msaada-wa-kunlock-franklin-r711-4g-router.992895/"
+    },
+    {
+        "title": "African Satellite World and Sat Gear",
+        "published": "Mon, 05 Jun 2017 20:55:04 +0000",
+        "author": "kungu1",
+        "link": "https://www.jamiiforums.com/threads/african-satellite-world-and-sat-gear.388522/"
+    },
+    {
+        "title": "Makapuku",
+        "published": "Mon, 05 Jun 2017 20:47:21 +0000",
+        "author": "Al-musallam",
+        "link": "https://www.jamiiforums.com/threads/makapuku.1237687/"
+    },
+    {
+        "title": "Game indusrty",
+        "published": "Mon, 05 Jun 2017 20:17:20 +0000",
+        "author": "Philosopher123",
+        "link": "https://www.jamiiforums.com/threads/game-indusrty.1257060/"
+    },
+    {
+        "title": "PHONE NUMBER GENERATOR (PNG) - by bl4ckbo7",
+        "published": "Mon, 05 Jun 2017 20:06:12 +0000",
+        "author": "Andy Kawa",
+        "link": "https://www.jamiiforums.com/threads/phone-number-generator-png-by-bl4ckbo7.1263187/"
+    },
+    {
+        "title": "New [Leak] How to make money by creating a P0RN site [e-book FREE]",
+        "published": "Mon, 05 Jun 2017 19:23:01 +0000",
+        "author": "Traveller X",
+        "link": "https://www.jamiiforums.com/threads/new-leak-how-to-make-money-by-creating-a-p0rn-site-e-book-free.1262833/"
+    },
+    {
+        "title": "Msaada wa technician: Laptop Dell XPS L502 X",
+        "published": "Mon, 05 Jun 2017 18:57:17 +0000",
+        "author": "Zainab Tamim",
+        "link": "https://www.jamiiforums.com/threads/msaada-wa-technician-laptop-dell-xps-l502-x.869278/"
+    },
+    {
+        "title": "Msaada king'amuzi changu kinaandika smart card is expired",
+        "published": "Mon, 05 Jun 2017 18:52:29 +0000",
+        "author": "Llio 002",
+        "link": "https://www.jamiiforums.com/threads/msaada-kingamuzi-changu-kinaandika-smart-card-is-expired.1262994/"
+    },
+    {
+        "title": "External hard drive ipo slow kucopy files",
+        "published": "Mon, 05 Jun 2017 18:32:54 +0000",
+        "author": "fidelis zul zorander",
+        "link": "https://www.jamiiforums.com/threads/external-hard-drive-ipo-slow-kucopy-files.1261845/"
+    },
+    {
+        "title": "Msaada app ya kuchanganya sauti",
+        "published": "Mon, 05 Jun 2017 18:31:57 +0000",
+        "author": "KIBURUDISHO",
+        "link": "https://www.jamiiforums.com/threads/msaada-app-ya-kuchanganya-sauti.1263152/"
+    },
+    {
+        "title": "Wakuu wa tecnolojia Natafuta hiden au spy camera kwa dar es salaam",
+        "published": "Mon, 05 Jun 2017 18:29:33 +0000",
+        "author": "mbere",
+        "link": "https://www.jamiiforums.com/threads/wakuu-wa-tecnolojia-natafuta-hiden-au-spy-camera-kwa-dar-es-salaam.1263108/"
+    },
+    {
+        "title": "Naomba mnifahamishe maujanja tofauti katika simu",
+        "published": "Mon, 05 Jun 2017 18:08:21 +0000",
+        "author": "Nurudin Jr",
+        "link": "https://www.jamiiforums.com/threads/naomba-mnifahamishe-maujanja-tofauti-katika-simu.1259992/"
+    },
+    {
+        "title": "Elimu kuhusu .YouTube.",
+        "published": "Mon, 05 Jun 2017 17:57:28 +0000",
+        "author": "hosh kosh",
+        "link": "https://www.jamiiforums.com/threads/elimu-kuhusu-youtube.1261886/"
+    },
+    {
+        "title": "Apk ya Dream League soccer 2017",
+        "published": "Mon, 05 Jun 2017 17:38:11 +0000",
+        "author": "The dream",
+        "link": "https://www.jamiiforums.com/threads/apk-ya-dream-league-soccer-2017.1229808/"
+    },
+    {
+        "title": "Google Chrome Errors and Crashes (Windows)",
+        "published": "Mon, 05 Jun 2017 17:25:03 +0000",
+        "author": "Dominic Myumbilwa",
+        "link": "https://www.jamiiforums.com/threads/google-chrome-errors-and-crashes-windows.1263129/"
+    },
+    {
+        "title": "Natafuta kioo Na protector ya Motorola NEXUS 6",
+        "published": "Mon, 05 Jun 2017 17:13:40 +0000",
+        "author": "Billie",
+        "link": "https://www.jamiiforums.com/threads/natafuta-kioo-na-protector-ya-motorola-nexus-6.1263125/"
+    },
+    {
+        "title": "HTTPS (SSL) Certificate for your website",
+        "published": "Mon, 05 Jun 2017 15:52:48 +0000",
+        "author": "mickey.T",
+        "link": "https://www.jamiiforums.com/threads/https-ssl-certificate-for-your-website.1136166/"
+    },
+    {
+        "title": "App ya kwanza inayoonesha mambo yanayovuma Tanzania",
+        "published": "Mon, 05 Jun 2017 15:12:01 +0000",
+        "author": "T3RN3K",
+        "link": "https://www.jamiiforums.com/threads/app-ya-kwanza-inayoonesha-mambo-yanayovuma-tanzania.1260024/"
+    },
+    {
+        "title": "Unahitaji kuwa Afisa Usalama? Give it a try..",
+        "published": "Mon, 05 Jun 2017 22:19:24 +0000",
+        "author": "The bold",
+        "link": "https://www.jamiiforums.com/threads/unahitaji-kuwa-afisa-usalama-give-it-a-try.1262129/"
+    },
+    {
+        "title": "Edward Snowden: Jasusi wa kimarekani alivyopania kumdhalilisha Obama",
+        "published": "Mon, 05 Jun 2017 22:06:59 +0000",
+        "author": "ONTARIO",
+        "link": "https://www.jamiiforums.com/threads/edward-snowden-jasusi-wa-kimarekani-alivyopania-kumdhalilisha-obama.1164946/"
+    },
+    {
+        "title": "Insane coincidence: Futility and Titanic",
+        "published": "Mon, 05 Jun 2017 21:56:07 +0000",
+        "author": "Eiyer",
+        "link": "https://www.jamiiforums.com/threads/insane-coincidence-futility-and-titanic.1260315/"
+    },
+    {
+        "title": "Jifunze kupitia pythagoras",
+        "published": "Mon, 05 Jun 2017 20:11:07 +0000",
+        "author": "K NI K",
+        "link": "https://www.jamiiforums.com/threads/jifunze-kupitia-pythagoras.1262300/"
+    },
+    {
+        "title": "Utata Juu  ya Kifo Cha Rais JF Kennedy",
+        "published": "Mon, 05 Jun 2017 19:51:56 +0000",
+        "author": "The bold",
+        "link": "https://www.jamiiforums.com/threads/utata-juu-ya-kifo-cha-rais-jf-kennedy.1247359/"
+    },
+    {
+        "title": "Wafahamu kikundi cha ADVENTIST CHURCH na mwanzili wao",
+        "published": "Mon, 05 Jun 2017 18:46:47 +0000",
+        "author": "SALA NA KAZI",
+        "link": "https://www.jamiiforums.com/threads/wafahamu-kikundi-cha-adventist-church-na-mwanzili-wao.1254588/"
+    },
+    {
+        "title": "Maajabu ya Kisiwa cha Bermuda",
+        "published": "Mon, 05 Jun 2017 18:40:36 +0000",
+        "author": "Socratic",
+        "link": "https://www.jamiiforums.com/threads/maajabu-ya-kisiwa-cha-bermuda.821858/"
+    },
+    {
+        "title": "FACTS 11: Kama wanasayansi wangesoma BIBLIA, Technology ya sasa ingekuwa Zamani Sana",
+        "published": "Mon, 05 Jun 2017 17:14:41 +0000",
+        "author": "MSEZA MKULU",
+        "link": "https://www.jamiiforums.com/threads/facts-11-kama-wanasayansi-wangesoma-biblia-technology-ya-sasa-ingekuwa-zamani-sana.1134802/"
+    },
+    {
+        "title": "D.B. Cooper: Tukio halisi la kusisimua lililogeuka hadithi ya 'Alfu lela ulela'",
+        "published": "Mon, 05 Jun 2017 16:54:11 +0000",
+        "author": "The bold",
+        "link": "https://www.jamiiforums.com/threads/d-b-cooper-tukio-halisi-la-kusisimua-lililogeuka-hadithi-ya-alfu-lela-ulela.1097189/"
+    },
+    {
+        "title": "Nataka kufahamu kuhusu jini maiti",
+        "published": "Mon, 05 Jun 2017 14:30:36 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/nataka-kufahamu-kuhusu-jini-maiti.1207675/"
+    },
+    {
+        "title": "Jinsi Ya Kupata Majibu Ya Swali Lolote Kirahisi Ndotoni...",
+        "published": "Mon, 05 Jun 2017 13:55:09 +0000",
+        "author": "Rakims",
+        "link": "https://www.jamiiforums.com/threads/jinsi-ya-kupata-majibu-ya-swali-lolote-kirahisi-ndotoni.1246845/"
+    },
+    {
+        "title": "Wana-Intelligence naomba mnisaidie ili niwe Mwana-Intelligence niliyekamilika",
+        "published": "Mon, 05 Jun 2017 13:45:48 +0000",
+        "author": "hazole1",
+        "link": "https://www.jamiiforums.com/threads/wana-intelligence-naomba-mnisaidie-ili-niwe-mwana-intelligence-niliyekamilika.1245879/"
+    },
+    {
+        "title": "Mbinu zitumikazo kuiba pesa nyingi kwa kudukua taarifa za mashine ya ATM",
+        "published": "Mon, 05 Jun 2017 13:22:10 +0000",
+        "author": "ONTARIO",
+        "link": "https://www.jamiiforums.com/threads/mbinu-zitumikazo-kuiba-pesa-nyingi-kwa-kudukua-taarifa-za-mashine-ya-atm.1187373/"
+    },
+    {
+        "title": "Je ni kweli Hon Joseph  Rugumyamheto asili yake Rwanda",
+        "published": "Mon, 05 Jun 2017 13:18:49 +0000",
+        "author": "zubedayo_mchuzi",
+        "link": "https://www.jamiiforums.com/threads/je-ni-kweli-hon-joseph-rugumyamheto-asili-yake-rwanda.620310/"
+    },
+    {
+        "title": "Umewahi Kukaa sehemu ukawa Unapiga Story na Mungu? Fanya hivyo kwa njia hii.",
+        "published": "Mon, 05 Jun 2017 12:10:53 +0000",
+        "author": "Guru Master",
+        "link": "https://www.jamiiforums.com/threads/umewahi-kukaa-sehemu-ukawa-unapiga-story-na-mungu-fanya-hivyo-kwa-njia-hii.1254911/"
+    },
+    {
+        "title": "Bible's verses contradictions",
+        "published": "Mon, 05 Jun 2017 11:47:00 +0000",
+        "author": "nyabhingi",
+        "link": "https://www.jamiiforums.com/threads/bibles-verses-contradictions.1261258/"
+    },
+    {
+        "title": "Adhabu ya kifo kwa kuchinjwa mbele ya kadamnasi (Tahadhari: maelezo, picha na video za ukatili)",
+        "published": "Mon, 05 Jun 2017 09:56:25 +0000",
+        "author": "The bold",
+        "link": "https://www.jamiiforums.com/threads/adhabu-ya-kifo-kwa-kuchinjwa-mbele-ya-kadamnasi-tahadhari-maelezo-picha-na-video-za-ukatili.1238496/"
+    },
+    {
+        "title": "Safe House",
+        "published": "Mon, 05 Jun 2017 09:45:10 +0000",
+        "author": "Mkwanzania",
+        "link": "https://www.jamiiforums.com/threads/safe-house.525628/"
+    },
+    {
+        "title": "Are spies made or born?",
+        "published": "Mon, 05 Jun 2017 07:38:15 +0000",
+        "author": "Infantry Soldier",
+        "link": "https://www.jamiiforums.com/threads/are-spies-made-or-born.653467/"
+    },
+    {
+        "title": "Mishahara ya viongozi wa Tanzania",
+        "published": "Mon, 05 Jun 2017 07:08:55 +0000",
+        "author": "Nyani Ngabu",
+        "link": "https://www.jamiiforums.com/threads/mishahara-ya-viongozi-wa-tanzania.3502/"
+    },
+    {
+        "title": "Kati ya Tandika, Buguruni na Mwananyamala ipi inaongoza kwa kuwa na Masela wa Kutukuka?",
+        "published": "Mon, 05 Jun 2017 22:35:25 +0000",
+        "author": "GENTAMYCINE",
+        "link": "https://www.jamiiforums.com/threads/kati-ya-tandika-buguruni-na-mwananyamala-ipi-inaongoza-kwa-kuwa-na-masela-wa-kutukuka.1262774/"
+    },
+    {
+        "title": "Kivuko Kipya cha MV KAZI chazinduliwa, Kimeundwa hapa hapa Tanzania!!",
+        "published": "Mon, 05 Jun 2017 22:35:11 +0000",
+        "author": "SALOK",
+        "link": "https://www.jamiiforums.com/threads/kivuko-kipya-cha-mv-kazi-chazinduliwa-kimeundwa-hapa-hapa-tanzania.1263114/"
+    },
+    {
+        "title": "Usiyoyajua kuhusu nchi ya Japan",
+        "published": "Mon, 05 Jun 2017 22:31:15 +0000",
+        "author": "Mdakuzi mkuu",
+        "link": "https://www.jamiiforums.com/threads/usiyoyajua-kuhusu-nchi-ya-japan.1227623/"
+    },
+    {
+        "title": "MH Lowassa akiwa katika afya tele aongoza kuimba wimbo kwenye msiba wa Ndesamburo",
+        "published": "Mon, 05 Jun 2017 22:22:22 +0000",
+        "author": "RealTzboy",
+        "link": "https://www.jamiiforums.com/threads/mh-lowassa-akiwa-katika-afya-tele-aongoza-kuimba-wimbo-kwenye-msiba-wa-ndesamburo.1263207/"
+    },
+    {
+        "title": "Je NAKUMAT Arusha nao wanafunga Biashara?",
+        "published": "Mon, 05 Jun 2017 22:21:51 +0000",
+        "author": "MURUSI",
+        "link": "https://www.jamiiforums.com/threads/je-nakumat-arusha-nao-wanafunga-biashara.1263054/"
+    },
+    {
+        "title": "Beki wa Liverpool, Mamadou Sakho ametua Arusha kwa mapumziko",
+        "published": "Mon, 05 Jun 2017 22:11:02 +0000",
+        "author": "real G",
+        "link": "https://www.jamiiforums.com/threads/beki-wa-liverpool-mamadou-sakho-ametua-arusha-kwa-mapumziko.1262837/"
+    },
+    {
+        "title": "Magoli mawili ya Ronaldo yaua Shabiki mmoja wa Juventus  Itigi Singida siku ya Jumamosi",
+        "published": "Mon, 05 Jun 2017 22:10:12 +0000",
+        "author": "MLAU",
+        "link": "https://www.jamiiforums.com/threads/magoli-mawili-ya-ronaldo-yaua-shabiki-mmoja-wa-juventus-itigi-singida-siku-ya-jumamosi.1263173/"
+    },
+    {
+        "title": "Hivi kwanini upatu inavamia nchi yetu kila siku, tatizo ni nini sasa kuna D9",
+        "published": "Mon, 05 Jun 2017 22:07:55 +0000",
+        "author": "Nyumbalao",
+        "link": "https://www.jamiiforums.com/threads/hivi-kwanini-upatu-inavamia-nchi-yetu-kila-siku-tatizo-ni-nini-sasa-kuna-d9.1263198/"
+    },
+    {
+        "title": "Hivi kwanini vijana wengi wa mtaani wanapenda sana lugha ya kizulu?",
+        "published": "Mon, 05 Jun 2017 21:51:35 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/hivi-kwanini-vijana-wengi-wa-mtaani-wanapenda-sana-lugha-ya-kizulu.1172375/"
+    },
+    {
+        "title": "Kwako Ewe mama Prof. Anna Tibaijuka na mbunge wa Muleba Kusini",
+        "published": "Mon, 05 Jun 2017 21:47:42 +0000",
+        "author": "malemwa",
+        "link": "https://www.jamiiforums.com/threads/kwako-ewe-mama-prof-anna-tibaijuka-na-mbunge-wa-muleba-kusini.1253046/"
+    },
+    {
+        "title": "Natafuta mashine ya Ku-bet",
+        "published": "Mon, 05 Jun 2017 21:43:18 +0000",
+        "author": "savo",
+        "link": "https://www.jamiiforums.com/threads/natafuta-mashine-ya-ku-bet.1262977/"
+    },
+    {
+        "title": "Tatizo ni nini kwa vijana wazawa wa Tanzania?",
+        "published": "Mon, 05 Jun 2017 21:41:29 +0000",
+        "author": "kijanamtanashati",
+        "link": "https://www.jamiiforums.com/threads/tatizo-ni-nini-kwa-vijana-wazawa-wa-tanzania.1262538/"
+    },
+    {
+        "title": "Askofu Gwajima",
+        "published": "Mon, 05 Jun 2017 21:35:16 +0000",
+        "author": "Kamilius S Boniface",
+        "link": "https://www.jamiiforums.com/threads/askofu-gwajima.1263215/"
+    },
+    {
+        "title": "Gwajima amshukia Mrisho Gambo msibani Moshi",
+        "published": "Mon, 05 Jun 2017 21:35:16 +0000",
+        "author": "Nucky Thompson",
+        "link": "https://www.jamiiforums.com/threads/gwajima-amshukia-mrisho-gambo-msibani-moshi.1263019/"
+    },
+    {
+        "title": "Gharama ya nauli Dar - Johanesburg kwa usafiri wa basi",
+        "published": "Mon, 05 Jun 2017 21:30:34 +0000",
+        "author": "steve_shemej",
+        "link": "https://www.jamiiforums.com/threads/gharama-ya-nauli-dar-johanesburg-kwa-usafiri-wa-basi.1261092/"
+    },
+    {
+        "title": "Una Milioni 50 na hujawahi kuzishika eti unawekeza kwenye nyumba",
+        "published": "Mon, 05 Jun 2017 21:28:44 +0000",
+        "author": "N'yadikwa",
+        "link": "https://www.jamiiforums.com/threads/una-milioni-50-na-hujawahi-kuzishika-eti-unawekeza-kwenye-nyumba.1263166/"
+    },
+    {
+        "title": "Lipi jiji zuri kati ya Mbeya na Tanga?",
+        "published": "Mon, 05 Jun 2017 21:27:38 +0000",
+        "author": "zipalapwata",
+        "link": "https://www.jamiiforums.com/threads/lipi-jiji-zuri-kati-ya-mbeya-na-tanga.1204683/"
+    },
+    {
+        "title": "Ramadhan Special Thread",
+        "published": "Mon, 05 Jun 2017 21:07:19 +0000",
+        "author": "Hance Mtanashati",
+        "link": "https://www.jamiiforums.com/threads/ramadhan-special-thread.1255002/"
+    },
+    {
+        "title": "Paka wa Muhimbili",
+        "published": "Mon, 05 Jun 2017 21:02:07 +0000",
+        "author": "mshana jr",
+        "link": "https://www.jamiiforums.com/threads/paka-wa-muhimbili.1262349/"
+    },
+    {
+        "title": "nyama nzuri ya kuchoma ya mbuzi",
+        "published": "Mon, 05 Jun 2017 20:57:46 +0000",
+        "author": "Dkileo",
+        "link": "https://www.jamiiforums.com/threads/nyama-nzuri-ya-kuchoma-ya-mbuzi.1263192/"
+    },
+    {
+        "title": "Rav 4 new model vs vanguard",
+        "published": "Mon, 05 Jun 2017 21:18:37 +0000",
+        "author": "Mgomele",
+        "link": "https://www.jamiiforums.com/threads/rav-4-new-model-vs-vanguard.1246990/"
+    },
+    {
+        "title": "Gari yangu imekuwa nzito",
+        "published": "Mon, 05 Jun 2017 19:52:34 +0000",
+        "author": "Machozi ya Simba",
+        "link": "https://www.jamiiforums.com/threads/gari-yangu-imekuwa-nzito.1262937/"
+    },
+    {
+        "title": "Mada maalum ya magari: Uzoefu, ushauri na maswali",
+        "published": "Mon, 05 Jun 2017 17:15:44 +0000",
+        "author": "mshana jr",
+        "link": "https://www.jamiiforums.com/threads/mada-maalum-ya-magari-uzoefu-ushauri-na-maswali.738936/"
+    },
+    {
+        "title": "Napendwa kuelimishwa juu ya hili gari la CARINA TI",
+        "published": "Mon, 05 Jun 2017 12:45:22 +0000",
+        "author": "melkiz",
+        "link": "https://www.jamiiforums.com/threads/napendwa-kuelimishwa-juu-ya-hili-gari-la-carina-ti.1240932/"
+    },
+    {
+        "title": "Ushauri kati ya hizi gari wanajamvi",
+        "published": "Mon, 05 Jun 2017 07:39:20 +0000",
+        "author": "Nktlogistics",
+        "link": "https://www.jamiiforums.com/threads/ushauri-kati-ya-hizi-gari-wanajamvi.1168857/"
+    },
+    {
+        "title": "Taa ya check engine",
+        "published": "Mon, 05 Jun 2017 04:30:47 +0000",
+        "author": "BRO SANTANA",
+        "link": "https://www.jamiiforums.com/threads/taa-ya-check-engine.1262622/"
+    },
+    {
+        "title": "vits old model & vits new model",
+        "published": "Sun, 04 Jun 2017 16:48:46 +0000",
+        "author": "mjumbe22",
+        "link": "https://www.jamiiforums.com/threads/vits-old-model-vits-new-model.1262458/"
+    },
+    {
+        "title": "2004 TOYOTA RAV4",
+        "published": "Sun, 04 Jun 2017 15:27:20 +0000",
+        "author": "MAGARI7",
+        "link": "https://www.jamiiforums.com/threads/2004-toyota-rav4.1261458/"
+    },
+    {
+        "title": "Fursa ya magari na vifaa vya magari",
+        "published": "Sun, 04 Jun 2017 09:04:07 +0000",
+        "author": "Mtemi wa Watemi",
+        "link": "https://www.jamiiforums.com/threads/fursa-ya-magari-na-vifaa-vya-magari.1258769/"
+    },
+    {
+        "title": "Gari  kunguruma sana",
+        "published": "Sun, 04 Jun 2017 08:21:23 +0000",
+        "author": "relis",
+        "link": "https://www.jamiiforums.com/threads/gari-kunguruma-sana.1258478/"
+    },
+    {
+        "title": "Matumizi sahihi ya taa za gari.",
+        "published": "Sun, 04 Jun 2017 08:02:43 +0000",
+        "author": "Dereva Suka",
+        "link": "https://www.jamiiforums.com/threads/matumizi-sahihi-ya-taa-za-gari.1169650/"
+    },
+    {
+        "title": "Hitaji kujifunza ufundi wa magari",
+        "published": "Sun, 04 Jun 2017 07:43:49 +0000",
+        "author": "igihumbi",
+        "link": "https://www.jamiiforums.com/threads/hitaji-kujifunza-ufundi-wa-magari.1261368/"
+    },
+    {
+        "title": "Magari yanayoongoza kwa ubovu duniani",
+        "published": "Sat, 03 Jun 2017 10:31:10 +0000",
+        "author": "mk4",
+        "link": "https://www.jamiiforums.com/threads/magari-yanayoongoza-kwa-ubovu-duniani.1248840/"
+    },
+    {
+        "title": "Natafuta kazi ya kuwa tingo kwenye magari makubwa ya mizigo au mafuta",
+        "published": "Sat, 03 Jun 2017 05:15:48 +0000",
+        "author": "bryanrt01",
+        "link": "https://www.jamiiforums.com/threads/natafuta-kazi-ya-kuwa-tingo-kwenye-magari-makubwa-ya-mizigo-au-mafuta.1253126/"
+    },
+    {
+        "title": "Naweza pata Alteza kwa Bei gani",
+        "published": "Fri, 02 Jun 2017 06:57:36 +0000",
+        "author": "herman3",
+        "link": "https://www.jamiiforums.com/threads/naweza-pata-alteza-kwa-bei-gani.1254042/"
+    },
+    {
+        "title": "Mambo usiyotakiwa kuyafanya unapoendesha gari la \u2018automatic transmission\u2019",
+        "published": "Thu, 01 Jun 2017 22:34:35 +0000",
+        "author": "Mkali_01",
+        "link": "https://www.jamiiforums.com/threads/mambo-usiyotakiwa-kuyafanya-unapoendesha-gari-la-automatic-transmission.1259346/"
+    },
+    {
+        "title": "2005 TOYOTA PREMIO",
+        "published": "Thu, 01 Jun 2017 13:14:47 +0000",
+        "author": "MAGARI7",
+        "link": "https://www.jamiiforums.com/threads/2005-toyota-premio.1260740/"
+    },
+    {
+        "title": "Nahitaji kuagiza gari nje",
+        "published": "Thu, 01 Jun 2017 10:22:32 +0000",
+        "author": "Johnkelly",
+        "link": "https://www.jamiiforums.com/threads/nahitaji-kuagiza-gari-nje.1260639/"
+    },
+    {
+        "title": "Ipi nichukue kati ya Ist Na Golf 4 gti!!",
+        "published": "Wed, 31 May 2017 14:59:35 +0000",
+        "author": "zhang laoshi",
+        "link": "https://www.jamiiforums.com/threads/ipi-nichukue-kati-ya-ist-na-golf-4-gti.1258622/"
+    },
+    {
+        "title": "Ushauri kuhusu gari ya kununua.",
+        "published": "Wed, 31 May 2017 14:03:40 +0000",
+        "author": "lubamba",
+        "link": "https://www.jamiiforums.com/threads/ushauri-kuhusu-gari-ya-kununua.1255615/"
+    },
+    {
+        "title": "Kenyaforum: Who is your best conversationalist?.",
+        "published": "Mon, 05 Jun 2017 21:37:51 +0000",
+        "author": "kadoda11",
+        "link": "https://www.jamiiforums.com/threads/kenyaforum-who-is-your-best-conversationalist.1262229/"
+    },
+    {
+        "title": "LAPSSET tracking",
+        "published": "Mon, 05 Jun 2017 20:28:42 +0000",
+        "author": "Geza Ulole",
+        "link": "https://www.jamiiforums.com/threads/lapsset-tracking.510583/"
+    },
+    {
+        "title": "Battle: Dar es Salaam vs Nairobi",
+        "published": "Mon, 05 Jun 2017 20:03:24 +0000",
+        "author": "Annael",
+        "link": "https://www.jamiiforums.com/threads/battle-dar-es-salaam-vs-nairobi.1179858/"
+    },
+    {
+        "title": "KENYA'S DEBT.",
+        "published": "Mon, 05 Jun 2017 19:55:46 +0000",
+        "author": "Kambalanick",
+        "link": "https://www.jamiiforums.com/threads/kenyas-debt.1263190/"
+    },
+    {
+        "title": "What does absence of COW at SGR launch mean?",
+        "published": "Mon, 05 Jun 2017 19:43:07 +0000",
+        "author": "Geza Ulole",
+        "link": "https://www.jamiiforums.com/threads/what-does-absence-of-cow-at-sgr-launch-mean.1260085/"
+    },
+    {
+        "title": "Kisumu City gallery, Kenya's 3rd city",
+        "published": "Mon, 05 Jun 2017 19:30:02 +0000",
+        "author": "ojey",
+        "link": "https://www.jamiiforums.com/threads/kisumu-city-gallery-kenyas-3rd-city.1233317/"
+    },
+    {
+        "title": "Mchina aweka wazi kwamba Uganda na Rwanda lazima watii ili wapate mkopo",
+        "published": "Mon, 05 Jun 2017 18:56:04 +0000",
+        "author": "MK254",
+        "link": "https://www.jamiiforums.com/threads/mchina-aweka-wazi-kwamba-uganda-na-rwanda-lazima-watii-ili-wapate-mkopo.1262565/"
+    },
+    {
+        "title": "Mwanza vs Nakuru",
+        "published": "Mon, 05 Jun 2017 18:53:25 +0000",
+        "author": "Geza Ulole",
+        "link": "https://www.jamiiforums.com/threads/mwanza-vs-nakuru.1034305/"
+    },
+    {
+        "title": "Mombasa City Gallery",
+        "published": "Mon, 05 Jun 2017 18:51:30 +0000",
+        "author": "mombasite gabriel",
+        "link": "https://www.jamiiforums.com/threads/mombasa-city-gallery.1176894/"
+    },
+    {
+        "title": "World bank ranks: Kenya second on logistics",
+        "published": "Mon, 05 Jun 2017 18:35:44 +0000",
+        "author": "Ian Cruz",
+        "link": "https://www.jamiiforums.com/threads/world-bank-ranks-kenya-second-on-logistics.1072847/"
+    },
+    {
+        "title": "Kenya urges AU to suspend Mugabe",
+        "published": "Mon, 05 Jun 2017 18:22:04 +0000",
+        "author": "BAK",
+        "link": "https://www.jamiiforums.com/threads/kenya-urges-au-to-suspend-mugabe.15055/"
+    },
+    {
+        "title": "Kenya ilikosa 3 Billion USD?",
+        "published": "Mon, 05 Jun 2017 18:05:36 +0000",
+        "author": "Barbarosa",
+        "link": "https://www.jamiiforums.com/threads/kenya-ilikosa-3-billion-usd.1262434/"
+    },
+    {
+        "title": "Kenya Kulikoni Jamani..hii ni dhiki tupu!!!!!",
+        "published": "Mon, 05 Jun 2017 17:46:55 +0000",
+        "author": "BAK",
+        "link": "https://www.jamiiforums.com/threads/kenya-kulikoni-jamani-hii-ni-dhiki-tupu.22897/"
+    },
+    {
+        "title": "Kenya sends a 13-member delegation to make a 5 min speech",
+        "published": "Mon, 05 Jun 2017 17:46:04 +0000",
+        "author": "macho_mdiliko",
+        "link": "https://www.jamiiforums.com/threads/kenya-sends-a-13-member-delegation-to-make-a-5-min-speech.30431/"
+    },
+    {
+        "title": "Qatar looks to grow food in Kenya",
+        "published": "Mon, 05 Jun 2017 17:44:58 +0000",
+        "author": "BAK",
+        "link": "https://www.jamiiforums.com/threads/qatar-looks-to-grow-food-in-kenya.21244/"
+    },
+    {
+        "title": "Raila Odinga Anena Kuhusu Ufisadi Kenya.",
+        "published": "Mon, 05 Jun 2017 17:42:30 +0000",
+        "author": "Mpaka Kieleweke",
+        "link": "https://www.jamiiforums.com/threads/raila-odinga-anena-kuhusu-ufisadi-kenya.15418/"
+    },
+    {
+        "title": "Tz,Kenya and Uganda enducation system, which one is better?",
+        "published": "Mon, 05 Jun 2017 17:41:43 +0000",
+        "author": "Mbeba Maono",
+        "link": "https://www.jamiiforums.com/threads/tz-kenya-and-uganda-enducation-system-which-one-is-better.16193/"
+    },
+    {
+        "title": "Hongera sana watani wetu wa jadi Kenya kwa kujizolea medali nyingi",
+        "published": "Mon, 05 Jun 2017 17:41:33 +0000",
+        "author": "Kichuguu",
+        "link": "https://www.jamiiforums.com/threads/hongera-sana-watani-wetu-wa-jadi-kenya-kwa-kujizolea-medali-nyingi.16950/"
+    },
+    {
+        "title": "IMF: Ethiopia's GDP to hit $78B this year, Kenya at $75B",
+        "published": "Mon, 05 Jun 2017 17:28:38 +0000",
+        "author": "Jay456watt",
+        "link": "https://www.jamiiforums.com/threads/imf-ethiopias-gdp-to-hit-78b-this-year-kenya-at-75b.1256891/"
+    },
+    {
+        "title": "Time for EAC to lower its sights & throw out political federation dream",
+        "published": "Mon, 05 Jun 2017 17:06:32 +0000",
+        "author": "mizan254",
+        "link": "https://www.jamiiforums.com/threads/time-for-eac-to-lower-its-sights-throw-out-political-federation-dream.1262928/"
+    },
+    {
+        "title": "Orodha Ya Matajiri Toka Tanzania",
+        "published": "Mon, 05 Jun 2017 22:30:25 +0000",
+        "author": "Ambiele Kiviele",
+        "link": "https://www.jamiiforums.com/threads/orodha-ya-matajiri-toka-tanzania.1262983/"
+    },
+    {
+        "title": "Zari achaguliwa kuwa msimamizi mkuu wa mali za marehemu Ivan Ssemwanga",
+        "published": "Mon, 05 Jun 2017 21:48:55 +0000",
+        "author": "beth",
+        "link": "https://www.jamiiforums.com/threads/zari-achaguliwa-kuwa-msimamizi-mkuu-wa-mali-za-marehemu-ivan-ssemwanga.1262953/"
+    },
+    {
+        "title": "Ushauri kwa Diamond kuhusu Kurasa zake za social media",
+        "published": "Mon, 05 Jun 2017 20:53:56 +0000",
+        "author": "danya",
+        "link": "https://www.jamiiforums.com/threads/ushauri-kwa-diamond-kuhusu-kurasa-zake-za-social-media.1260798/"
+    },
+    {
+        "title": "Zari na familia yake wameshawasili Uganda pamoja na mwili wa Ivan",
+        "published": "Mon, 05 Jun 2017 20:29:38 +0000",
+        "author": "Numbisa",
+        "link": "https://www.jamiiforums.com/threads/zari-na-familia-yake-wameshawasili-uganda-pamoja-na-mwili-wa-ivan.1258484/"
+    },
+    {
+        "title": "List ya massage parlour za Dar",
+        "published": "Mon, 05 Jun 2017 20:06:32 +0000",
+        "author": "lokiyo",
+        "link": "https://www.jamiiforums.com/threads/list-ya-massage-parlour-za-dar.574498/"
+    },
+    {
+        "title": "Happy birthday Jay Z. Mc mkali kuwahi kutokea tangu dunia iwepo",
+        "published": "Mon, 05 Jun 2017 19:20:45 +0000",
+        "author": "matumbo",
+        "link": "https://www.jamiiforums.com/threads/happy-birthday-jay-z-mc-mkali-kuwahi-kutokea-tangu-dunia-iwepo.982051/"
+    },
+    {
+        "title": "Mfahamu Jordi El Nino Pol",
+        "published": "Mon, 05 Jun 2017 18:34:53 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/mfahamu-jordi-el-nino-pol.1157956/"
+    },
+    {
+        "title": "Picha: Donald Trump aliigiza filamu ya Home Alone",
+        "published": "Mon, 05 Jun 2017 17:16:55 +0000",
+        "author": "Kibo10",
+        "link": "https://www.jamiiforums.com/threads/picha-donald-trump-aliigiza-filamu-ya-home-alone.990022/"
+    },
+    {
+        "title": "Yaliyomkuta Davido kutoka Sony,  sasa ni zamu ya Ali Kiba",
+        "published": "Mon, 05 Jun 2017 16:19:46 +0000",
+        "author": "Mr swax",
+        "link": "https://www.jamiiforums.com/threads/yaliyomkuta-davido-kutoka-sony-sasa-ni-zamu-ya-ali-kiba.1261616/"
+    },
+    {
+        "title": "Kuna wanaoomba ndoa kati ya Wema Sepetu na Mbwana Samatta",
+        "published": "Mon, 05 Jun 2017 14:17:54 +0000",
+        "author": "Sky Eclat",
+        "link": "https://www.jamiiforums.com/threads/kuna-wanaoomba-ndoa-kati-ya-wema-sepetu-na-mbwana-samatta.1261826/"
+    },
+    {
+        "title": "Maajabu: Waigizaji wa kike wa tamthiliya ya Siri za Familia!",
+        "published": "Mon, 05 Jun 2017 14:11:39 +0000",
+        "author": "Azarel",
+        "link": "https://www.jamiiforums.com/threads/maajabu-waigizaji-wa-kike-wa-tamthiliya-ya-siri-za-familia.1245487/"
+    },
+    {
+        "title": "Kuna kitu kibaya Wema Sepetu kafanyiwa(mtazamo wa jicho la tatu)",
+        "published": "Mon, 05 Jun 2017 13:58:02 +0000",
+        "author": "mshana jr",
+        "link": "https://www.jamiiforums.com/threads/kuna-kitu-kibaya-wema-sepetu-kafanyiwa-mtazamo-wa-jicho-la-tatu.1009598/"
+    },
+    {
+        "title": "Harmorapa kajiunga Freemason?",
+        "published": "Mon, 05 Jun 2017 13:06:11 +0000",
+        "author": "pmonluv",
+        "link": "https://www.jamiiforums.com/threads/harmorapa-kajiunga-freemason.1259236/"
+    },
+    {
+        "title": "Emmanuel Mbasha amtakia heri ya kuzaliwa mtalaka wake Frola Mbasha",
+        "published": "Mon, 05 Jun 2017 11:27:30 +0000",
+        "author": "Ngaliba Dume",
+        "link": "https://www.jamiiforums.com/threads/emmanuel-mbasha-amtakia-heri-ya-kuzaliwa-mtalaka-wake-frola-mbasha.1260719/"
+    },
+    {
+        "title": "Tujikumbushe tungo za Dr. Remmy Ongala- Open post",
+        "published": "Mon, 05 Jun 2017 10:47:16 +0000",
+        "author": "Kizimkazimkuu",
+        "link": "https://www.jamiiforums.com/threads/tujikumbushe-tungo-za-dr-remmy-ongala-open-post.100114/"
+    },
+    {
+        "title": "Mange Kimambi kaiponda serikali kuhusu ujio wa Beckham",
+        "published": "Mon, 05 Jun 2017 04:53:48 +0000",
+        "author": "RealTzboy",
+        "link": "https://www.jamiiforums.com/threads/mange-kimambi-kaiponda-serikali-kuhusu-ujio-wa-beckham.1261952/"
+    },
+    {
+        "title": "Huyu hapa anayedaiwa kumuigiza \"Wema kwenye Voice Note na Mbowe\"",
+        "published": "Mon, 05 Jun 2017 04:08:02 +0000",
+        "author": "Ethos",
+        "link": "https://www.jamiiforums.com/threads/huyu-hapa-anayedaiwa-kumuigiza-wema-kwenye-voice-note-na-mbowe.1262430/"
+    },
+    {
+        "title": "FidQ Kafunguka Kuhusu David Beckham Kupost Picha Bila ya kusema yupo Tanzania..",
+        "published": "Sun, 04 Jun 2017 22:10:27 +0000",
+        "author": "sanchez255",
+        "link": "https://www.jamiiforums.com/threads/fidq-kafunguka-kuhusu-david-beckham-kupost-picha-bila-ya-kusema-yupo-tanzania.1261456/"
+    },
+    {
+        "title": "Beka: Mkubwa Fella kuingia kwenye siasa kumesababisha Yamoto Band tushuke",
+        "published": "Sun, 04 Jun 2017 21:50:09 +0000",
+        "author": "Nucky Thompson",
+        "link": "https://www.jamiiforums.com/threads/beka-mkubwa-fella-kuingia-kwenye-siasa-kumesababisha-yamoto-band-tushuke.1258346/"
+    },
+    {
+        "title": "Wako Wapi Chesco Matunda na Chicago Matelephone?",
+        "published": "Sun, 04 Jun 2017 19:26:53 +0000",
+        "author": "babumapunda",
+        "link": "https://www.jamiiforums.com/threads/wako-wapi-chesco-matunda-na-chicago-matelephone.450055/"
+    },
+    {
+        "title": "BIASHARA YA DAGAA. WAKALI WA HIZI KAZI NIFUMBUE MDOGO WENU.",
+        "published": "Mon, 05 Jun 2017 21:34:17 +0000",
+        "author": "CathLiv",
+        "link": "https://www.jamiiforums.com/threads/biashara-ya-dagaa-wakali-wa-hizi-kazi-nifumbue-mdogo-wenu.1263214/"
+    },
+    {
+        "title": "Pata faida kila dakika kwa kutumia simu yako ya mkononi!",
+        "published": "Mon, 05 Jun 2017 21:34:04 +0000",
+        "author": "Shafi_Abeid",
+        "link": "https://www.jamiiforums.com/threads/pata-faida-kila-dakika-kwa-kutumia-simu-yako-ya-mkononi.1263204/"
+    },
+    {
+        "title": "FOREX: Biashara yenye utajiri mkubwa zaidi duniani ambayo hakuna benki itataka uijue!",
+        "published": "Mon, 05 Jun 2017 21:19:26 +0000",
+        "author": "ONTARIO",
+        "link": "https://www.jamiiforums.com/threads/forex-biashara-yenye-utajiri-mkubwa-zaidi-duniani-ambayo-hakuna-benki-itataka-uijue.1257266/"
+    },
+    {
+        "title": "Kuna mtu yeyote ameshatumia Payoneer Master Card?",
+        "published": "Mon, 05 Jun 2017 20:42:27 +0000",
+        "author": "Powder",
+        "link": "https://www.jamiiforums.com/threads/kuna-mtu-yeyote-ameshatumia-payoneer-master-card.1029515/"
+    },
+    {
+        "title": "Niko na mzigo wa nguo lakini frem sina. Nifanyeje",
+        "published": "Mon, 05 Jun 2017 20:40:42 +0000",
+        "author": "ladyvvvv",
+        "link": "https://www.jamiiforums.com/threads/niko-na-mzigo-wa-nguo-lakini-frem-sina-nifanyeje.1263116/"
+    },
+    {
+        "title": "Faida za Biashara za Dagaa",
+        "published": "Mon, 05 Jun 2017 20:07:07 +0000",
+        "author": "Makanya Jr.",
+        "link": "https://www.jamiiforums.com/threads/faida-za-biashara-za-dagaa.1017959/"
+    },
+    {
+        "title": "Nahitaji ving'amuzi  Vya Azam",
+        "published": "Mon, 05 Jun 2017 19:37:55 +0000",
+        "author": "mge",
+        "link": "https://www.jamiiforums.com/threads/nahitaji-vingamuzi-vya-azam.1263183/"
+    },
+    {
+        "title": "Biashara Vitendo SACCOS",
+        "published": "Mon, 05 Jun 2017 18:35:32 +0000",
+        "author": "Zainab Tamim",
+        "link": "https://www.jamiiforums.com/threads/biashara-vitendo-saccos.1262840/"
+    },
+    {
+        "title": "Biashara za mtaji mdogo",
+        "published": "Mon, 05 Jun 2017 18:24:34 +0000",
+        "author": "josze",
+        "link": "https://www.jamiiforums.com/threads/biashara-za-mtaji-mdogo.1260935/"
+    },
+    {
+        "title": "Msaada: Jinsi ya kuwa Wakala wa Tigo pesa, Mpesa na mitandao mingine",
+        "published": "Mon, 05 Jun 2017 16:47:25 +0000",
+        "author": "ApuG",
+        "link": "https://www.jamiiforums.com/threads/msaada-jinsi-ya-kuwa-wakala-wa-tigo-pesa-mpesa-na-mitandao-mingine.1263115/"
+    },
+    {
+        "title": "Fahamu utajiri kwenye biashara ya fedha za kigeni (FOREX TRADING)",
+        "published": "Mon, 05 Jun 2017 16:08:12 +0000",
+        "author": "Davion Delmonte Jr.",
+        "link": "https://www.jamiiforums.com/threads/fahamu-utajiri-kwenye-biashara-ya-fedha-za-kigeni-forex-trading.908750/"
+    },
+    {
+        "title": "Night club-ushauri",
+        "published": "Mon, 05 Jun 2017 16:05:05 +0000",
+        "author": "spray",
+        "link": "https://www.jamiiforums.com/threads/night-club-ushauri.1262700/"
+    },
+    {
+        "title": "Jaman  mwenye ujuzi  ya  biashara  ya  nafaka",
+        "published": "Mon, 05 Jun 2017 14:32:50 +0000",
+        "author": "onesmo edson",
+        "link": "https://www.jamiiforums.com/threads/jaman-mwenye-ujuzi-ya-biashara-ya-nafaka.1263053/"
+    },
+    {
+        "title": "Wakuu, njoo tujielimishe kuhusu hisa za Vodacom",
+        "published": "Mon, 05 Jun 2017 13:51:52 +0000",
+        "author": "figganigga",
+        "link": "https://www.jamiiforums.com/threads/wakuu-njoo-tujielimishe-kuhusu-hisa-za-vodacom.1221314/"
+    },
+    {
+        "title": "Kupaua nyumba (Makadirio ya gharama)",
+        "published": "Mon, 05 Jun 2017 12:07:40 +0000",
+        "author": "Dena Bura",
+        "link": "https://www.jamiiforums.com/threads/kupaua-nyumba-makadirio-ya-gharama.524560/"
+    },
+    {
+        "title": "Payoneer ni mbadala halisi wa PayPal!",
+        "published": "Mon, 05 Jun 2017 10:53:11 +0000",
+        "author": "Powder",
+        "link": "https://www.jamiiforums.com/threads/payoneer-ni-mbadala-halisi-wa-paypal.1197823/"
+    },
+    {
+        "title": "Biashara ya kusafirisha Mazao Nje ya Nchi",
+        "published": "Mon, 05 Jun 2017 10:12:59 +0000",
+        "author": "Elli",
+        "link": "https://www.jamiiforums.com/threads/biashara-ya-kusafirisha-mazao-nje-ya-nchi.1254892/"
+    },
+    {
+        "title": "Vigezo na masharti ya kupata kibali cha TBS na TFDA uzalishaji/uuzaji wa chakula",
+        "published": "Mon, 05 Jun 2017 09:22:17 +0000",
         "author": "DR.POLITICS",
-        "published": "Sun, 04 Jun 2017 17:04:28 +0000"
+        "link": "https://www.jamiiforums.com/threads/vigezo-na-masharti-ya-kupata-kibali-cha-tbs-na-tfda-uzalishaji-uuzaji-wa-chakula.1260522/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/nguruwe-hajaingia-joto-nifanyeje-wapendwa.1260151/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            16,
-            20,
-            58,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/nguruwe-hajaingia-joto-nifanyeje-wapendwa.1260151/"
-            }
-        ],
-        "title": "Nguruwe hajaingia joto nifanyeje wapendwa?",
-        "author_detail": {
-            "name": "MWANAWIMA",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Nguruwe hajaingia joto nifanyeje wapendwa?",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "MWANAWIMA",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "MWANAWIMA"
-            }
-        ],
-        "slash_comments": "34",
-        "link": "https://www.jamiiforums.com/threads/nguruwe-hajaingia-joto-nifanyeje-wapendwa.1260151/",
-        "author": "MWANAWIMA",
-        "published": "Sun, 04 Jun 2017 16:20:58 +0000"
+        "title": "Naomba uniulize chochote kuhusu kufanikiwa katika Biashara na Ujasiriamali",
+        "published": "Mon, 05 Jun 2017 08:16:56 +0000",
+        "author": "ONTARIO",
+        "link": "https://www.jamiiforums.com/threads/naomba-uniulize-chochote-kuhusu-kufanikiwa-katika-biashara-na-ujasiriamali.1254769/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/ufugaji-wa-nguruwe-utaalam-na-masoko.42162/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            15,
-            26,
-            44,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/ufugaji-wa-nguruwe-utaalam-na-masoko.42162/"
-            }
-        ],
-        "title": "Ufugaji wa Nguruwe: Utaalam na Masoko",
-        "author_detail": {
-            "name": "Amoeba",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Ufugaji wa Nguruwe: Utaalam na Masoko",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Amoeba",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Amoeba"
-            }
-        ],
-        "slash_comments": "1267",
-        "link": "https://www.jamiiforums.com/threads/ufugaji-wa-nguruwe-utaalam-na-masoko.42162/",
-        "author": "Amoeba",
-        "published": "Sun, 04 Jun 2017 15:26:44 +0000"
+        "title": "Kuanzisha Radio Station: Gharama halisi za Kuanzisha Radio kwa TZ.",
+        "published": "Mon, 05 Jun 2017 08:15:42 +0000",
+        "author": "Radio Producer",
+        "link": "https://www.jamiiforums.com/threads/kuanzisha-radio-station-gharama-halisi-za-kuanzisha-radio-kwa-tz.408770/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/msaada-kuwezesha-kilimo-changu.1262442/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            15,
-            1,
-            42,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/msaada-kuwezesha-kilimo-changu.1262442/"
-            }
-        ],
-        "title": "Msaada kuwezesha kilimo changu",
-        "author_detail": {
-            "name": "uroto",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Msaada kuwezesha kilimo changu",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "uroto",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "uroto"
-            }
-        ],
-        "slash_comments": "1",
-        "link": "https://www.jamiiforums.com/threads/msaada-kuwezesha-kilimo-changu.1262442/",
-        "author": "uroto",
-        "published": "Sun, 04 Jun 2017 15:01:42 +0000"
+        "title": "Cheick Tiote maneno yake ya mwisho leo asubuhi kabla ya kuaga Dunia",
+        "published": "Mon, 05 Jun 2017 22:08:35 +0000",
+        "author": "mmariii",
+        "link": "https://www.jamiiforums.com/threads/cheick-tiote-maneno-yake-ya-mwisho-leo-asubuhi-kabla-ya-kuaga-dunia.1263210/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/naomba-kujuzwa-gharama-za-kilimo-cha-vitunguu-kwa-heka.846354/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            13,
-            35,
-            26,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/naomba-kujuzwa-gharama-za-kilimo-cha-vitunguu-kwa-heka.846354/"
-            }
-        ],
-        "title": "Naomba kujuzwa gharama za kilimo cha vitunguu kwa Heka",
-        "author_detail": {
-            "name": "laurentie",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Naomba kujuzwa gharama za kilimo cha vitunguu kwa Heka",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "laurentie",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "laurentie"
-            }
-        ],
-        "slash_comments": "128",
-        "link": "https://www.jamiiforums.com/threads/naomba-kujuzwa-gharama-za-kilimo-cha-vitunguu-kwa-heka.846354/",
-        "author": "laurentie",
-        "published": "Sun, 04 Jun 2017 13:35:26 +0000"
+        "title": "Wote wanaomshabikia Christiano Ronaldo hawajui mpira na ni Wakengeukaji",
+        "published": "Mon, 05 Jun 2017 22:05:41 +0000",
+        "author": "GENTAMYCINE",
+        "link": "https://www.jamiiforums.com/threads/wote-wanaomshabikia-christiano-ronaldo-hawajui-mpira-na-ni-wakengeukaji.1262947/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/nataka-kulima-heka-moja-ya-viazi.1255622/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            13,
-            33,
-            17,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/nataka-kulima-heka-moja-ya-viazi.1255622/"
-            }
-        ],
-        "title": "Nataka kulima heka moja ya viazi",
-        "author_detail": {
-            "name": "tzhello",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Nataka kulima heka moja ya viazi",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "tzhello",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "tzhello"
-            }
-        ],
-        "slash_comments": "11",
-        "link": "https://www.jamiiforums.com/threads/nataka-kulima-heka-moja-ya-viazi.1255622/",
-        "author": "tzhello",
-        "published": "Sun, 04 Jun 2017 13:33:17 +0000"
+        "title": "Wazee wenzangu wa kuweka mzigo (kubet) - Karibuni tubashiri Mechi za Leo!",
+        "published": "Mon, 05 Jun 2017 21:27:22 +0000",
+        "author": "Rockcity native",
+        "link": "https://www.jamiiforums.com/threads/wazee-wenzangu-wa-kuweka-mzigo-kubet-karibuni-tubashiri-mechi-za-leo.575362/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/moja-ya-sababu-zinazopelekea-mkulima-kuangukia-pua-kwa-kilimo-cha-mwanzo.1253150/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            13,
-            24,
-            31,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/moja-ya-sababu-zinazopelekea-mkulima-kuangukia-pua-kwa-kilimo-cha-mwanzo.1253150/"
-            }
-        ],
-        "title": "Moja ya Sababu zinazopelekea mkulima kuangukia pua kwa kilimo cha mwanzo",
-        "author_detail": {
-            "name": "Markomx",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Moja ya Sababu zinazopelekea mkulima kuangukia pua kwa kilimo cha mwanzo",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Markomx",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Markomx"
-            }
-        ],
-        "slash_comments": "19",
-        "link": "https://www.jamiiforums.com/threads/moja-ya-sababu-zinazopelekea-mkulima-kuangukia-pua-kwa-kilimo-cha-mwanzo.1253150/",
-        "author": "Markomx",
-        "published": "Sun, 04 Jun 2017 13:24:31 +0000"
+        "title": "Unakumbuka Hizi ?",
+        "published": "Mon, 05 Jun 2017 21:23:46 +0000",
+        "author": "Shy",
+        "link": "https://www.jamiiforums.com/threads/unakumbuka-hizi.6919/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/nataka-kulima-heka-moja-ya-viazi.1255637/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            13,
-            16,
-            24,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/nataka-kulima-heka-moja-ya-viazi.1255637/"
-            }
-        ],
-        "title": "Nataka kulima heka moja ya viazi",
-        "author_detail": {
-            "name": "tzhello",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Nataka kulima heka moja ya viazi",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "tzhello",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "tzhello"
-            }
-        ],
-        "slash_comments": "1",
-        "link": "https://www.jamiiforums.com/threads/nataka-kulima-heka-moja-ya-viazi.1255637/",
-        "author": "tzhello",
-        "published": "Sun, 04 Jun 2017 13:16:24 +0000"
+        "title": "ITV na michuano ya Sports Pesa",
+        "published": "Mon, 05 Jun 2017 21:01:17 +0000",
+        "author": "mount kili",
+        "link": "https://www.jamiiforums.com/threads/itv-na-michuano-ya-sports-pesa.1262969/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/kuanzisha-biashara-ya-hardware.1256761/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            13,
-            14,
-            20,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kuanzisha-biashara-ya-hardware.1256761/"
-            }
-        ],
-        "title": "Kuanzisha biashara ya Hardware",
-        "author_detail": {
-            "name": "laii",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kuanzisha biashara ya Hardware",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "laii",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "laii"
-            }
-        ],
-        "slash_comments": "1",
-        "link": "https://www.jamiiforums.com/threads/kuanzisha-biashara-ya-hardware.1256761/",
-        "author": "laii",
-        "published": "Sun, 04 Jun 2017 13:14:20 +0000"
+        "title": "JAMANI UKWELI KUHUSU \"BIKO\"",
+        "published": "Mon, 05 Jun 2017 20:44:49 +0000",
+        "author": "loupa",
+        "link": "https://www.jamiiforums.com/threads/jamani-ukweli-kuhusu-biko.1256819/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/fuga-kuku-watano-kienyeji-upate-200-kwa-miezi-sita.1157020/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            12,
-            21,
-            0,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/fuga-kuku-watano-kienyeji-upate-200-kwa-miezi-sita.1157020/"
-            }
-        ],
-        "title": "Fuga kuku watano kienyeji upate 200 kwa miezi sita",
-        "author_detail": {
-            "name": "pima2",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Fuga kuku watano kienyeji upate 200 kwa miezi sita",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "pima2",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "pima2"
-            }
-        ],
-        "slash_comments": "46",
-        "link": "https://www.jamiiforums.com/threads/fuga-kuku-watano-kienyeji-upate-200-kwa-miezi-sita.1157020/",
-        "author": "pima2",
-        "published": "Sun, 04 Jun 2017 12:21:00 +0000"
+        "title": "Cheik Tiote afariki Dunia akiwa mazoezini",
+        "published": "Mon, 05 Jun 2017 20:42:25 +0000",
+        "author": "Ethos",
+        "link": "https://www.jamiiforums.com/threads/cheik-tiote-afariki-dunia-akiwa-mazoezini.1263088/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/msaada-kuhusu-mbegu-za-nyanya.1208553/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            12,
-            19,
-            20,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/msaada-kuhusu-mbegu-za-nyanya.1208553/"
-            }
-        ],
-        "title": "Msaada kuhusu mbegu za nyanya",
-        "author_detail": {
-            "name": "eddy_mhando",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Msaada kuhusu mbegu za nyanya",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "eddy_mhando",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "eddy_mhando"
-            }
-        ],
-        "slash_comments": "180",
-        "link": "https://www.jamiiforums.com/threads/msaada-kuhusu-mbegu-za-nyanya.1208553/",
-        "author": "eddy_mhando",
-        "published": "Sun, 04 Jun 2017 12:19:20 +0000"
+        "title": "Huyu Mchezaji Hajui Kuandika Mkataba Atauelewa kweli?",
+        "published": "Mon, 05 Jun 2017 20:38:03 +0000",
+        "author": "danya",
+        "link": "https://www.jamiiforums.com/threads/huyu-mchezaji-hajui-kuandika-mkataba-atauelewa-kweli.1263162/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/msaada-stray-cat-kahamia-kwangu.1262316/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            11,
-            31,
-            57,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/msaada-stray-cat-kahamia-kwangu.1262316/"
-            }
-        ],
-        "title": "Msaada: stray Cat kahamia Kwangu",
-        "author_detail": {
-            "name": "Balacuda",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Msaada: stray Cat kahamia Kwangu",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Balacuda",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Balacuda"
-            }
-        ],
-        "slash_comments": "3",
-        "link": "https://www.jamiiforums.com/threads/msaada-stray-cat-kahamia-kwangu.1262316/",
-        "author": "Balacuda",
-        "published": "Sun, 04 Jun 2017 11:31:57 +0000"
+        "title": "SPORTPESA SUPER CUP SPECIAL THREAD: Taarifa za Mechi zote na matokeo yote mpaka Ubingwa.",
+        "published": "Mon, 05 Jun 2017 20:37:50 +0000",
+        "author": "Tanzania2016",
+        "link": "https://www.jamiiforums.com/threads/sportpesa-super-cup-special-thread-taarifa-za-mechi-zote-na-matokeo-yote-mpaka-ubingwa.1262627/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/mafunzo-ya-kilimo-cha-kisasa-cha-greenhouse.658468/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            9,
-            48,
-            39,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/mafunzo-ya-kilimo-cha-kisasa-cha-greenhouse.658468/"
-            }
-        ],
-        "title": "Mafunzo ya kilimo cha kisasa cha greenhouse",
-        "author_detail": {
-            "name": "Biashara2000",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Mafunzo ya kilimo cha kisasa cha greenhouse",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Biashara2000",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Biashara2000"
-            }
-        ],
-        "slash_comments": "182",
-        "link": "https://www.jamiiforums.com/threads/mafunzo-ya-kilimo-cha-kisasa-cha-greenhouse.658468/",
-        "author": "Biashara2000",
-        "published": "Sun, 04 Jun 2017 09:48:39 +0000"
+        "title": "Real Madrid Special Thread",
+        "published": "Mon, 05 Jun 2017 20:17:49 +0000",
+        "author": "Salamander",
+        "link": "https://www.jamiiforums.com/threads/real-madrid-special-thread.736681/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/tathmini-ya-mapato-ya-kilimo-cha-michungwa-1000-baada-ya-miaka-3.378789/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            7,
-            23,
-            30,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/tathmini-ya-mapato-ya-kilimo-cha-michungwa-1000-baada-ya-miaka-3.378789/"
-            }
-        ],
-        "title": "Tathmini ya mapato ya kilimo cha michungwa 1000 baada ya miaka 3",
-        "author_detail": {
-            "name": "Kahtan Ahmed",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Tathmini ya mapato ya kilimo cha michungwa 1000 baada ya miaka 3",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Kahtan Ahmed",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Kahtan Ahmed"
-            }
-        ],
-        "slash_comments": "157",
-        "link": "https://www.jamiiforums.com/threads/tathmini-ya-mapato-ya-kilimo-cha-michungwa-1000-baada-ya-miaka-3.378789/",
-        "author": "Kahtan Ahmed",
-        "published": "Sun, 04 Jun 2017 07:23:30 +0000"
+        "title": "Football made in Germany (Bundesliga) special thread",
+        "published": "Mon, 05 Jun 2017 19:18:17 +0000",
+        "author": "sakapambo",
+        "link": "https://www.jamiiforums.com/threads/football-made-in-germany-bundesliga-special-thread.849532/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/msaada-wa-kutambua-hii-mali.1262180/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            6,
-            18,
-            16,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/msaada-wa-kutambua-hii-mali.1262180/"
-            }
-        ],
+        "title": "FC Barcelona Special Thread",
+        "published": "Mon, 05 Jun 2017 19:00:38 +0000",
+        "author": "Nzokanhyilu",
+        "link": "https://www.jamiiforums.com/threads/fc-barcelona-special-thread.70713/"
+    },
+    {
+        "title": "Liverpool FC, special thread",
+        "published": "Mon, 05 Jun 2017 18:29:19 +0000",
+        "author": "Mbu",
+        "link": "https://www.jamiiforums.com/threads/liverpool-fc-special-thread.22826/"
+    },
+    {
+        "title": "Hivi bingwa wa Epl, FA, UEFA  na kombe la ligi hupewa kiasi gani ?",
+        "published": "Mon, 05 Jun 2017 18:24:44 +0000",
+        "author": "ibesa mau",
+        "link": "https://www.jamiiforums.com/threads/hivi-bingwa-wa-epl-fa-uefa-na-kombe-la-ligi-hupewa-kiasi-gani.1262235/"
+    },
+    {
+        "title": "Cheki Real Madrid walivyopokelewa kifalme baada ya kutwaa kombe  la UCL",
+        "published": "Mon, 05 Jun 2017 17:57:01 +0000",
+        "author": "kirerenya",
+        "link": "https://www.jamiiforums.com/threads/cheki-real-madrid-walivyopokelewa-kifalme-baada-ya-kutwaa-kombe-la-ucl.1262806/"
+    },
+    {
+        "title": "Ghana: Kanisa laandaa Ibada ya kusherehekea Ushindi wa Chelsea",
+        "published": "Mon, 05 Jun 2017 17:41:11 +0000",
+        "author": "figganigga",
+        "link": "https://www.jamiiforums.com/threads/ghana-kanisa-laandaa-ibada-ya-kusherehekea-ushindi-wa-chelsea.1263137/"
+    },
+    {
+        "title": "Manchester United (Red Devils) Special Thread",
+        "published": "Mon, 05 Jun 2017 17:00:31 +0000",
+        "author": "Idimi",
+        "link": "https://www.jamiiforums.com/threads/manchester-united-red-devils-special-thread.7036/"
+    },
+    {
+        "title": "Kumbe LIBOLO FC ndio waliomfukuza Malkia wa Nyuki Simba!",
+        "published": "Mon, 05 Jun 2017 16:53:50 +0000",
+        "author": "demigod",
+        "link": "https://www.jamiiforums.com/threads/kumbe-libolo-fc-ndio-waliomfukuza-malkia-wa-nyuki-simba.1261740/"
+    },
+    {
+        "title": "Mambo ya kufanya ili Simba itishe katika kombe la shirikisho",
+        "published": "Mon, 05 Jun 2017 16:29:25 +0000",
+        "author": "thechosenone",
+        "link": "https://www.jamiiforums.com/threads/mambo-ya-kufanya-ili-simba-itishe-katika-kombe-la-shirikisho.1262576/"
+    },
+    {
+        "title": "Tiote wa Newcastle  afariki gafla baada ya kudodonka mazoezini....",
+        "published": "Mon, 05 Jun 2017 16:13:28 +0000",
+        "author": "kasenene",
+        "link": "https://www.jamiiforums.com/threads/tiote-wa-newcastle-afariki-gafla-baada-ya-kudodonka-mazoezini.1263091/"
+    },
+    {
+        "title": "Mahakama ya Rufaa yaondoa utata wa rufani za Mahakama ya Kazi",
+        "published": "Mon, 05 Jun 2017 19:22:50 +0000",
+        "author": "Rutashubanyuma",
+        "link": "https://www.jamiiforums.com/threads/mahakama-ya-rufaa-yaondoa-utata-wa-rufani-za-mahakama-ya-kazi.1263084/"
+    },
+    {
+        "title": "Ni Jaji yupi ambaye hukumu zake unapenda sana kuzisoma?",
+        "published": "Mon, 05 Jun 2017 18:55:24 +0000",
+        "author": "ChamaDola",
+        "link": "https://www.jamiiforums.com/threads/ni-jaji-yupi-ambaye-hukumu-zake-unapenda-sana-kuzisoma.1263150/"
+    },
+    {
+        "title": "Legal documents na uchambuzi wa masuala ya kisheria hapa",
+        "published": "Mon, 05 Jun 2017 12:56:54 +0000",
+        "author": "Dragoon",
+        "link": "https://www.jamiiforums.com/threads/legal-documents-na-uchambuzi-wa-masuala-ya-kisheria-hapa.905368/"
+    },
+    {
+        "title": "Sheria Ya Makosa Mitandaoni Ya Mwaka 2015: Ibara Ya 13 , Kuhusu Kuharibu Uchunguzi",
+        "published": "Mon, 05 Jun 2017 12:14:57 +0000",
+        "author": "JINOME",
+        "link": "https://www.jamiiforums.com/threads/sheria-ya-makosa-mitandaoni-ya-mwaka-2015-ibara-ya-13-kuhusu-kuharibu-uchunguzi.1262943/"
+    },
+    {
+        "title": "KUTO ONEKANA KWA FILE CMA.",
+        "published": "Mon, 05 Jun 2017 10:11:34 +0000",
+        "author": "Inamonga",
+        "link": "https://www.jamiiforums.com/threads/kuto-onekana-kwa-file-cma.1262880/"
+    },
+    {
+        "title": "Nini cha kufanya unaponyimwa haki ya dhamana",
+        "published": "Mon, 05 Jun 2017 04:39:22 +0000",
+        "author": "gsmsolution2009",
+        "link": "https://www.jamiiforums.com/threads/nini-cha-kufanya-unaponyimwa-haki-ya-dhamana.1262134/"
+    },
+    {
+        "title": "Waajiliwa wa mahakama waliofukuzwa:PUBLIC INTEREST TERMINATION OF CIVIL SERVANT OR DISMISSAL AT WILL",
+        "published": "Mon, 05 Jun 2017 03:23:02 +0000",
+        "author": "Retired",
+        "link": "https://www.jamiiforums.com/threads/waajiliwa-wa-mahakama-waliofukuzwa-public-interest-termination-of-civil-servant-or-dismissal-at-will.1262658/"
+    },
+    {
+        "title": "Je umefungua/unataka kufungua kampuni, jifunze kampuni yako inavyotakiwa kulipa kodi kisheria",
+        "published": "Sun, 04 Jun 2017 10:03:21 +0000",
+        "author": "figganigga",
+        "link": "https://www.jamiiforums.com/threads/je-umefungua-unataka-kufungua-kampuni-jifunze-kampuni-yako-inavyotakiwa-kulipa-kodi-kisheria.794505/"
+    },
+    {
+        "title": "Msaada wenu wanasheria",
+        "published": "Sun, 04 Jun 2017 09:38:09 +0000",
+        "author": "K NI K",
+        "link": "https://www.jamiiforums.com/threads/msaada-wenu-wanasheria.1245647/"
+    },
+    {
+        "title": "Naombeni msaada",
+        "published": "Sat, 03 Jun 2017 10:44:39 +0000",
+        "author": "gsmsolution2009",
+        "link": "https://www.jamiiforums.com/threads/naombeni-msaada.1261707/"
+    },
+    {
+        "title": "Sheria ya makosa mitandaoni ya 2015 ibara ya 9",
+        "published": "Sat, 03 Jun 2017 09:55:49 +0000",
+        "author": "JINOME",
+        "link": "https://www.jamiiforums.com/threads/sheria-ya-makosa-mitandaoni-ya-2015-ibara-ya-9.1261150/"
+    },
+    {
+        "title": "MSAADA WA SHERIA YA UMILIKI WA ARDHI KIJIJINI",
+        "published": "Sat, 03 Jun 2017 09:18:08 +0000",
+        "author": "loupa",
+        "link": "https://www.jamiiforums.com/threads/msaada-wa-sheria-ya-umiliki-wa-ardhi-kijijini.1259958/"
+    },
+    {
+        "title": "TAFSILI YA SHERIA TZ",
+        "published": "Sat, 03 Jun 2017 08:58:47 +0000",
+        "author": "Mosahe",
+        "link": "https://www.jamiiforums.com/threads/tafsili-ya-sheria-tz.1261648/"
+    },
+    {
+        "title": "Kubambikia Wananchi Kesi, Itungwe Sheria Kuwabana Polisi",
+        "published": "Sat, 03 Jun 2017 02:56:07 +0000",
+        "author": "1954tanu",
+        "link": "https://www.jamiiforums.com/threads/kubambikia-wananchi-kesi-itungwe-sheria-kuwabana-polisi.1261516/"
+    },
+    {
+        "title": "Kwa yeyote Mwenye shida ya sheria za kazi",
+        "published": "Fri, 02 Jun 2017 21:30:38 +0000",
+        "author": "chumvichumvi",
+        "link": "https://www.jamiiforums.com/threads/kwa-yeyote-mwenye-shida-ya-sheria-za-kazi.1067358/"
+    },
+    {
+        "title": "Utaratibu na gharama za kupata hatimiliki ya nyumba/kiwanja",
+        "published": "Fri, 02 Jun 2017 11:32:11 +0000",
+        "author": "marandu2010",
+        "link": "https://www.jamiiforums.com/threads/utaratibu-na-gharama-za-kupata-hatimiliki-ya-nyumba-kiwanja.70795/"
+    },
+    {
+        "title": "Likizo ya Uzazi Miezi Sita?",
+        "published": "Fri, 02 Jun 2017 05:04:48 +0000",
+        "author": "CHA The GREAT",
+        "link": "https://www.jamiiforums.com/threads/likizo-ya-uzazi-miezi-sita.1261009/"
+    },
+    {
+        "title": "naombeni ushauri wa kisheria juu ya hichi kiwanja ili kiuzike",
+        "published": "Thu, 01 Jun 2017 18:57:39 +0000",
+        "author": "Charlie chaplin",
+        "link": "https://www.jamiiforums.com/threads/naombeni-ushauri-wa-kisheria-juu-ya-hichi-kiwanja-ili-kiuzike.1259250/"
+    },
+    {
+        "title": "Bei elekezi ya sukari",
+        "published": "Tue, 30 May 2017 14:46:32 +0000",
+        "author": "Boeing",
+        "link": "https://www.jamiiforums.com/threads/bei-elekezi-ya-sukari.1259678/"
+    },
+    {
+        "title": "Msaada wa kisheria namna ya kumfikisha mahakamani Waziri Mkuu mstaafu aliyekwapua pesa za Richmond",
+        "published": "Tue, 30 May 2017 13:15:46 +0000",
+        "author": "nanyupu",
+        "link": "https://www.jamiiforums.com/threads/msaada-wa-kisheria-namna-ya-kumfikisha-mahakamani-waziri-mkuu-mstaafu-aliyekwapua-pesa-za-richmond.1259191/"
+    },
+    {
+        "title": "Askari wa Bunge wapangiwa vituo vingine vya kazi kwa kusuasua kumnyakua Mnyika",
+        "published": "Mon, 05 Jun 2017 22:20:24 +0000",
+        "author": "Kurzweil",
+        "link": "https://www.jamiiforums.com/threads/askari-wa-bunge-wapangiwa-vituo-vingine-vya-kazi-kwa-kusuasua-kumnyakua-mnyika.1262885/"
+    },
+    {
+        "title": "TANZIA: Balozi Abdul Sisco Mtiro afariki dunia hospitali ya Aga Khan",
+        "published": "Mon, 05 Jun 2017 22:18:16 +0000",
+        "author": "Chachu Ombara",
+        "link": "https://www.jamiiforums.com/threads/tanzia-balozi-abdul-sisco-mtiro-afariki-dunia-hospitali-ya-aga-khan.1262765/"
+    },
+    {
+        "title": "Rais Magufuli kauli yako inaenda kuizika elimu ya juu",
+        "published": "Mon, 05 Jun 2017 22:17:43 +0000",
+        "author": "Aaron",
+        "link": "https://www.jamiiforums.com/threads/rais-magufuli-kauli-yako-inaenda-kuizika-elimu-ya-juu.1262867/"
+    },
+    {
+        "title": "Maaskofu Wa RC na wengine,Wangekuwa kama Gwajima nchi hii ingepona",
+        "published": "Mon, 05 Jun 2017 22:16:19 +0000",
+        "author": "Kibo10",
+        "link": "https://www.jamiiforums.com/threads/maaskofu-wa-rc-na-wengine-wangekuwa-kama-gwajima-nchi-hii-ingepona.1263109/"
+    },
+    {
+        "title": "Ndugai: Askari nikisema mbunge atoke akikaidi mpigeni nawaruhusu",
+        "published": "Mon, 05 Jun 2017 22:14:53 +0000",
+        "author": "Return Of Undertaker",
+        "link": "https://www.jamiiforums.com/threads/ndugai-askari-nikisema-mbunge-atoke-akikaidi-mpigeni-nawaruhusu.1262894/"
+    },
+    {
+        "title": "HISTORIA YA WASAFWA WENYEJI WA MBEYA WAO HUITA IMBEYA AU BHEYA",
+        "published": "Mon, 05 Jun 2017 22:04:08 +0000",
+        "author": "justin mwanshinga",
+        "link": "https://www.jamiiforums.com/threads/historia-ya-wasafwa-wenyeji-wa-mbeya-wao-huita-imbeya-au-bheya.1263212/"
+    },
+    {
+        "title": "Dodoma: Wabunge Ester Bulaya na Halima Mdee Wafungiwa Vikao vya Bunge kwa mwaka mzima",
+        "published": "Mon, 05 Jun 2017 22:04:05 +0000",
+        "author": "figganigga",
+        "link": "https://www.jamiiforums.com/threads/dodoma-wabunge-ester-bulaya-na-halima-mdee-wafungiwa-vikao-vya-bunge-kwa-mwaka-mzima.1262850/"
+    },
+    {
+        "title": "WAZO; Nafikiria Kuandaa Mapokezi ya Mbunge Wetu(KAWE) siku atakaporudi Dar.",
+        "published": "Mon, 05 Jun 2017 22:03:09 +0000",
+        "author": "Mgibeon",
+        "link": "https://www.jamiiforums.com/threads/wazo-nafikiria-kuandaa-mapokezi-ya-mbunge-wetu-kawe-siku-atakaporudi-dar.1263126/"
+    },
+    {
+        "title": "Rais Magufuli apokea msaada wa malori 2 ya kuzolea taka kutoka ubalozi wa Kuwait",
+        "published": "Mon, 05 Jun 2017 21:58:14 +0000",
+        "author": "Chachu Ombara",
+        "link": "https://www.jamiiforums.com/threads/rais-magufuli-apokea-msaada-wa-malori-2-ya-kuzolea-taka-kutoka-ubalozi-wa-kuwait.1262941/"
+    },
+    {
+        "title": "Wabunge wa upinzani wamshangilia mbunge wa viti maalum CCM",
+        "published": "Mon, 05 Jun 2017 21:57:51 +0000",
+        "author": "real G",
+        "link": "https://www.jamiiforums.com/threads/wabunge-wa-upinzani-wamshangilia-mbunge-wa-viti-maalum-ccm.1260096/"
+    },
+    {
+        "title": "Ndugai: Ningeamua ningeamuru Bulaya na Halima wakamatwe huko Moshi waletwe hapa kwa usafiri wowote",
+        "published": "Mon, 05 Jun 2017 21:45:09 +0000",
+        "author": "Waziri kivuli",
+        "link": "https://www.jamiiforums.com/threads/ndugai-ningeamua-ningeamuru-bulaya-na-halima-wakamatwe-huko-moshi-waletwe-hapa-kwa-usafiri-wowote.1263014/"
+    },
+    {
+        "title": "Wabunge wasema adhabu waliyopewa Halima na Bulaya haitoshi, mwingine ataka wafutwe kabisa ubunge",
+        "published": "Mon, 05 Jun 2017 21:39:20 +0000",
+        "author": "Nucky Thompson",
+        "link": "https://www.jamiiforums.com/threads/wabunge-wasema-adhabu-waliyopewa-halima-na-bulaya-haitoshi-mwingine-ataka-wafutwe-kabisa-ubunge.1263082/"
+    },
+    {
+        "title": "Ukweli haupingiki; Wazanzibar tunadhulumiwa na TANESCO kwa kuwekewa makato ya ziada kwenye umeme",
+        "published": "Mon, 05 Jun 2017 21:36:38 +0000",
+        "author": "aleesha",
+        "link": "https://www.jamiiforums.com/threads/ukweli-haupingiki-wazanzibar-tunadhulumiwa-na-tanesco-kwa-kuwekewa-makato-ya-ziada-kwenye-umeme.1263141/"
+    },
+    {
+        "title": "Halima Mdee: Porojo za Dodoma haziniumizi",
+        "published": "Mon, 05 Jun 2017 21:33:53 +0000",
+        "author": "Francis12",
+        "link": "https://www.jamiiforums.com/threads/halima-mdee-porojo-za-dodoma-haziniumizi.1262974/"
+    },
+    {
+        "title": "Yaliyojiri katika kuaga Mwili wa Marehemu Philemon Ndesamburo",
+        "published": "Mon, 05 Jun 2017 21:31:32 +0000",
+        "author": "Chibudee",
+        "link": "https://www.jamiiforums.com/threads/yaliyojiri-katika-kuaga-mwili-wa-marehemu-philemon-ndesamburo.1262815/"
+    },
+    {
+        "title": "Kuwait yatoa msaada wa Tsh 110 bilioni kwa ajili ya kujenga barabara mkoani Tabora",
+        "published": "Mon, 05 Jun 2017 21:30:25 +0000",
+        "author": "Chachu Ombara",
+        "link": "https://www.jamiiforums.com/threads/kuwait-yatoa-msaada-wa-tsh-110-bilioni-kwa-ajili-ya-kujenga-barabara-mkoani-tabora.1262966/"
+    },
+    {
+        "title": "Usimfanyie mwenzako usichopenda kufanyiwa, huo ndio uadilifu",
+        "published": "Mon, 05 Jun 2017 21:27:15 +0000",
+        "author": "betlehem",
+        "link": "https://www.jamiiforums.com/threads/usimfanyie-mwenzako-usichopenda-kufanyiwa-huo-ndio-uadilifu.1262262/"
+    },
+    {
+        "title": "Spika Ndugai na Bunge lake hawana taarifa ya kifo cha Ndesamburo?",
+        "published": "Mon, 05 Jun 2017 20:58:15 +0000",
+        "author": "Mzalendo2015",
+        "link": "https://www.jamiiforums.com/threads/spika-ndugai-na-bunge-lake-hawana-taarifa-ya-kifo-cha-ndesamburo.1263156/"
+    },
+    {
+        "title": "Tabora Mjini hakuna Maji kwa siku ya tisa mfululizo",
+        "published": "Mon, 05 Jun 2017 20:45:50 +0000",
+        "author": "Mpangawangu",
+        "link": "https://www.jamiiforums.com/threads/tabora-mjini-hakuna-maji-kwa-siku-ya-tisa-mfululizo.1263197/"
+    },
+    {
+        "title": "Bunge la sasa limekuwa ni Bunge Uchwara limepoteza mwelekeo",
+        "published": "Mon, 05 Jun 2017 20:43:23 +0000",
+        "author": "BAK",
+        "link": "https://www.jamiiforums.com/threads/bunge-la-sasa-limekuwa-ni-bunge-uchwara-limepoteza-mwelekeo.1261613/"
+    },
+    {
+        "title": "Kazi: anahitajika mhudumu mgahawani, dsm",
+        "published": "Mon, 05 Jun 2017 21:10:52 +0000",
+        "author": "diranqhe",
+        "link": "https://www.jamiiforums.com/threads/kazi-anahitajika-mhudumu-mgahawani-dsm.1263012/"
+    },
+    {
+        "title": "Naomba updates za Interview ya TANESCO",
+        "published": "Mon, 05 Jun 2017 20:45:27 +0000",
+        "author": "ISAYA ELINEEMA",
+        "link": "https://www.jamiiforums.com/threads/naomba-updates-za-interview-ya-tanesco.1262675/"
+    },
+    {
+        "title": "Nafasi za JKT mwaka 2017 zinatoka lini?",
+        "published": "Mon, 05 Jun 2017 20:41:17 +0000",
+        "author": "dracular",
+        "link": "https://www.jamiiforums.com/threads/nafasi-za-jkt-mwaka-2017-zinatoka-lini.1181157/"
+    },
+    {
+        "title": "MAHAKAMA Tuliositishiwa Ajira June 2006",
+        "published": "Mon, 05 Jun 2017 19:29:08 +0000",
+        "author": "Njalaliko",
+        "link": "https://www.jamiiforums.com/threads/mahakama-tuliositishiwa-ajira-june-2006.1260641/"
+    },
+    {
+        "title": "WCF nimewavulia kofia",
+        "published": "Mon, 05 Jun 2017 18:11:12 +0000",
+        "author": "metudi",
+        "link": "https://www.jamiiforums.com/threads/wcf-nimewavulia-kofia.1260647/"
+    },
+    {
+        "title": "Orodha Ya Majina Ya Watumishi Wanaodai Halmashauri Zote.",
+        "published": "Mon, 05 Jun 2017 17:54:29 +0000",
+        "author": "UMASIKINI BWANA",
+        "link": "https://www.jamiiforums.com/threads/orodha-ya-majina-ya-watumishi-wanaodai-halmashauri-zote.1262844/"
+    },
+    {
+        "title": "Ajira mpya serikalini",
+        "published": "Mon, 05 Jun 2017 14:08:02 +0000",
+        "author": "Kabilimya",
+        "link": "https://www.jamiiforums.com/threads/ajira-mpya-serikalini.1262694/"
+    },
+    {
+        "title": "Nafasi za kazi zilizojiri leo hii pita hapa ili kusoma namna ya kufanya maombi",
+        "published": "Mon, 05 Jun 2017 12:32:42 +0000",
+        "author": "hashimrashidy",
+        "link": "https://www.jamiiforums.com/threads/nafasi-za-kazi-zilizojiri-leo-hii-pita-hapa-ili-kusoma-namna-ya-kufanya-maombi.1262970/"
+    },
+    {
+        "title": "Kazi zimekua ngumu sana",
+        "published": "Mon, 05 Jun 2017 11:14:07 +0000",
+        "author": "bugha",
+        "link": "https://www.jamiiforums.com/threads/kazi-zimekua-ngumu-sana.1262368/"
+    },
+    {
+        "title": "CISA certification",
+        "published": "Mon, 05 Jun 2017 10:57:10 +0000",
+        "author": "Kisendi",
+        "link": "https://www.jamiiforums.com/threads/cisa-certification.833344/"
+    },
+    {
+        "title": "Tangazo la nafasi mbalimbali za ajira",
+        "published": "Mon, 05 Jun 2017 10:30:19 +0000",
+        "author": "Mr.creative",
+        "link": "https://www.jamiiforums.com/threads/tangazo-la-nafasi-mbalimbali-za-ajira.1262889/"
+    },
+    {
+        "title": "Nafasi za kujiunga JWTZ zinatoka lini?",
+        "published": "Mon, 05 Jun 2017 09:34:13 +0000",
+        "author": "salmaiddy",
+        "link": "https://www.jamiiforums.com/threads/nafasi-za-kujiunga-jwtz-zinatoka-lini.1200184/"
+    },
+    {
+        "title": "Interview PPF Pensions Fund",
+        "published": "Mon, 05 Jun 2017 09:22:44 +0000",
+        "author": "yello masai",
+        "link": "https://www.jamiiforums.com/threads/interview-ppf-pensions-fund.1260992/"
+    },
+    {
+        "title": "Mwananchi Communications Ltd watangaza nafasi za kazi",
+        "published": "Mon, 05 Jun 2017 09:03:48 +0000",
+        "author": "real G",
+        "link": "https://www.jamiiforums.com/threads/mwananchi-communications-ltd-watangaza-nafasi-za-kazi.1262839/"
+    },
+    {
+        "title": "Hatimaye nimethibitisha. Tuwaze mengine tusahau kule",
+        "published": "Mon, 05 Jun 2017 06:57:53 +0000",
+        "author": "ElBaradei",
+        "link": "https://www.jamiiforums.com/threads/hatimaye-nimethibitisha-tuwaze-mengine-tusahau-kule.1261820/"
+    },
+    {
+        "title": "AJIRA MPYA LINI",
+        "published": "Mon, 05 Jun 2017 05:46:31 +0000",
+        "author": "Kabilimya",
+        "link": "https://www.jamiiforums.com/threads/ajira-mpya-lini.1262709/"
+    },
+    {
+        "title": "Darasa la CISA Litaanza tarehe 25/07/2016",
+        "published": "Mon, 05 Jun 2017 05:32:55 +0000",
+        "author": "mzee wa ndonga",
+        "link": "https://www.jamiiforums.com/threads/darasa-la-cisa-litaanza-tarehe-25-07-2016.1078326/"
+    },
+    {
+        "title": "Mafunzo ya JKT kwa kujitolea kwa mwaka 2016",
+        "published": "Mon, 05 Jun 2017 05:25:48 +0000",
+        "author": "johjoaninho",
+        "link": "https://www.jamiiforums.com/threads/mafunzo-ya-jkt-kwa-kujitolea-kwa-mwaka-2016.1032637/"
+    },
+    {
+        "title": "Certified Information Systems Auditor (CISA) Review Class",
+        "published": "Mon, 05 Jun 2017 05:22:53 +0000",
+        "author": "Tarime natokea",
+        "link": "https://www.jamiiforums.com/threads/certified-information-systems-auditor-cisa-review-class.1015389/"
+    },
+    {
+        "title": "Darasa la CISA Litaanza trh 20/03/2017",
+        "published": "Mon, 05 Jun 2017 05:21:39 +0000",
+        "author": "mzee wa ndonga",
+        "link": "https://www.jamiiforums.com/threads/darasa-la-cisa-litaanza-trh-20-03-2017.1210148/"
+    },
+    {
+        "title": "Sijawahi kuona brick-and-mortar store yoyote hapa Dar, lakini watu wana Gucci",
+        "published": "Mon, 05 Jun 2017 22:24:05 +0000",
+        "author": "Nyani Ngabu",
+        "link": "https://www.jamiiforums.com/threads/sijawahi-kuona-brick-and-mortar-store-yoyote-hapa-dar-lakini-watu-wana-gucci.1263136/"
+    },
+    {
+        "title": "Napenda nywele ila zimenigomea",
+        "published": "Mon, 05 Jun 2017 17:45:34 +0000",
+        "author": "ndakushima",
+        "link": "https://www.jamiiforums.com/threads/napenda-nywele-ila-zimenigomea.1262788/"
+    },
+    {
+        "title": "Msaada: Deodorant imeniharibu kwapa",
+        "published": "Mon, 05 Jun 2017 14:18:31 +0000",
+        "author": "ndakushima",
+        "link": "https://www.jamiiforums.com/threads/msaada-deodorant-imeniharibu-kwapa.1260239/"
+    },
+    {
+        "title": "Wanaume wanaovaa cheni na hereni wanataka nini?",
+        "published": "Mon, 05 Jun 2017 11:36:13 +0000",
+        "author": "tpaul",
+        "link": "https://www.jamiiforums.com/threads/wanaume-wanaovaa-cheni-na-hereni-wanataka-nini.660127/"
+    },
+    {
+        "title": "Upumbavu zaidi ni kupishana na Kijana wa Kiume ananukia kama mwanamke",
+        "published": "Sun, 04 Jun 2017 20:34:58 +0000",
+        "author": "data",
+        "link": "https://www.jamiiforums.com/threads/upumbavu-zaidi-ni-kupishana-na-kijana-wa-kiume-ananukia-kama-mwanamke.1258593/"
+    },
+    {
+        "title": "Kwanini wanawake wenye ndevu huwa hawazinyoi?",
+        "published": "Sun, 04 Jun 2017 18:12:42 +0000",
+        "author": "bohemian",
+        "link": "https://www.jamiiforums.com/threads/kwanini-wanawake-wenye-ndevu-huwa-hawazinyoi.1259763/"
+    },
+    {
+        "title": "Tujuzane aina ya perfume/body spray unayotumia",
+        "published": "Sun, 04 Jun 2017 17:45:23 +0000",
+        "author": "Itzmusacmb",
+        "link": "https://www.jamiiforums.com/threads/tujuzane-aina-ya-perfume-body-spray-unayotumia.1071988/"
+    },
+    {
+        "title": "Nchi kumi zinazoongoza kwa kuwa na wasichana warembo barani Afrika",
+        "published": "Sun, 04 Jun 2017 11:50:38 +0000",
+        "author": "noj",
+        "link": "https://www.jamiiforums.com/threads/nchi-kumi-zinazoongoza-kwa-kuwa-na-wasichana-warembo-barani-afrika.1130365/"
+    },
+    {
+        "title": "Madoa ktk chupi \"skid marks\"",
+        "published": "Sun, 04 Jun 2017 08:02:44 +0000",
+        "author": "bohemian",
+        "link": "https://www.jamiiforums.com/threads/madoa-ktk-chupi-skid-marks.1257416/"
+    },
+    {
+        "title": "Ni perfume gani Itanifaa kulingana na kazi yangu",
+        "published": "Sun, 04 Jun 2017 05:07:40 +0000",
+        "author": "Askari Muoga",
+        "link": "https://www.jamiiforums.com/threads/ni-perfume-gani-itanifaa-kulingana-na-kazi-yangu.1261212/"
+    },
+    {
+        "title": "Lotion/cream ya kuondoa chunusi",
+        "published": "Sun, 04 Jun 2017 04:58:09 +0000",
+        "author": "Travuhler",
+        "link": "https://www.jamiiforums.com/threads/lotion-cream-ya-kuondoa-chunusi.1261075/"
+    },
+    {
+        "title": "Unataka Tumbo Flat na Six Packs? Cheki Hapa",
+        "published": "Sun, 04 Jun 2017 03:07:53 +0000",
+        "author": "Castr",
+        "link": "https://www.jamiiforums.com/threads/unataka-tumbo-flat-na-six-packs-cheki-hapa.1193090/"
+    },
+    {
+        "title": "Utajuaje nguo inachuja kabla ya kuinunua?",
+        "published": "Sat, 03 Jun 2017 09:45:44 +0000",
+        "author": "STUNTER",
+        "link": "https://www.jamiiforums.com/threads/utajuaje-nguo-inachuja-kabla-ya-kuinunua.1233826/"
+    },
+    {
+        "title": "Kwa wanaume tu! Makosa haya 10 ya uvaaji yatakushushia \"CV\" yako, Yaepuke!",
+        "published": "Sat, 03 Jun 2017 08:54:40 +0000",
+        "author": "Joseverest",
+        "link": "https://www.jamiiforums.com/threads/kwa-wanaume-tu-makosa-haya-10-ya-uvaaji-yatakushushia-cv-yako-yaepuke.1219238/"
+    },
+    {
+        "title": "Kwa nini wanawake waliokwama kwenye mahusiano hupendelea kuweka dred?",
+        "published": "Sat, 03 Jun 2017 08:49:37 +0000",
+        "author": "Nichumu Nibebike",
+        "link": "https://www.jamiiforums.com/threads/kwa-nini-wanawake-waliokwama-kwenye-mahusiano-hupendelea-kuweka-dred.1250166/"
+    },
+    {
+        "title": "Msaada: Tatizo la nywele kuwa nyepesi linaninyima raha",
+        "published": "Sat, 03 Jun 2017 08:16:25 +0000",
+        "author": "bwenyz",
+        "link": "https://www.jamiiforums.com/threads/msaada-tatizo-la-nywele-kuwa-nyepesi-linaninyima-raha.1171696/"
+    },
+    {
+        "title": "Unajipaka mafuta gani mwilini?",
+        "published": "Fri, 02 Jun 2017 20:26:36 +0000",
+        "author": "Miss Natafuta",
+        "link": "https://www.jamiiforums.com/threads/unajipaka-mafuta-gani-mwilini.1101442/"
+    },
+    {
+        "title": "Mwanadada, ukivaa gauni la chui chui lisikupendeze, hakuna nguo itakayokupendeza!",
+        "published": "Fri, 02 Jun 2017 16:06:27 +0000",
+        "author": "Nichumu Nibebike",
+        "link": "https://www.jamiiforums.com/threads/mwanadada-ukivaa-gauni-la-chui-chui-lisikupendeze-hakuna-nguo-itakayokupendeza.1253345/"
+    },
+    {
+        "title": "Kujifunza kujiremba",
+        "published": "Fri, 02 Jun 2017 15:05:18 +0000",
+        "author": "lidocaine",
+        "link": "https://www.jamiiforums.com/threads/kujifunza-kujiremba.1260627/"
+    },
+    {
+        "title": "Sehemu gani wanachovya nguo?",
+        "published": "Fri, 02 Jun 2017 09:47:59 +0000",
+        "author": "brian filbert",
+        "link": "https://www.jamiiforums.com/threads/sehemu-gani-wanachovya-nguo.1261034/"
+    },
+    {
+        "title": "Kiingereza ni kiswahili cha dunia",
+        "published": "Mon, 05 Jun 2017 18:09:15 +0000",
+        "author": "Ustaadh Swaleh",
+        "link": "https://www.jamiiforums.com/threads/kiingereza-ni-kiswahili-cha-dunia.1255257/"
+    },
+    {
+        "title": "E. Kezilahabi: Rosa Mistika",
+        "published": "Mon, 05 Jun 2017 17:04:47 +0000",
+        "author": "MAKOLE",
+        "link": "https://www.jamiiforums.com/threads/e-kezilahabi-rosa-mistika.727411/"
+    },
+    {
+        "title": "Kuamsha dude",
+        "published": "Mon, 05 Jun 2017 14:02:21 +0000",
+        "author": "Hans Miki",
+        "link": "https://www.jamiiforums.com/threads/kuamsha-dude.1263007/"
+    },
+    {
+        "title": "Tofauti kati ya Uasherati na Uzinzi..!?\u00a5",
+        "published": "Mon, 05 Jun 2017 13:45:44 +0000",
+        "author": "Ph-25",
+        "link": "https://www.jamiiforums.com/threads/tofauti-kati-ya-uasherati-na-uzinzi.534553/"
+    },
+    {
+        "title": "Nini Maana ya FISIEMU na NYUMBU?",
+        "published": "Mon, 05 Jun 2017 12:30:47 +0000",
+        "author": "CHA The GREAT",
+        "link": "https://www.jamiiforums.com/threads/nini-maana-ya-fisiemu-na-nyumbu.1262952/"
+    },
+    {
+        "title": "Learn Real English: In Only 6 Months!!",
+        "published": "Mon, 05 Jun 2017 09:58:54 +0000",
+        "author": "EMPTY",
+        "link": "https://www.jamiiforums.com/threads/learn-real-english-in-only-6-months.1170965/"
+    },
+    {
+        "title": "Mapenzi au Upendo? Wataalamu wa lugha msaada",
+        "published": "Mon, 05 Jun 2017 07:56:25 +0000",
+        "author": "Evans pilisi",
+        "link": "https://www.jamiiforums.com/threads/mapenzi-au-upendo-wataalamu-wa-lugha-msaada.1262804/"
+    },
+    {
+        "title": "Haya maneno maana yake ni ipi?",
+        "published": "Sun, 04 Jun 2017 11:22:26 +0000",
+        "author": "eden kimario",
+        "link": "https://www.jamiiforums.com/threads/haya-maneno-maana-yake-ni-ipi.1262377/"
+    },
+    {
+        "title": "Completely Overhaul; Je haya maneno yalituma sawa kwenye mzingira haya?",
+        "published": "Sun, 04 Jun 2017 07:02:46 +0000",
+        "author": "chanaga",
+        "link": "https://www.jamiiforums.com/threads/completely-overhaul-je-haya-maneno-yalituma-sawa-kwenye-mzingira-haya.1261551/"
+    },
+    {
+        "title": "\u00a1Hola amigos. \u00bfQue tal?",
+        "published": "Sat, 03 Jun 2017 09:07:14 +0000",
+        "author": "BelindaJacob",
+        "link": "https://www.jamiiforums.com/threads/hola-amigos-que-tal.642566/"
+    },
+    {
+        "title": "Word of the day",
+        "published": "Sat, 03 Jun 2017 08:55:37 +0000",
+        "author": "Nyani Ngabu",
+        "link": "https://www.jamiiforums.com/threads/word-of-the-day.1261486/"
+    },
+    {
+        "title": "Methali tano kwa kichagga  zinazomuhusu Mwanamke",
+        "published": "Fri, 02 Jun 2017 20:51:45 +0000",
+        "author": "Da tall gal",
+        "link": "https://www.jamiiforums.com/threads/methali-tano-kwa-kichagga-zinazomuhusu-mwanamke.1258743/"
+    },
+    {
+        "title": "Mubashara",
+        "published": "Fri, 02 Jun 2017 15:55:56 +0000",
+        "author": "Peacesmart",
+        "link": "https://www.jamiiforums.com/threads/mubashara.1258645/"
+    },
+    {
+        "title": "Ukuaji wa lugha ya Kiswahili: Neno Mbashara",
+        "published": "Fri, 02 Jun 2017 15:55:56 +0000",
+        "author": "ijoz",
+        "link": "https://www.jamiiforums.com/threads/ukuaji-wa-lugha-ya-kiswahili-neno-mbashara.1195924/"
+    },
+    {
+        "title": "James Hadley Chase novels",
+        "published": "Fri, 02 Jun 2017 15:24:47 +0000",
+        "author": "SHERRIF ARPAIO",
+        "link": "https://www.jamiiforums.com/threads/james-hadley-chase-novels.1019730/"
+    },
+    {
+        "title": "Tume imedanganya yale nabaki hayaitwi \"Makinika\" bali yanatakiwa kuitwa MASHOBO",
+        "published": "Fri, 02 Jun 2017 10:22:14 +0000",
+        "author": "Return Of Undertaker",
+        "link": "https://www.jamiiforums.com/threads/tume-imedanganya-yale-nabaki-hayaitwi-makinika-bali-yanatakiwa-kuitwa-mashobo.1261170/"
+    },
+    {
+        "title": "Daudi hukujipanga kumuua goliati.",
+        "published": "Fri, 02 Jun 2017 09:58:45 +0000",
+        "author": "Idd Ninga",
+        "link": "https://www.jamiiforums.com/threads/daudi-hukujipanga-kumuua-goliati.1211160/"
+    },
+    {
+        "title": "Neno jipya la mjini\"Mzee baba\"",
+        "published": "Thu, 01 Jun 2017 07:48:03 +0000",
+        "author": "wakusoma",
+        "link": "https://www.jamiiforums.com/threads/neno-jipya-la-mjini-mzee-baba.1260501/"
+    },
+    {
+        "title": "Watanzania tujivunie Kiswahili chetu.",
+        "published": "Thu, 01 Jun 2017 06:24:59 +0000",
+        "author": "moma2k",
+        "link": "https://www.jamiiforums.com/threads/watanzania-tujivunie-kiswahili-chetu.1260495/"
+    },
+    {
+        "title": "Elimu kwa Rais wangu mpendwa: Neno \"KATA\" lina silabi mbili siyo maneno mawili",
+        "published": "Wed, 31 May 2017 20:45:10 +0000",
+        "author": "Mtarban",
+        "link": "https://www.jamiiforums.com/threads/elimu-kwa-rais-wangu-mpendwa-neno-kata-lina-silabi-mbili-siyo-maneno-mawili.1255476/"
+    },
+    {
+        "title": "Rais Museven: Kikosi cha Polisi kimejaa ujambazi, nitakisafisha",
+        "published": "Mon, 05 Jun 2017 06:47:59 +0000",
+        "author": "figganigga",
+        "link": "https://www.jamiiforums.com/threads/rais-museven-kikosi-cha-polisi-kimejaa-ujambazi-nitakisafisha.1262760/"
+    },
+    {
+        "title": "Kabuli na Ivan kufukuliwa,yaelezwa ni kutaka kuhakikisha kama ni kweli kafa?",
+        "published": "Sun, 04 Jun 2017 06:15:29 +0000",
+        "author": "Wonderful",
+        "link": "https://www.jamiiforums.com/threads/kabuli-na-ivan-kufukuliwa-yaelezwa-ni-kutaka-kuhakikisha-kama-ni-kweli-kafa.1261342/"
+    },
+    {
+        "title": "\"Mwili\" wa Ivan uliingia Uganda kwa jina la Ally, Interpol wataka kaburi lifukuliwe",
+        "published": "Sat, 03 Jun 2017 20:13:42 +0000",
+        "author": "ZE NDINDINDI",
+        "link": "https://www.jamiiforums.com/threads/mwili-wa-ivan-uliingia-uganda-kwa-jina-la-ally-interpol-wataka-kaburi-lifukuliwe.1261340/"
+    },
+    {
+        "title": "Familia ya Ivan matatani kwa kufukia pesa ya Uganda",
+        "published": "Sat, 03 Jun 2017 10:14:02 +0000",
+        "author": "real G",
+        "link": "https://www.jamiiforums.com/threads/familia-ya-ivan-matatani-kwa-kufukia-pesa-ya-uganda.1260838/"
+    },
+    {
+        "title": "Sikukuu ya mashahidi wa Uganda",
+        "published": "Sat, 03 Jun 2017 06:41:51 +0000",
+        "author": "masare",
+        "link": "https://www.jamiiforums.com/threads/sikukuu-ya-mashahidi-wa-uganda.1261682/"
+    },
+    {
+        "title": "Mahakama kuu ya Uganda yatoa amri kaburi la Ivan lifukuliwe",
+        "published": "Sat, 03 Jun 2017 02:53:13 +0000",
+        "author": "Ekyoma",
+        "link": "https://www.jamiiforums.com/threads/mahakama-kuu-ya-uganda-yatoa-amri-kaburi-la-ivan-lifukuliwe.1261521/"
+    },
+    {
+        "title": "What's up Ugandan babes!",
+        "published": "Fri, 02 Jun 2017 07:22:30 +0000",
+        "author": "heavyload",
+        "link": "https://www.jamiiforums.com/threads/whats-up-ugandan-babes.1252223/"
+    },
+    {
+        "title": "Mega projects in Uganda",
+        "published": "Fri, 02 Jun 2017 05:36:48 +0000",
+        "author": "Cicero",
+        "link": "https://www.jamiiforums.com/threads/mega-projects-in-uganda.1237421/"
+    },
+    {
+        "title": "Funzo la Maisha ya Ivan Ssemwanga kwa wana East Africa",
+        "published": "Thu, 01 Jun 2017 15:14:29 +0000",
+        "author": "Inanambo",
+        "link": "https://www.jamiiforums.com/threads/funzo-la-maisha-ya-ivan-ssemwanga-kwa-wana-east-africa.1260155/"
+    },
+    {
+        "title": "Rich gang members wamwaga mamilioni ya pesa kaburini kwa Ivandon",
+        "published": "Thu, 01 Jun 2017 11:47:55 +0000",
+        "author": "Numbisa",
+        "link": "https://www.jamiiforums.com/threads/rich-gang-members-wamwaga-mamilioni-ya-pesa-kaburini-kwa-ivandon.1259690/"
+    },
+    {
+        "title": "Custom Mtukula muache wizi ni upumbavu wa zamani",
+        "published": "Thu, 01 Jun 2017 08:08:10 +0000",
+        "author": "Pdidy",
+        "link": "https://www.jamiiforums.com/threads/custom-mtukula-muache-wizi-ni-upumbavu-wa-zamani.1258820/"
+    },
+    {
+        "title": "City Lawyer reportedly wants Ivan Ssemwanga\u2019s grave dismantled. Here\u2019s why!",
+        "published": "Thu, 01 Jun 2017 00:45:06 +0000",
+        "author": "miss zomboko",
+        "link": "https://www.jamiiforums.com/threads/city-lawyer-reportedly-wants-ivan-ssemwangas-grave-dismantled-heres-why.1260210/"
+    },
+    {
+        "title": "Mazishi/ misa ya Ivani live spark tv",
+        "published": "Wed, 31 May 2017 14:44:20 +0000",
+        "author": "luckyline",
+        "link": "https://www.jamiiforums.com/threads/mazishi-misa-ya-ivani-live-spark-tv.1259525/"
+    },
+    {
+        "title": "Msimamo wa rais Museveni juu ya madini: Yatabaki ardhini mpaka tukubaliane",
+        "published": "Tue, 30 May 2017 12:48:38 +0000",
+        "author": "selemala",
+        "link": "https://www.jamiiforums.com/threads/msimamo-wa-rais-museveni-juu-ya-madini-yatabaki-ardhini-mpaka-tukubaliane.1256993/"
+    },
+    {
+        "title": "President Zuma Advises Museveni to Rename Lake Victoria",
+        "published": "Mon, 29 May 2017 12:46:33 +0000",
+        "author": "Wakudadavuwa",
+        "link": "https://www.jamiiforums.com/threads/president-zuma-advises-museveni-to-rename-lake-victoria.1252880/"
+    },
+    {
+        "title": "Woman claims she gave birth to a snake",
+        "published": "Mon, 29 May 2017 06:54:12 +0000",
+        "author": "mizan254",
+        "link": "https://www.jamiiforums.com/threads/woman-claims-she-gave-birth-to-a-snake.1258784/"
+    },
+    {
+        "title": "Kampala city Gallery",
+        "published": "Wed, 24 May 2017 05:54:25 +0000",
+        "author": "MOTOCHINI",
+        "link": "https://www.jamiiforums.com/threads/kampala-city-gallery.1169398/"
+    },
+    {
+        "title": "Museveni cautions Security Agencies against use of torture to extract confessions from suspects",
+        "published": "Wed, 24 May 2017 01:49:43 +0000",
+        "author": "Informer",
+        "link": "https://www.jamiiforums.com/threads/museveni-cautions-security-agencies-against-use-of-torture-to-extract-confessions-from-suspects.1252307/"
+    },
+    {
+        "title": "EAC SUMMIT: Museveni promises to resolve EPA disagreement",
+        "published": "Sun, 21 May 2017 05:58:26 +0000",
+        "author": "Zurie",
+        "link": "https://www.jamiiforums.com/threads/eac-summit-museveni-promises-to-resolve-epa-disagreement.1254214/"
+    },
+    {
+        "title": "Mhadhiri aliyemfananisha Rais na makalio atupwa lupango",
+        "published": "Thu, 18 May 2017 20:49:50 +0000",
+        "author": "eddy",
+        "link": "https://www.jamiiforums.com/threads/mhadhiri-aliyemfananisha-rais-na-makalio-atupwa-lupango.1235856/"
+    },
+    {
+        "title": "Mapishi ya mchanganyiko wa tambi na soseji",
+        "published": "Mon, 05 Jun 2017 18:42:50 +0000",
+        "author": "Numbisa",
+        "link": "https://www.jamiiforums.com/threads/mapishi-ya-mchanganyiko-wa-tambi-na-soseji.1262450/"
+    },
+    {
+        "title": "Kwanini wanawake wanajiondoa kwenye makundi ya mapishi?",
+        "published": "Mon, 05 Jun 2017 15:56:19 +0000",
+        "author": "Bahati lucky",
+        "link": "https://www.jamiiforums.com/threads/kwanini-wanawake-wanajiondoa-kwenye-makundi-ya-mapishi.1193303/"
+    },
+    {
+        "title": "Msaada: simple futari Kwa ma bachelor",
+        "published": "Mon, 05 Jun 2017 15:21:08 +0000",
+        "author": "byeyombo",
+        "link": "https://www.jamiiforums.com/threads/msaada-simple-futari-kwa-ma-bachelor.1261542/"
+    },
+    {
+        "title": "Hivi nyie watu, nini kinawafanya Mpende Pizza? sitaki hata kusikia",
+        "published": "Mon, 05 Jun 2017 08:18:16 +0000",
+        "author": "figganigga",
+        "link": "https://www.jamiiforums.com/threads/hivi-nyie-watu-nini-kinawafanya-mpende-pizza-sitaki-hata-kusikia.1200210/"
+    },
+    {
+        "title": "Supu ya boga karibuni",
+        "published": "Sun, 04 Jun 2017 08:54:05 +0000",
+        "author": "Miss Natafuta",
+        "link": "https://www.jamiiforums.com/threads/supu-ya-boga-karibuni.1234177/"
+    },
+    {
+        "title": "Mayonnaise ni nini?",
+        "published": "Sat, 03 Jun 2017 13:18:46 +0000",
+        "author": "zebigmaster",
+        "link": "https://www.jamiiforums.com/threads/mayonnaise-ni-nini.1248584/"
+    },
+    {
+        "title": "Msaada:kufanya vitafunwa vikae muda mrefu",
+        "published": "Sat, 03 Jun 2017 11:37:05 +0000",
+        "author": "daisyvicky",
+        "link": "https://www.jamiiforums.com/threads/msaada-kufanya-vitafunwa-vikae-muda-mrefu.1246558/"
+    },
+    {
+        "title": "Hivi kitimoto huwa inafaa kutengenezewa mishikaki?",
+        "published": "Fri, 02 Jun 2017 14:17:40 +0000",
+        "author": "Azarel",
+        "link": "https://www.jamiiforums.com/threads/hivi-kitimoto-huwa-inafaa-kutengenezewa-mishikaki.1249507/"
+    },
+    {
+        "title": "Ni chakula gani hupendi, mimi sipendi ndizi za kupika",
+        "published": "Fri, 02 Jun 2017 13:51:05 +0000",
+        "author": "lost id",
+        "link": "https://www.jamiiforums.com/threads/ni-chakula-gani-hupendi-mimi-sipendi-ndizi-za-kupika.1115961/"
+    },
+    {
+        "title": "Jinsi ya kutengeneza kashata",
+        "published": "Thu, 01 Jun 2017 05:51:00 +0000",
+        "author": "Principle girl",
+        "link": "https://www.jamiiforums.com/threads/jinsi-ya-kutengeneza-kashata.1260472/"
+    },
+    {
+        "title": "Mchanganyiko upi unaofaa kwa uji wa lishe?",
+        "published": "Mon, 29 May 2017 22:05:34 +0000",
+        "author": "Principle girl",
+        "link": "https://www.jamiiforums.com/threads/mchanganyiko-upi-unaofaa-kwa-uji-wa-lishe.1256029/"
+    },
+    {
+        "title": "Kutana na fundi wa kuchoma Kuku kwa kutumia mionzi ya jua",
+        "published": "Mon, 29 May 2017 13:52:57 +0000",
+        "author": "Kurzweil",
+        "link": "https://www.jamiiforums.com/threads/kutana-na-fundi-wa-kuchoma-kuku-kwa-kutumia-mionzi-ya-jua.1254827/"
+    },
+    {
+        "title": "Unga wa dengu",
+        "published": "Fri, 26 May 2017 07:14:17 +0000",
+        "author": "Principle girl",
+        "link": "https://www.jamiiforums.com/threads/unga-wa-dengu.1256024/"
+    },
+    {
+        "title": "Jinsi ya kutengeneza karanga za mayai",
+        "published": "Wed, 24 May 2017 11:49:56 +0000",
+        "author": "PesaNdogo",
+        "link": "https://www.jamiiforums.com/threads/jinsi-ya-kutengeneza-karanga-za-mayai.532807/"
+    },
+    {
+        "title": "Mapishi mbalimbali ya Karanga za kukaanga",
+        "published": "Wed, 24 May 2017 11:49:56 +0000",
+        "author": "KakaJambazi",
+        "link": "https://www.jamiiforums.com/threads/mapishi-mbalimbali-ya-karanga-za-kukaanga.528300/"
+    },
+    {
+        "title": "Jinsi ya kupika mlenda wa unga",
+        "published": "Wed, 24 May 2017 10:45:06 +0000",
+        "author": "Numbisa",
+        "link": "https://www.jamiiforums.com/threads/jinsi-ya-kupika-mlenda-wa-unga.1245482/"
+    },
+    {
+        "title": "Jamani nyie mamantilie mbona hamuivishi chapati?",
+        "published": "Sat, 20 May 2017 13:23:45 +0000",
+        "author": "screpa",
+        "link": "https://www.jamiiforums.com/threads/jamani-nyie-mamantilie-mbona-hamuivishi-chapati.1251130/"
+    },
+    {
+        "title": "Niulize kuhusu mapishi ya futari mbalimbali",
+        "published": "Thu, 18 May 2017 09:01:41 +0000",
+        "author": "malisak",
+        "link": "https://www.jamiiforums.com/threads/niulize-kuhusu-mapishi-ya-futari-mbalimbali.1062515/"
+    },
+    {
+        "title": "Msaada jinsi ya kupika popcorn za sukari",
+        "published": "Sun, 14 May 2017 19:17:01 +0000",
+        "author": "mr.piano",
+        "link": "https://www.jamiiforums.com/threads/msaada-jinsi-ya-kupika-popcorn-za-sukari.876852/"
+    },
+    {
+        "title": "Uji mzuri wa watoto wanaotakiwa kuanza kula, mchanganyiko mzuri ni upi?",
+        "published": "Sat, 13 May 2017 11:49:22 +0000",
+        "author": "FirstLady1",
+        "link": "https://www.jamiiforums.com/threads/uji-mzuri-wa-watoto-wanaotakiwa-kuanza-kula-mchanganyiko-mzuri-ni-upi.592580/"
+    },
+    {
+        "title": "Wa mwisho ndio mshindi",
+        "published": "Mon, 05 Jun 2017 22:20:08 +0000",
+        "author": "Wambuzi",
+        "link": "https://www.jamiiforums.com/threads/wa-mwisho-ndio-mshindi.284765/"
+    },
+    {
+        "title": "Wachaga mpoo?",
+        "published": "Mon, 05 Jun 2017 20:40:53 +0000",
+        "author": "hazard cfc",
+        "link": "https://www.jamiiforums.com/threads/wachaga-mpoo.1262307/"
+    },
+    {
+        "title": "Chemsha bongo",
+        "published": "Mon, 05 Jun 2017 20:37:52 +0000",
+        "author": "adden",
+        "link": "https://www.jamiiforums.com/threads/chemsha-bongo.1262826/"
+    },
+    {
+        "title": "wakurya mpoo",
+        "published": "Mon, 05 Jun 2017 20:36:51 +0000",
+        "author": "ndakushima",
+        "link": "https://www.jamiiforums.com/threads/wakurya-mpoo.1263059/"
+    },
+    {
+        "title": "Aiseee!!! watanzania ni balaa",
+        "published": "Mon, 05 Jun 2017 20:00:42 +0000",
+        "author": "Behaviourist",
+        "link": "https://www.jamiiforums.com/threads/aiseee-watanzania-ni-balaa.1260825/"
+    },
+    {
+        "title": "Kama una stress, Pitia hapa! Usiache kutupia na wewe maneno yako!",
+        "published": "Mon, 05 Jun 2017 19:59:44 +0000",
+        "author": "Freyzem",
+        "link": "https://www.jamiiforums.com/threads/kama-una-stress-pitia-hapa-usiache-kutupia-na-wewe-maneno-yako.1195210/"
+    },
+    {
+        "title": "Breaaking Neeeeeeeeeeeeeeewz",
+        "published": "Mon, 05 Jun 2017 19:09:37 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/breaaking-neeeeeeeeeeeeeeewz.1161663/"
+    },
+    {
+        "title": "Maisha yanabadilika: Phone Book ya Mwakyembe contacts zake. Mungu tu ndo anajua anakoelekea",
+        "published": "Mon, 05 Jun 2017 14:33:59 +0000",
+        "author": "GuDume",
+        "link": "https://www.jamiiforums.com/threads/maisha-yanabadilika-phone-book-ya-mwakyembe-contacts-zake-mungu-tu-ndo-anajua-anakoelekea.1262996/"
+    },
+    {
+        "title": "Michirizi kwenye mapaja ya wadada,",
+        "published": "Mon, 05 Jun 2017 08:57:56 +0000",
+        "author": "bohemian",
+        "link": "https://www.jamiiforums.com/threads/michirizi-kwenye-mapaja-ya-wadada.1252585/"
+    },
+    {
+        "title": "Leo nikiwa nimechoka",
+        "published": "Mon, 05 Jun 2017 08:34:13 +0000",
+        "author": "holy holm",
+        "link": "https://www.jamiiforums.com/threads/leo-nikiwa-nimechoka.1261938/"
+    },
+    {
+        "title": "Ujinga ni pale unapo...........",
+        "published": "Mon, 05 Jun 2017 05:11:27 +0000",
+        "author": "Internal",
+        "link": "https://www.jamiiforums.com/threads/ujinga-ni-pale-unapo.1242649/"
+    },
+    {
+        "title": "STRESS FREE: Vichekesho on fleak! Weka na cha kwako hapa tufurahi",
+        "published": "Mon, 05 Jun 2017 05:07:53 +0000",
+        "author": "Arabian queen",
+        "link": "https://www.jamiiforums.com/threads/stress-free-vichekesho-on-fleak-weka-na-cha-kwako-hapa-tufurahi.1234472/"
+    },
+    {
+        "title": "Majina na Misemo kwenye daladala za bongo",
+        "published": "Sun, 04 Jun 2017 19:09:28 +0000",
+        "author": "Aquatic",
+        "link": "https://www.jamiiforums.com/threads/majina-na-misemo-kwenye-daladala-za-bongo.544466/"
+    },
+    {
+        "title": "True Fact!!",
+        "published": "Sun, 04 Jun 2017 17:20:00 +0000",
+        "author": "Smokey D",
+        "link": "https://www.jamiiforums.com/threads/true-fact.1262548/"
+    },
+    {
+        "title": "Kadi ya ACT",
+        "published": "Sun, 04 Jun 2017 10:17:24 +0000",
+        "author": "Red Scorpion",
+        "link": "https://www.jamiiforums.com/threads/kadi-ya-act.1262227/"
+    },
+    {
+        "title": "Bashite kwenye ubora wake",
+        "published": "Sun, 04 Jun 2017 01:08:09 +0000",
+        "author": "Archduke",
+        "link": "https://www.jamiiforums.com/threads/bashite-kwenye-ubora-wake.1254754/"
+    },
+    {
+        "title": "Onyo",
+        "published": "Sat, 03 Jun 2017 22:45:36 +0000",
+        "author": "Red Scorpion",
+        "link": "https://www.jamiiforums.com/threads/onyo.1261880/"
+    },
+    {
+        "title": "Nafazi za kazi kwa Walimu masomo yote.",
+        "published": "Sat, 03 Jun 2017 21:56:41 +0000",
+        "author": "Dr. Sanga",
+        "link": "https://www.jamiiforums.com/threads/nafazi-za-kazi-kwa-walimu-masomo-yote.1261986/"
+    },
+    {
+        "title": "WAZO LA LEO:Kijiweni Kwetu",
+        "published": "Sat, 03 Jun 2017 16:17:22 +0000",
+        "author": "mwenyeKitu",
+        "link": "https://www.jamiiforums.com/threads/wazo-la-leo-kijiweni-kwetu.1260354/"
+    },
+    {
+        "title": "Nguvu za Dem",
+        "published": "Sat, 03 Jun 2017 12:34:41 +0000",
+        "author": "Red Scorpion",
+        "link": "https://www.jamiiforums.com/threads/nguvu-za-dem.1261855/"
+    },
+    {
         "title": "Msaada wa kutambua hii mali",
-        "author_detail": {
-            "name": "2jabway",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Msaada wa kutambua hii mali",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "2jabway",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "2jabway"
-            }
-        ],
-        "slash_comments": "6",
-        "link": "https://www.jamiiforums.com/threads/msaada-wa-kutambua-hii-mali.1262180/",
+        "published": "Mon, 05 Jun 2017 20:47:16 +0000",
         "author": "2jabway",
-        "published": "Sun, 04 Jun 2017 06:18:16 +0000"
+        "link": "https://www.jamiiforums.com/threads/msaada-wa-kutambua-hii-mali.1262180/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/kutengeneza-incubator.1244457/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            2,
-            53,
-            15,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kutengeneza-incubator.1244457/"
-            }
-        ],
-        "title": "Kutengeneza incubator",
-        "author_detail": {
-            "name": "kinsakina",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kutengeneza incubator",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "kinsakina",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "kinsakina"
-            }
-        ],
-        "slash_comments": "27",
-        "link": "https://www.jamiiforums.com/threads/kutengeneza-incubator.1244457/",
-        "author": "kinsakina",
-        "published": "Sun, 04 Jun 2017 02:53:15 +0000"
+        "title": "ufugaji wa kuku.",
+        "published": "Mon, 05 Jun 2017 20:32:09 +0000",
+        "author": "badru yassin",
+        "link": "https://www.jamiiforums.com/threads/ufugaji-wa-kuku.1263200/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/incubator-laki-3-automatic.1260709/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            2,
-            42,
-            32,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/incubator-laki-3-automatic.1260709/"
-            }
-        ],
+        "title": "nnahitaji shamba la kukodi kwa ajili ya tikiti maji",
+        "published": "Mon, 05 Jun 2017 20:11:20 +0000",
+        "author": "igihumbi",
+        "link": "https://www.jamiiforums.com/threads/nnahitaji-shamba-la-kukodi-kwa-ajili-ya-tikiti-maji.1263196/"
+    },
+    {
+        "title": "Msaada kilimo cha dengu na masoko yake.",
+        "published": "Mon, 05 Jun 2017 19:46:36 +0000",
+        "author": "BRUCE LEE",
+        "link": "https://www.jamiiforums.com/threads/msaada-kilimo-cha-dengu-na-masoko-yake.1262635/"
+    },
+    {
+        "title": "USHAURI.. Je naweza kufuga kuku wa kienyeji ndani nkawahudumia wakiwa ndani?",
+        "published": "Mon, 05 Jun 2017 19:33:28 +0000",
+        "author": "kijana255",
+        "link": "https://www.jamiiforums.com/threads/ushauri-je-naweza-kufuga-kuku-wa-kienyeji-ndani-nkawahudumia-wakiwa-ndani.1262706/"
+    },
+    {
+        "title": "TUJUZANE GHARAMA ZA KILIMO CHA MAHINDI KULINGANA NA MKOA ULIYOKO.",
+        "published": "Mon, 05 Jun 2017 19:15:32 +0000",
+        "author": "nimbagonza",
+        "link": "https://www.jamiiforums.com/threads/tujuzane-gharama-za-kilimo-cha-mahindi-kulingana-na-mkoa-uliyoko.1263040/"
+    },
+    {
+        "title": "Kilichotokea baada ya kuwaweka kuku rangi",
+        "published": "Mon, 05 Jun 2017 19:11:16 +0000",
+        "author": "GAZETI",
+        "link": "https://www.jamiiforums.com/threads/kilichotokea-baada-ya-kuwaweka-kuku-rangi.1262446/"
+    },
+    {
+        "title": "Bei rahisi ya mahindi",
+        "published": "Mon, 05 Jun 2017 19:07:32 +0000",
+        "author": "Pancho panchilo",
+        "link": "https://www.jamiiforums.com/threads/bei-rahisi-ya-mahindi.1256349/"
+    },
+    {
+        "title": "nyumba ya udongo",
+        "published": "Mon, 05 Jun 2017 16:26:02 +0000",
+        "author": "miminimkulimaakachekasana",
+        "link": "https://www.jamiiforums.com/threads/nyumba-ya-udongo.1263103/"
+    },
+    {
+        "title": "Mbegu ya Mbuzi wanaozaa mapacha wanne (4)",
+        "published": "Mon, 05 Jun 2017 16:07:00 +0000",
+        "author": "gpluse",
+        "link": "https://www.jamiiforums.com/threads/mbegu-ya-mbuzi-wanaozaa-mapacha-wanne-4.1261143/"
+    },
+    {
+        "title": "Msaada kuwezesha kilimo changu",
+        "published": "Mon, 05 Jun 2017 16:06:00 +0000",
+        "author": "uroto",
+        "link": "https://www.jamiiforums.com/threads/msaada-kuwezesha-kilimo-changu.1262442/"
+    },
+    {
+        "title": "Nataka kulima heka moja ya viazi",
+        "published": "Mon, 05 Jun 2017 15:52:10 +0000",
+        "author": "tzhello",
+        "link": "https://www.jamiiforums.com/threads/nataka-kulima-heka-moja-ya-viazi.1255622/"
+    },
+    {
+        "title": "Mifuko ya kuhifadhia nafaka zisioze inapatikana wapi Dar?",
+        "published": "Mon, 05 Jun 2017 15:43:45 +0000",
+        "author": "kavulata",
+        "link": "https://www.jamiiforums.com/threads/mifuko-ya-kuhifadhia-nafaka-zisioze-inapatikana-wapi-dar.1263085/"
+    },
+    {
+        "title": "Wapi naweza pata vifaranga vya kuku wa kienyeji?",
+        "published": "Mon, 05 Jun 2017 15:08:15 +0000",
+        "author": "Tulizo",
+        "link": "https://www.jamiiforums.com/threads/wapi-naweza-pata-vifaranga-vya-kuku-wa-kienyeji.1262900/"
+    },
+    {
+        "title": "Msaada: stray Cat kahamia Kwangu",
+        "published": "Mon, 05 Jun 2017 14:09:34 +0000",
+        "author": "Balacuda",
+        "link": "https://www.jamiiforums.com/threads/msaada-stray-cat-kahamia-kwangu.1262316/"
+    },
+    {
         "title": "Incubator  laki 3 automatic",
-        "author_detail": {
-            "name": "malogi1976",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Incubator  laki 3 automatic",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "malogi1976",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "malogi1976"
-            }
-        ],
-        "slash_comments": "2",
-        "link": "https://www.jamiiforums.com/threads/incubator-laki-3-automatic.1260709/",
+        "published": "Mon, 05 Jun 2017 14:07:04 +0000",
         "author": "malogi1976",
-        "published": "Sun, 04 Jun 2017 02:42:32 +0000"
+        "link": "https://www.jamiiforums.com/threads/incubator-laki-3-automatic.1260709/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/magonjwa-ya-kuku-na-tiba-zake.1256313/",
-        "published_parsed": [
-            2017,
-            6,
-            3,
-            20,
-            41,
-            34,
-            5,
-            154,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/magonjwa-ya-kuku-na-tiba-zake.1256313/"
-            }
-        ],
-        "title": "Magonjwa ya kuku na tiba zake",
-        "author_detail": {
-            "name": "Pritty wa joseph",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Magonjwa ya kuku na tiba zake",
-            "base": "https://www.jamiiforums.com/forums/ujasiriamali.114/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Pritty wa joseph",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Pritty wa joseph"
-            }
-        ],
-        "slash_comments": "9",
-        "link": "https://www.jamiiforums.com/threads/magonjwa-ya-kuku-na-tiba-zake.1256313/",
-        "author": "Pritty wa joseph",
-        "published": "Sat, 03 Jun 2017 20:41:34 +0000"
+        "title": "Kilimo cha mihogo eneo la pwani",
+        "published": "Mon, 05 Jun 2017 14:00:56 +0000",
+        "author": "DR.POLITICS",
+        "link": "https://www.jamiiforums.com/threads/kilimo-cha-mihogo-eneo-la-pwani.1255809/"
+    },
+    {
+        "title": "Je, unataka kulima mazao ya mbogamboga na matunda lakini unakosa maarifa sahihi?? Karibu tushauriane",
+        "published": "Mon, 05 Jun 2017 12:53:03 +0000",
+        "author": "kilimomaarifa.tajiri",
+        "link": "https://www.jamiiforums.com/threads/je-unataka-kulima-mazao-ya-mbogamboga-na-matunda-lakini-unakosa-maarifa-sahihi-karibu-tushauriane.929106/"
+    },
+    {
+        "title": "Msaada kuhusu mbegu za nyanya",
+        "published": "Mon, 05 Jun 2017 12:51:11 +0000",
+        "author": "eddy_mhando",
+        "link": "https://www.jamiiforums.com/threads/msaada-kuhusu-mbegu-za-nyanya.1208553/"
+    },
+    {
+        "title": "Msaada utaalamu wa kufuga Bata bukini",
+        "published": "Mon, 05 Jun 2017 12:15:12 +0000",
+        "author": "kumbwitu",
+        "link": "https://www.jamiiforums.com/threads/msaada-utaalamu-wa-kufuga-bata-bukini.1262955/"
     }
 ]

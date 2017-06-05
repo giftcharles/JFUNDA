@@ -1,919 +1,482 @@
 [
     {
-        "id": "https://www.jamiiforums.com/threads/msaada-madaktari.1262558/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            18,
-            2,
-            56,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/msaada-madaktari.1262558/"
-            }
-        ],
-        "title": "msaada madaktari",
-        "author_detail": {
-            "name": "AnnaG",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "msaada madaktari",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "AnnaG",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "AnnaG"
-            }
-        ],
-        "slash_comments": "8",
-        "link": "https://www.jamiiforums.com/threads/msaada-madaktari.1262558/",
-        "author": "AnnaG",
-        "published": "Sun, 04 Jun 2017 18:02:56 +0000"
+        "title": "Ujumbe wa Sakayo",
+        "published": "Mon, 05 Jun 2017 22:24:31 +0000",
+        "author": "Shunie",
+        "link": "https://www.jamiiforums.com/threads/ujumbe-wa-sakayo.1262989/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/hasira-zinanizidia-msaada.1262298/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            16,
-            11,
-            12,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/hasira-zinanizidia-msaada.1262298/"
-            }
-        ],
-        "title": "Hasira zinanizidia msaada.",
-        "author_detail": {
-            "name": "tamuuuuu",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Hasira zinanizidia msaada.",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "tamuuuuu",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "tamuuuuu"
-            }
-        ],
-        "slash_comments": "4",
-        "link": "https://www.jamiiforums.com/threads/hasira-zinanizidia-msaada.1262298/",
-        "author": "tamuuuuu",
-        "published": "Sun, 04 Jun 2017 16:11:12 +0000"
+        "title": "The Foundation to Fearlessness",
+        "published": "Mon, 05 Jun 2017 22:14:39 +0000",
+        "author": "dellyphilly",
+        "link": "https://www.jamiiforums.com/threads/the-foundation-to-fearlessness.1263194/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/kutoa-harufu-mbaya-puani.1262176/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            15,
-            4,
-            18,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kutoa-harufu-mbaya-puani.1262176/"
-            }
-        ],
-        "title": "Kutoa harufu mbaya puani",
-        "author_detail": {
-            "name": "Kinnsasa1",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kutoa harufu mbaya puani",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Kinnsasa1",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Kinnsasa1"
-            }
-        ],
-        "slash_comments": "23",
-        "link": "https://www.jamiiforums.com/threads/kutoa-harufu-mbaya-puani.1262176/",
-        "author": "Kinnsasa1",
-        "published": "Sun, 04 Jun 2017 15:04:18 +0000"
+        "title": "Makapuku Forum",
+        "published": "Mon, 05 Jun 2017 21:50:51 +0000",
+        "author": "Bailly5",
+        "link": "https://www.jamiiforums.com/threads/makapuku-forum.1032847/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/tendo-la-ndoa-wakati-wa-ujauzito-dr-msua-ameeleza-kwa-kina-hapa.1262457/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            14,
-            30,
-            34,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/tendo-la-ndoa-wakati-wa-ujauzito-dr-msua-ameeleza-kwa-kina-hapa.1262457/"
-            }
-        ],
-        "title": "TENDO LA NDOA WAKATI WA UJAUZITO:DR MSUA AMEELEZA KWA KINA HAPA:",
-        "author_detail": {
-            "name": "ukabu",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "TENDO LA NDOA WAKATI WA UJAUZITO:DR MSUA AMEELEZA KWA KINA HAPA:",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "ukabu",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "ukabu"
-            }
-        ],
-        "slash_comments": "2",
-        "link": "https://www.jamiiforums.com/threads/tendo-la-ndoa-wakati-wa-ujauzito-dr-msua-ameeleza-kwa-kina-hapa.1262457/",
-        "author": "ukabu",
-        "published": "Sun, 04 Jun 2017 14:30:34 +0000"
+        "title": "Distinctive features of JF",
+        "published": "Mon, 05 Jun 2017 20:50:30 +0000",
+        "author": "nyandaad",
+        "link": "https://www.jamiiforums.com/threads/distinctive-features-of-jf.1262988/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/nini-madhara-ya-kuwa-na-damu-nyingi.1262399/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            13,
-            48,
-            50,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/nini-madhara-ya-kuwa-na-damu-nyingi.1262399/"
-            }
-        ],
-        "title": "Nini madhara ya kuwa na damu nyingi?",
-        "author_detail": {
-            "name": "Jodeo",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Nini madhara ya kuwa na damu nyingi?",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Jodeo",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Jodeo"
-            }
-        ],
-        "slash_comments": "4",
-        "link": "https://www.jamiiforums.com/threads/nini-madhara-ya-kuwa-na-damu-nyingi.1262399/",
+        "title": "Chemsha Bongo!",
+        "published": "Mon, 05 Jun 2017 20:47:13 +0000",
+        "author": "Quemu",
+        "link": "https://www.jamiiforums.com/threads/chemsha-bongo.5955/"
+    },
+    {
+        "title": "Members 'ninaowakubali' zaidi humu jf",
+        "published": "Mon, 05 Jun 2017 20:44:14 +0000",
+        "author": "Black fire",
+        "link": "https://www.jamiiforums.com/threads/members-ninaowakubali-zaidi-humu-jf.1263008/"
+    },
+    {
+        "title": "HEKA HEKA",
+        "published": "Mon, 05 Jun 2017 20:43:23 +0000",
+        "author": "holy holm",
+        "link": "https://www.jamiiforums.com/threads/heka-heka.1263154/"
+    },
+    {
+        "title": "Mwanamke anaweza kuishi na mwanaume asiyekuwa na kazi kwa muda wa siku 5 tu",
+        "published": "Mon, 05 Jun 2017 20:31:13 +0000",
+        "author": "Eddy Love",
+        "link": "https://www.jamiiforums.com/threads/mwanamke-anaweza-kuishi-na-mwanaume-asiyekuwa-na-kazi-kwa-muda-wa-siku-5-tu.1226610/"
+    },
+    {
+        "title": "THAQAAFA HIGH SCHOOL 2003 TUONANE HAPA.",
+        "published": "Mon, 05 Jun 2017 20:30:14 +0000",
+        "author": "ngoshaboy",
+        "link": "https://www.jamiiforums.com/threads/thaqaafa-high-school-2003-tuonane-hapa.1263143/"
+    },
+    {
+        "title": "Mwanaume kumtawaza mtoto ni sawa kweli?",
+        "published": "Mon, 05 Jun 2017 20:26:50 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/mwanaume-kumtawaza-mtoto-ni-sawa-kweli.1218807/"
+    },
+    {
+        "title": "Nyani Ngabu Mjengoni! Interview: Mapenzi, Utajiri&Mali, Marafiki na Maisha ya ugenini.",
+        "published": "Mon, 05 Jun 2017 20:26:01 +0000",
+        "author": "STUNTER",
+        "link": "https://www.jamiiforums.com/threads/nyani-ngabu-mjengoni-interview-mapenzi-utajiri-mali-marafiki-na-maisha-ya-ugenini.1261483/"
+    },
+    {
+        "title": "Kama hujafanya hii katika ujana wako POLE sana",
+        "published": "Mon, 05 Jun 2017 20:05:40 +0000",
+        "author": "Ethos",
+        "link": "https://www.jamiiforums.com/threads/kama-hujafanya-hii-katika-ujana-wako-pole-sana.1250565/"
+    },
+    {
+        "title": "Kuwa na mwanamke askari ni shida",
+        "published": "Mon, 05 Jun 2017 19:43:50 +0000",
+        "author": "banned do",
+        "link": "https://www.jamiiforums.com/threads/kuwa-na-mwanamke-askari-ni-shida.1262149/"
+    },
+    {
+        "title": "Humu ndani kumepoa sana",
+        "published": "Mon, 05 Jun 2017 19:35:28 +0000",
+        "author": "Daby",
+        "link": "https://www.jamiiforums.com/threads/humu-ndani-kumepoa-sana.1262365/"
+    },
+    {
+        "title": "Wanachokisema wazungu kuhusu Tanzania...",
+        "published": "Mon, 05 Jun 2017 19:24:31 +0000",
+        "author": "TANMO",
+        "link": "https://www.jamiiforums.com/threads/wanachokisema-wazungu-kuhusu-tanzania.118232/"
+    },
+    {
+        "title": "Hivi kwa nini mtu mzima akiua paka maisha yake yanakuwa mabovu sana",
+        "published": "Mon, 05 Jun 2017 19:17:34 +0000",
+        "author": "Yeezus 2",
+        "link": "https://www.jamiiforums.com/threads/hivi-kwa-nini-mtu-mzima-akiua-paka-maisha-yake-yanakuwa-mabovu-sana.1262903/"
+    },
+    {
+        "title": "WanaJF wenyeji wa Lindi na Mtwara tukutane hapa",
+        "published": "Mon, 05 Jun 2017 19:00:58 +0000",
+        "author": "GAZETI",
+        "link": "https://www.jamiiforums.com/threads/wanajf-wenyeji-wa-lindi-na-mtwara-tukutane-hapa.1250120/"
+    },
+    {
+        "title": "Nani ambaye hajawahi kufungua nyuzi zangu?",
+        "published": "Mon, 05 Jun 2017 19:00:13 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/nani-ambaye-hajawahi-kufungua-nyuzi-zangu.1243952/"
+    },
+    {
+        "title": "Vifisadi Vitoto Tunavijua (VVT)",
+        "published": "Mon, 05 Jun 2017 18:54:34 +0000",
+        "author": "Gagurito",
+        "link": "https://www.jamiiforums.com/threads/vifisadi-vitoto-tunavijua-vvt.118037/"
+    },
+    {
+        "title": "Makusudi au bahati mbaya?",
+        "published": "Mon, 05 Jun 2017 18:50:58 +0000",
+        "author": "tinya",
+        "link": "https://www.jamiiforums.com/threads/makusudi-au-bahati-mbaya.117931/"
+    },
+    {
+        "title": "Kimchepuko",
+        "published": "Mon, 05 Jun 2017 22:29:49 +0000",
+        "author": "Red Scorpion",
+        "link": "https://www.jamiiforums.com/threads/kimchepuko.1262764/"
+    },
+    {
+        "title": "Salt n pepa! Enzi ya enzi",
+        "published": "Mon, 05 Jun 2017 22:23:27 +0000",
+        "author": "mshana jr",
+        "link": "https://www.jamiiforums.com/threads/salt-n-pepa-enzi-ya-enzi.1263006/"
+    },
+    {
+        "title": "Hatimaye Dereva wa lori apatiwa lori",
+        "published": "Mon, 05 Jun 2017 22:12:25 +0000",
+        "author": "py thon",
+        "link": "https://www.jamiiforums.com/threads/hatimaye-dereva-wa-lori-apatiwa-lori.1263055/"
+    },
+    {
+        "title": "Hawa wanaitwajwe kwa kiswahili na kidhungu?",
+        "published": "Mon, 05 Jun 2017 20:58:15 +0000",
+        "author": "Zamaulid",
+        "link": "https://www.jamiiforums.com/threads/hawa-wanaitwajwe-kwa-kiswahili-na-kidhungu.411607/"
+    },
+    {
+        "title": "Karibu kwetu tukuyu!",
+        "published": "Mon, 05 Jun 2017 19:48:26 +0000",
+        "author": "Mwalimu",
+        "link": "https://www.jamiiforums.com/threads/karibu-kwetu-tukuyu.224261/"
+    },
+    {
+        "title": "Compilation toka mitandaoni (not JF)",
+        "published": "Mon, 05 Jun 2017 19:46:43 +0000",
+        "author": "mshana jr",
+        "link": "https://www.jamiiforums.com/threads/compilation-toka-mitandaoni-not-jf.1250000/"
+    },
+    {
+        "title": "Kumbe Wema Sepetu alikuwa mzuri hivi?",
+        "published": "Mon, 05 Jun 2017 19:19:22 +0000",
+        "author": "FRANCIS DA DON",
+        "link": "https://www.jamiiforums.com/threads/kumbe-wema-sepetu-alikuwa-mzuri-hivi.805005/"
+    },
+    {
+        "title": "Kutoka Maktaba",
+        "published": "Mon, 05 Jun 2017 18:55:49 +0000",
+        "author": "sanchez255",
+        "link": "https://www.jamiiforums.com/threads/kutoka-maktaba.1263147/"
+    },
+    {
+        "title": "I love this quote",
+        "published": "Mon, 05 Jun 2017 18:37:16 +0000",
         "author": "Jodeo",
-        "published": "Sun, 04 Jun 2017 13:48:50 +0000"
+        "link": "https://www.jamiiforums.com/threads/i-love-this-quote.1262935/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/punyeto-inawatesa-vijana-wengi.1262428/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            13,
-            20,
-            56,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/punyeto-inawatesa-vijana-wengi.1262428/"
-            }
-        ],
-        "title": "Punyeto inawatesa vijana wengi",
-        "author_detail": {
-            "name": "immasakha",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Punyeto inawatesa vijana wengi",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "immasakha",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "immasakha"
-            }
-        ],
-        "slash_comments": "10",
-        "link": "https://www.jamiiforums.com/threads/punyeto-inawatesa-vijana-wengi.1262428/",
-        "author": "immasakha",
-        "published": "Sun, 04 Jun 2017 13:20:56 +0000"
+        "title": "Kwa Huyu Jamaa Mshana Jr na Mzizi Mkavu Wakae Mbali",
+        "published": "Mon, 05 Jun 2017 17:51:12 +0000",
+        "author": "SHIMBA YA BUYENZE",
+        "link": "https://www.jamiiforums.com/threads/kwa-huyu-jamaa-mshana-jr-na-mzizi-mkavu-wakae-mbali.1262646/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/rasmi-dawa-ya-ukimwi-yagundulika-nchini-israel.1214866/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            12,
-            24,
-            55,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/rasmi-dawa-ya-ukimwi-yagundulika-nchini-israel.1214866/"
-            }
-        ],
-        "title": "Rasmi: Dawa ya UKIMWI yagundulika nchini Israel",
-        "author_detail": {
-            "name": "ng'ombo",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Rasmi: Dawa ya UKIMWI yagundulika nchini Israel",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "ng'ombo",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "ng'ombo"
-            }
-        ],
-        "slash_comments": "284",
-        "link": "https://www.jamiiforums.com/threads/rasmi-dawa-ya-ukimwi-yagundulika-nchini-israel.1214866/",
-        "author": "ng'ombo",
-        "published": "Sun, 04 Jun 2017 12:24:55 +0000"
+        "title": "Toba!! Haya maji mengine bwana...!!!",
+        "published": "Mon, 05 Jun 2017 17:14:52 +0000",
+        "author": "donlucchese",
+        "link": "https://www.jamiiforums.com/threads/toba-haya-maji-mengine-bwana.1259907/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/tatizo-la-ugonjwa-wa-vitiligo-na-tiba-yake.176636/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            12,
-            4,
-            38,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/tatizo-la-ugonjwa-wa-vitiligo-na-tiba-yake.176636/"
-            }
-        ],
-        "title": "Tatizo la ugonjwa wa VITILIGO na tiba yake",
-        "author_detail": {
-            "name": "kivato",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Tatizo la ugonjwa wa VITILIGO na tiba yake",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "kivato",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "kivato"
-            }
-        ],
-        "slash_comments": "109",
-        "link": "https://www.jamiiforums.com/threads/tatizo-la-ugonjwa-wa-vitiligo-na-tiba-yake.176636/",
-        "author": "kivato",
-        "published": "Sun, 04 Jun 2017 12:04:38 +0000"
+        "title": "Where would you put your money at?????",
+        "published": "Mon, 05 Jun 2017 17:12:52 +0000",
+        "author": "donlucchese",
+        "link": "https://www.jamiiforums.com/threads/where-would-you-put-your-money-at.1262524/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/wapi-nitapata-massage.312035/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            11,
-            48,
-            53,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/wapi-nitapata-massage.312035/"
-            }
-        ],
-        "title": "wapi nitapata massage?",
-        "author_detail": {
-            "name": "Raia Fulani",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "wapi nitapata massage?",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Raia Fulani",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Raia Fulani"
-            }
-        ],
-        "slash_comments": "13",
-        "link": "https://www.jamiiforums.com/threads/wapi-nitapata-massage.312035/",
-        "author": "Raia Fulani",
-        "published": "Sun, 04 Jun 2017 11:48:53 +0000"
+        "title": "Pata juice ya tikiti buree",
+        "published": "Mon, 05 Jun 2017 16:24:10 +0000",
+        "author": "shatisuruali",
+        "link": "https://www.jamiiforums.com/threads/pata-juice-ya-tikiti-buree.1262881/"
     },
     {
-        "authors": [
-            {
-                "name": "Donatila",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Donatila"
-            }
-        ],
-        "title": "Matatizo ya mfumo wa chakula wakati wa mfungo",
-        "author_detail": {
-            "name": "Donatila",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Matatizo ya mfumo wa chakula wakati wa mfungo",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "id": "https://www.jamiiforums.com/threads/matatizo-ya-mfumo-wa-chakula-wakati-wa-mfungo.1262385/",
-        "author": "Donatila",
-        "link": "https://www.jamiiforums.com/threads/matatizo-ya-mfumo-wa-chakula-wakati-wa-mfungo.1262385/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            11,
-            27,
-            15,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/matatizo-ya-mfumo-wa-chakula-wakati-wa-mfungo.1262385/"
-            }
-        ],
-        "published": "Sun, 04 Jun 2017 11:27:15 +0000"
+        "title": "PHOTOSHOPU YA KICHINA",
+        "published": "Mon, 05 Jun 2017 16:17:37 +0000",
+        "author": "Amavubi",
+        "link": "https://www.jamiiforums.com/threads/photoshopu-ya-kichina.1262038/"
     },
     {
-        "authors": [
-            {
-                "name": "Kidnap",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Kidnap"
-            }
-        ],
-        "title": "Uponyaji wa moyo uliovunjika by Denis Lyamuya(Principal Focus)",
-        "author_detail": {
-            "name": "Kidnap",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Uponyaji wa moyo uliovunjika by Denis Lyamuya(Principal Focus)",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "id": "https://www.jamiiforums.com/threads/uponyaji-wa-moyo-uliovunjika-by-denis-lyamuya-principal-focus.1262384/",
-        "author": "Kidnap",
-        "link": "https://www.jamiiforums.com/threads/uponyaji-wa-moyo-uliovunjika-by-denis-lyamuya-principal-focus.1262384/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            11,
-            26,
-            35,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/uponyaji-wa-moyo-uliovunjika-by-denis-lyamuya-principal-focus.1262384/"
-            }
-        ],
-        "published": "Sun, 04 Jun 2017 11:26:35 +0000"
+        "title": "Dar es Salaam City in Photos",
+        "published": "Mon, 05 Jun 2017 16:13:01 +0000",
+        "author": "NDINDA",
+        "link": "https://www.jamiiforums.com/threads/dar-es-salaam-city-in-photos.126646/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/how-hiv-possitive-sometime-can-test-negative.1262231/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            10,
-            4,
-            59,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/how-hiv-possitive-sometime-can-test-negative.1262231/"
-            }
-        ],
-        "title": "How HIV possitive sometime can test negative?",
-        "author_detail": {
-            "name": "sleymu24",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "How HIV possitive sometime can test negative?",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "sleymu24",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "sleymu24"
-            }
-        ],
-        "slash_comments": "4",
-        "link": "https://www.jamiiforums.com/threads/how-hiv-possitive-sometime-can-test-negative.1262231/",
-        "author": "sleymu24",
-        "published": "Sun, 04 Jun 2017 10:04:59 +0000"
+        "title": "Mheshimiwa \"MKULIMA\"",
+        "published": "Mon, 05 Jun 2017 14:27:47 +0000",
+        "author": "mfilisti",
+        "link": "https://www.jamiiforums.com/threads/mheshimiwa-mkulima.1262650/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/kitovu-na-uume-wa-mtoto.1262164/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            9,
-            40,
-            53,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kitovu-na-uume-wa-mtoto.1262164/"
-            }
-        ],
-        "title": "Kitovu na Uume wa mtoto.",
-        "author_detail": {
-            "name": "Tyrone mofekeng",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kitovu na Uume wa mtoto.",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Tyrone mofekeng",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Tyrone mofekeng"
-            }
-        ],
-        "slash_comments": "40",
-        "link": "https://www.jamiiforums.com/threads/kitovu-na-uume-wa-mtoto.1262164/",
-        "author": "Tyrone mofekeng",
-        "published": "Sun, 04 Jun 2017 09:40:53 +0000"
+        "title": "Wanaume wa Dar mnahitaji msaidiwe",
+        "published": "Mon, 05 Jun 2017 14:22:20 +0000",
+        "author": "jembe afrika",
+        "link": "https://www.jamiiforums.com/threads/wanaume-wa-dar-mnahitaji-msaidiwe.1261505/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/kupiga-chafya-asubuhi.1256854/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            7,
-            23,
-            21,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kupiga-chafya-asubuhi.1256854/"
-            }
-        ],
-        "title": "Kupiga chafya asubuhi.",
-        "author_detail": {
-            "name": "adammbuya",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kupiga chafya asubuhi.",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "adammbuya",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "adammbuya"
-            }
-        ],
-        "slash_comments": "10",
-        "link": "https://www.jamiiforums.com/threads/kupiga-chafya-asubuhi.1256854/",
-        "author": "adammbuya",
-        "published": "Sun, 04 Jun 2017 07:23:21 +0000"
+        "title": "Kikazi zaidi!!",
+        "published": "Mon, 05 Jun 2017 13:28:07 +0000",
+        "author": "Saguda47",
+        "link": "https://www.jamiiforums.com/threads/kikazi-zaidi.1262215/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/dawa-ya-kupunguza-uume-na-nguvu-za-kiume.1258565/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            6,
-            52,
-            52,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/dawa-ya-kupunguza-uume-na-nguvu-za-kiume.1258565/"
-            }
-        ],
-        "title": "Dawa ya kupunguza Uume na nguvu za kiume",
-        "author_detail": {
-            "name": "Askari Muoga",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Dawa ya kupunguza Uume na nguvu za kiume",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Askari Muoga",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Askari Muoga"
-            }
-        ],
-        "slash_comments": "13",
-        "link": "https://www.jamiiforums.com/threads/dawa-ya-kupunguza-uume-na-nguvu-za-kiume.1258565/",
-        "author": "Askari Muoga",
-        "published": "Sun, 04 Jun 2017 06:52:52 +0000"
+        "title": "Ronaldo atoa 'like' kwa picha inayomkejeli Messi mtandaoni",
+        "published": "Mon, 05 Jun 2017 11:50:06 +0000",
+        "author": "real G",
+        "link": "https://www.jamiiforums.com/threads/ronaldo-atoa-like-kwa-picha-inayomkejeli-messi-mtandaoni.1262933/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/uvimbe-kwenye-kwapa.745254/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            5,
-            8,
-            16,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/uvimbe-kwenye-kwapa.745254/"
-            }
-        ],
-        "title": "Uvimbe kwenye kwapa",
-        "author_detail": {
-            "name": "Kuku wa Kabanga",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Uvimbe kwenye kwapa",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Kuku wa Kabanga",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Kuku wa Kabanga"
-            }
-        ],
-        "slash_comments": "13",
-        "link": "https://www.jamiiforums.com/threads/uvimbe-kwenye-kwapa.745254/",
-        "author": "Kuku wa Kabanga",
-        "published": "Sun, 04 Jun 2017 05:08:16 +0000"
+        "title": "Sio bangi hii ni ubunifu tu",
+        "published": "Mon, 05 Jun 2017 11:41:23 +0000",
+        "author": "Numbisa",
+        "link": "https://www.jamiiforums.com/threads/sio-bangi-hii-ni-ubunifu-tu.1260773/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/msaada-kuhusu-batholish-cyst.1262098/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            4,
-            59,
-            11,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/msaada-kuhusu-batholish-cyst.1262098/"
-            }
-        ],
-        "title": "Msaada kuhusu Batholish Cyst",
-        "author_detail": {
-            "name": "miminani",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Msaada kuhusu Batholish Cyst",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "miminani",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "miminani"
-            }
-        ],
-        "slash_comments": "7",
-        "link": "https://www.jamiiforums.com/threads/msaada-kuhusu-batholish-cyst.1262098/",
-        "author": "miminani",
-        "published": "Sun, 04 Jun 2017 04:59:11 +0000"
+        "title": "Kimenuka Saudia yaifungia al jazeera ya qatar",
+        "published": "Mon, 05 Jun 2017 22:25:49 +0000",
+        "author": "kimsboy",
+        "link": "https://www.jamiiforums.com/threads/kimenuka-saudia-yaifungia-al-jazeera-ya-qatar.1263206/"
     },
     {
-        "authors": [
-            {
-                "name": "divisiblebyzero",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "divisiblebyzero"
-            }
-        ],
-        "title": "Ni vema wakina dada mkajua hili pia",
-        "author_detail": {
-            "name": "divisiblebyzero",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Ni vema wakina dada mkajua hili pia",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "id": "https://www.jamiiforums.com/threads/ni-vema-wakina-dada-mkajua-hili-pia.1262099/",
-        "author": "divisiblebyzero",
-        "link": "https://www.jamiiforums.com/threads/ni-vema-wakina-dada-mkajua-hili-pia.1262099/",
-        "published_parsed": [
-            2017,
-            6,
-            3,
-            20,
-            23,
-            54,
-            5,
-            154,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/ni-vema-wakina-dada-mkajua-hili-pia.1262099/"
-            }
-        ],
-        "published": "Sat, 03 Jun 2017 20:23:54 +0000"
+        "title": "Misri yampa masaa 48 Balozi wa Qatar awe amefungasha virago na kuondoka nchini humo",
+        "published": "Mon, 05 Jun 2017 22:20:45 +0000",
+        "author": "miss zomboko",
+        "link": "https://www.jamiiforums.com/threads/misri-yampa-masaa-48-balozi-wa-qatar-awe-amefungasha-virago-na-kuondoka-nchini-humo.1262979/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/nisipo-do-usingizi-hauji-shida-nini.1261176/",
-        "published_parsed": [
-            2017,
-            6,
-            3,
-            20,
-            23,
-            44,
-            5,
-            154,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/nisipo-do-usingizi-hauji-shida-nini.1261176/"
-            }
-        ],
-        "title": "Nisipo do usingizi hauji, shida nini?",
-        "author_detail": {
-            "name": "moses musa",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Nisipo do usingizi hauji, shida nini?",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "moses musa",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "moses musa"
-            }
-        ],
-        "slash_comments": "26",
-        "link": "https://www.jamiiforums.com/threads/nisipo-do-usingizi-hauji-shida-nini.1261176/",
-        "author": "moses musa",
-        "published": "Sat, 03 Jun 2017 20:23:44 +0000"
+        "title": "ADUI WA SADDAM HUSSEIN AJUTIA ALICHOKIFANYA",
+        "published": "Mon, 05 Jun 2017 22:19:54 +0000",
+        "author": "Malcom Lumumba",
+        "link": "https://www.jamiiforums.com/threads/adui-wa-saddam-hussein-ajutia-alichokifanya.1263064/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/ni-vema-kujifunza-hili.1261393/",
-        "published_parsed": [
-            2017,
-            6,
-            3,
-            20,
-            21,
-            51,
-            5,
-            154,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/ni-vema-kujifunza-hili.1261393/"
-            }
-        ],
+        "title": "Kumbe wasaudia ni wasikivu kwa Donald Joseph Trump",
+        "published": "Mon, 05 Jun 2017 21:36:51 +0000",
+        "author": "2013",
+        "link": "https://www.jamiiforums.com/threads/kumbe-wasaudia-ni-wasikivu-kwa-donald-joseph-trump.1263208/"
+    },
+    {
+        "title": "Mataifa ya Bahrain, Saudi Arabia & Egypt yavunja mahusiano ya kidiplomasia na Qatar",
+        "published": "Mon, 05 Jun 2017 21:32:50 +0000",
+        "author": "Kurzweil",
+        "link": "https://www.jamiiforums.com/threads/mataifa-ya-bahrain-saudi-arabia-egypt-yavunja-mahusiano-ya-kidiplomasia-na-qatar.1262690/"
+    },
+    {
+        "title": "Trump aiondoa Marekani kwenye mkataba wa Paris",
+        "published": "Mon, 05 Jun 2017 20:45:05 +0000",
+        "author": "Kurzweil",
+        "link": "https://www.jamiiforums.com/threads/trump-aiondoa-marekani-kwenye-mkataba-wa-paris.1261013/"
+    },
+    {
+        "title": "Vita ya USA VS Vietnam",
+        "published": "Mon, 05 Jun 2017 20:19:08 +0000",
+        "author": "Bujibuji",
+        "link": "https://www.jamiiforums.com/threads/vita-ya-usa-vs-vietnam.1242488/"
+    },
+    {
+        "title": "North Korea yalaani jaribio la Marekani, yasema ni matayarisho ya vita vya nuclear",
+        "published": "Mon, 05 Jun 2017 19:56:23 +0000",
+        "author": "ze kokuyo",
+        "link": "https://www.jamiiforums.com/threads/north-korea-yalaani-jaribio-la-marekani-yasema-ni-matayarisho-ya-vita-vya-nuclear.1262092/"
+    },
+    {
+        "title": "NASA 'Unprecedented' mission to touch the Sun",
+        "published": "Mon, 05 Jun 2017 19:52:02 +0000",
+        "author": "Nalendwa",
+        "link": "https://www.jamiiforums.com/threads/nasa-unprecedented-mission-to-touch-the-sun.1259266/"
+    },
+    {
+        "title": "MISS NIGERIA AMUANDIKIA BARUA YA WAZI TRUMP:",
+        "published": "Mon, 05 Jun 2017 19:40:15 +0000",
+        "author": "Traveller X",
+        "link": "https://www.jamiiforums.com/threads/miss-nigeria-amuandikia-barua-ya-wazi-trump.1263186/"
+    },
+    {
+        "title": "Trump amesitisha utamaduni wa kuwaenzi mashoga ikulu",
+        "published": "Mon, 05 Jun 2017 18:33:41 +0000",
+        "author": "Jackal",
+        "link": "https://www.jamiiforums.com/threads/trump-amesitisha-utamaduni-wa-kuwaenzi-mashoga-ikulu.1262425/"
+    },
+    {
+        "title": "London Terror Attacks: 6 people killed 20 Injured",
+        "published": "Mon, 05 Jun 2017 16:19:26 +0000",
+        "author": "BAK",
+        "link": "https://www.jamiiforums.com/threads/london-terror-attacks-6-people-killed-20-injured.1262118/"
+    },
+    {
+        "title": "Ufisadi Mkubwa wa Biashara ya Dhahabu Waikumba Uganda",
+        "published": "Mon, 05 Jun 2017 15:51:35 +0000",
+        "author": "Bowie",
+        "link": "https://www.jamiiforums.com/threads/ufisadi-mkubwa-wa-biashara-ya-dhahabu-waikumba-uganda.1263089/"
+    },
+    {
+        "title": "Msikiti wagoma kuuzika mwili wa kijana aliyefanya shambulio la Manchester na kuua 22",
+        "published": "Mon, 05 Jun 2017 13:06:32 +0000",
+        "author": "miss zomboko",
+        "link": "https://www.jamiiforums.com/threads/msikiti-wagoma-kuuzika-mwili-wa-kijana-aliyefanya-shambulio-la-manchester-na-kuua-22.1260139/"
+    },
+    {
+        "title": "22 charred to death after bus-truck collision in Bareilly",
+        "published": "Mon, 05 Jun 2017 10:08:28 +0000",
+        "author": "miss zomboko",
+        "link": "https://www.jamiiforums.com/threads/22-charred-to-death-after-bus-truck-collision-in-bareilly.1262876/"
+    },
+    {
+        "title": "Saudi Arabia na Vatican city",
+        "published": "Mon, 05 Jun 2017 09:58:21 +0000",
+        "author": "Usher-smith",
+        "link": "https://www.jamiiforums.com/threads/saudi-arabia-na-vatican-city.1257334/"
+    },
+    {
+        "title": "Kufaru kipya cha Urusi cha wakosesha usingizi NATO",
+        "published": "Mon, 05 Jun 2017 09:46:11 +0000",
+        "author": "MURUSI",
+        "link": "https://www.jamiiforums.com/threads/kufaru-kipya-cha-urusi-cha-wakosesha-usingizi-nato.1260391/"
+    },
+    {
+        "title": "Nchi 5 zakata uhusiano na Quatar",
+        "published": "Mon, 05 Jun 2017 09:31:21 +0000",
+        "author": "Jeremiahsinkonde",
+        "link": "https://www.jamiiforums.com/threads/nchi-5-zakata-uhusiano-na-quatar.1262852/"
+    },
+    {
+        "title": "Kunani Arabuni, UAE  na nchi nyingine 5 kuanzia kesho wanasitisha ndege kutua za kutoka Qatar",
+        "published": "Mon, 05 Jun 2017 09:28:23 +0000",
+        "author": "essy sensei",
+        "link": "https://www.jamiiforums.com/threads/kunani-arabuni-uae-na-nchi-nyingine-5-kuanzia-kesho-wanasitisha-ndege-kutua-za-kutoka-qatar.1262843/"
+    },
+    {
+        "title": "Kundi la Islamic State lasema lilihusika na shambulio London",
+        "published": "Mon, 05 Jun 2017 09:24:50 +0000",
+        "author": "Kurzweil",
+        "link": "https://www.jamiiforums.com/threads/kundi-la-islamic-state-lasema-lilihusika-na-shambulio-london.1262797/"
+    },
+    {
+        "title": "Ni kweli ujauzito unaweza kuonekana kwenye kipimo siku 6 baada ya kuingia?",
+        "published": "Mon, 05 Jun 2017 22:22:39 +0000",
+        "author": "Nyanda lunduma",
+        "link": "https://www.jamiiforums.com/threads/ni-kweli-ujauzito-unaweza-kuonekana-kwenye-kipimo-siku-6-baada-ya-kuingia.1259953/"
+    },
+    {
+        "title": "Joints za miguu zina uma sababu ya punyeto",
+        "published": "Mon, 05 Jun 2017 22:06:13 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/joints-za-miguu-zina-uma-sababu-ya-punyeto.1219990/"
+    },
+    {
+        "title": "Nimeambiwa sina vidonda vya tumbo, nina hpylori tu, iweje nisikie kiungulia(Heart burn)",
+        "published": "Mon, 05 Jun 2017 21:54:02 +0000",
+        "author": "onyx",
+        "link": "https://www.jamiiforums.com/threads/nimeambiwa-sina-vidonda-vya-tumbo-nina-hpylori-tu-iweje-nisikie-kiungulia-heart-burn.1250706/"
+    },
+    {
+        "title": "Ushauri: Nataka kuwa na mwili size ya kati",
+        "published": "Mon, 05 Jun 2017 21:46:01 +0000",
+        "author": "faru joni",
+        "link": "https://www.jamiiforums.com/threads/ushauri-nataka-kuwa-na-mwili-size-ya-kati.1262800/"
+    },
+    {
+        "title": "Nahitaji ushauri wako kuhusu saratani ya damu",
+        "published": "Mon, 05 Jun 2017 19:51:11 +0000",
+        "author": "Satuuuu",
+        "link": "https://www.jamiiforums.com/threads/nahitaji-ushauri-wako-kuhusu-saratani-ya-damu.1147957/"
+    },
+    {
+        "title": "Ukikonda nyama zinaenda wapi?",
+        "published": "Mon, 05 Jun 2017 19:32:44 +0000",
+        "author": "Ziroseventytwo",
+        "link": "https://www.jamiiforums.com/threads/ukikonda-nyama-zinaenda-wapi.1263163/"
+    },
+    {
+        "title": "Nakaribisha maswali kuhusu Tiba / Dawa",
+        "published": "Mon, 05 Jun 2017 19:11:44 +0000",
+        "author": "gorgeousmimi",
+        "link": "https://www.jamiiforums.com/threads/nakaribisha-maswali-kuhusu-tiba-dawa.821519/"
+    },
+    {
+        "title": "Hali ya kupinda uume husababishwa na nini?",
+        "published": "Mon, 05 Jun 2017 17:42:37 +0000",
+        "author": "Mwakindyevile",
+        "link": "https://www.jamiiforums.com/threads/hali-ya-kupinda-uume-husababishwa-na-nini.1216959/"
+    },
+    {
+        "title": "Hili lishakuwa janga sasa!",
+        "published": "Mon, 05 Jun 2017 16:20:43 +0000",
+        "author": "Panga Makalikuwili",
+        "link": "https://www.jamiiforums.com/threads/hili-lishakuwa-janga-sasa.1262623/"
+    },
+    {
+        "title": "kufanya mapenzi ukiwa na ujauzito, Dr. Msua ameeleza kwa kina hapa",
+        "published": "Mon, 05 Jun 2017 15:26:42 +0000",
+        "author": "ukabu",
+        "link": "https://www.jamiiforums.com/threads/kufanya-mapenzi-ukiwa-na-ujauzito-dr-msua-ameeleza-kwa-kina-hapa.1262457/"
+    },
+    {
+        "title": "Tatizo la ugumba kwa wanawake  na wanaume",
+        "published": "Mon, 05 Jun 2017 14:12:11 +0000",
+        "author": "Sangida Herbal",
+        "link": "https://www.jamiiforums.com/threads/tatizo-la-ugumba-kwa-wanawake-na-wanaume.1260365/"
+    },
+    {
+        "title": "Msaada wa mtu anayefanya kazi Muhimbili",
+        "published": "Mon, 05 Jun 2017 13:36:53 +0000",
+        "author": "mind ur bussness",
+        "link": "https://www.jamiiforums.com/threads/msaada-wa-mtu-anayefanya-kazi-muhimbili.1262860/"
+    },
+    {
+        "title": "Msaada ndugu zangu kwa anaefahamu sululisho la huu ugonjwa au hata tiba yake",
+        "published": "Mon, 05 Jun 2017 13:01:31 +0000",
+        "author": "putin 2030",
+        "link": "https://www.jamiiforums.com/threads/msaada-ndugu-zangu-kwa-anaefahamu-sululisho-la-huu-ugonjwa-au-hata-tiba-yake.1260245/"
+    },
+    {
+        "title": "Rafiki yangu kampenda dada mwenye Sickle Cell",
+        "published": "Mon, 05 Jun 2017 12:10:30 +0000",
+        "author": "KATASAN'KAZA",
+        "link": "https://www.jamiiforums.com/threads/rafiki-yangu-kampenda-dada-mwenye-sickle-cell.1255216/"
+    },
+    {
+        "title": "msaada madaktari",
+        "published": "Mon, 05 Jun 2017 11:53:26 +0000",
+        "author": "AnnaG",
+        "link": "https://www.jamiiforums.com/threads/msaada-madaktari.1262558/"
+    },
+    {
         "title": "Ni vema kujifunza hili",
-        "author_detail": {
-            "name": "divisiblebyzero",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Ni vema kujifunza hili",
-            "base": "https://www.jamiiforums.com/forums/jf-doctor.61/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "divisiblebyzero",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "divisiblebyzero"
-            }
-        ],
-        "slash_comments": "8",
-        "link": "https://www.jamiiforums.com/threads/ni-vema-kujifunza-hili.1261393/",
+        "published": "Mon, 05 Jun 2017 09:18:11 +0000",
         "author": "divisiblebyzero",
-        "published": "Sat, 03 Jun 2017 20:21:51 +0000"
+        "link": "https://www.jamiiforums.com/threads/ni-vema-kujifunza-hili.1261393/"
+    },
+    {
+        "title": "Kujaribu Tovuti Mpya Kipengele cha Afya",
+        "published": "Mon, 05 Jun 2017 07:17:12 +0000",
+        "author": "Tanzania Tech",
+        "link": "https://www.jamiiforums.com/threads/kujaribu-tovuti-mpya-kipengele-cha-afya.1262784/"
+    },
+    {
+        "title": "Ni dr. gani Tanzania anatoa huduma ya IVF (kuwawekea wanandoa mtoto?)",
+        "published": "Mon, 05 Jun 2017 04:10:28 +0000",
+        "author": "mbalaga",
+        "link": "https://www.jamiiforums.com/threads/ni-dr-gani-tanzania-anatoa-huduma-ya-ivf-kuwawekea-wanandoa-mtoto.590443/"
+    },
+    {
+        "title": "Kitovu na Uume wa mtoto.",
+        "published": "Mon, 05 Jun 2017 03:44:30 +0000",
+        "author": "Tyrone mofekeng",
+        "link": "https://www.jamiiforums.com/threads/kitovu-na-uume-wa-mtoto.1262164/"
+    },
+    {
+        "title": "Matatizo ya mfumo wa chakula wakati wa mfungo",
+        "published": "Mon, 05 Jun 2017 03:15:12 +0000",
+        "author": "Donatila",
+        "link": "https://www.jamiiforums.com/threads/matatizo-ya-mfumo-wa-chakula-wakati-wa-mfungo.1262385/"
     }
 ]

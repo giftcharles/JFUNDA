@@ -1,922 +1,122 @@
 [
     {
-        "id": "https://www.jamiiforums.com/threads/makapuku-forum.1032847/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            18,
-            3,
-            37,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/makapuku-forum.1032847/"
-            }
-        ],
+        "title": "Ujumbe wa Sakayo",
+        "published": "Mon, 05 Jun 2017 22:24:31 +0000",
+        "author": "Shunie",
+        "link": "https://www.jamiiforums.com/threads/ujumbe-wa-sakayo.1262989/"
+    },
+    {
+        "title": "The Foundation to Fearlessness",
+        "published": "Mon, 05 Jun 2017 22:14:39 +0000",
+        "author": "dellyphilly",
+        "link": "https://www.jamiiforums.com/threads/the-foundation-to-fearlessness.1263194/"
+    },
+    {
         "title": "Makapuku Forum",
-        "author_detail": {
-            "name": "Bailly5",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Makapuku Forum",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Bailly5",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Bailly5"
-            }
-        ],
-        "slash_comments": "203266",
-        "link": "https://www.jamiiforums.com/threads/makapuku-forum.1032847/",
+        "published": "Mon, 05 Jun 2017 21:50:51 +0000",
         "author": "Bailly5",
-        "published": "Sun, 04 Jun 2017 18:03:37 +0000"
+        "link": "https://www.jamiiforums.com/threads/makapuku-forum.1032847/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/humu-ndani-kumepoa-saana.1262365/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            18,
-            3,
-            34,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/humu-ndani-kumepoa-saana.1262365/"
-            }
-        ],
-        "title": "Humu ndani kumepoa saana.",
-        "author_detail": {
-            "name": "Daby",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Humu ndani kumepoa saana.",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Daby",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Daby"
-            }
-        ],
-        "slash_comments": "1361",
-        "link": "https://www.jamiiforums.com/threads/humu-ndani-kumepoa-saana.1262365/",
-        "author": "Daby",
-        "published": "Sun, 04 Jun 2017 18:03:34 +0000"
+        "title": "Distinctive features of JF",
+        "published": "Mon, 05 Jun 2017 20:50:30 +0000",
+        "author": "nyandaad",
+        "link": "https://www.jamiiforums.com/threads/distinctive-features-of-jf.1262988/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/shemeji-yangu-anakiburi-kisicho-namaana.1262557/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            18,
-            2,
-            46,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/shemeji-yangu-anakiburi-kisicho-namaana.1262557/"
-            }
-        ],
-        "title": "Shemeji Yangu Anakiburi Kisicho Namaana",
-        "author_detail": {
-            "name": "Chibudee",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Shemeji Yangu Anakiburi Kisicho Namaana",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Chibudee",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Chibudee"
-            }
-        ],
-        "slash_comments": "8",
-        "link": "https://www.jamiiforums.com/threads/shemeji-yangu-anakiburi-kisicho-namaana.1262557/",
-        "author": "Chibudee",
-        "published": "Sun, 04 Jun 2017 18:02:46 +0000"
+        "title": "Chemsha Bongo!",
+        "published": "Mon, 05 Jun 2017 20:47:13 +0000",
+        "author": "Quemu",
+        "link": "https://www.jamiiforums.com/threads/chemsha-bongo.5955/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/wanja-kope-za-chini.1262381/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            57,
-            6,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/wanja-kope-za-chini.1262381/"
-            }
-        ],
-        "title": "Wanja kope za chini",
-        "author_detail": {
-            "name": "mshana jr",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Wanja kope za chini",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "mshana jr",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "mshana jr"
-            }
-        ],
-        "slash_comments": "17",
-        "link": "https://www.jamiiforums.com/threads/wanja-kope-za-chini.1262381/",
-        "author": "mshana jr",
-        "published": "Sun, 04 Jun 2017 17:57:06 +0000"
+        "title": "Members 'ninaowakubali' zaidi humu jf",
+        "published": "Mon, 05 Jun 2017 20:44:14 +0000",
+        "author": "Black fire",
+        "link": "https://www.jamiiforums.com/threads/members-ninaowakubali-zaidi-humu-jf.1263008/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/jukwaa-hili-linahusu-nini.1262560/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            50,
-            22,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/jukwaa-hili-linahusu-nini.1262560/"
-            }
-        ],
-        "title": "Jukwaa hili linahusu nini",
-        "author_detail": {
-            "name": "Sigara Kali",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Jukwaa hili linahusu nini",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Sigara Kali",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Sigara Kali"
-            }
-        ],
-        "slash_comments": "1",
-        "link": "https://www.jamiiforums.com/threads/jukwaa-hili-linahusu-nini.1262560/",
-        "author": "Sigara Kali",
-        "published": "Sun, 04 Jun 2017 17:50:22 +0000"
+        "title": "HEKA HEKA",
+        "published": "Mon, 05 Jun 2017 20:43:23 +0000",
+        "author": "holy holm",
+        "link": "https://www.jamiiforums.com/threads/heka-heka.1263154/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/msaada-wa-machine-ya-kuchuja-alizeti.1262296/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            48,
-            5,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/msaada-wa-machine-ya-kuchuja-alizeti.1262296/"
-            }
-        ],
-        "title": "Msaada wa machine ya kuchuja alizeti.",
-        "author_detail": {
-            "name": "dimaa",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Msaada wa machine ya kuchuja alizeti.",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "dimaa",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "dimaa"
-            }
-        ],
-        "slash_comments": "2",
-        "link": "https://www.jamiiforums.com/threads/msaada-wa-machine-ya-kuchuja-alizeti.1262296/",
-        "author": "dimaa",
-        "published": "Sun, 04 Jun 2017 17:48:05 +0000"
+        "title": "Mwanamke anaweza kuishi na mwanaume asiyekuwa na kazi kwa muda wa siku 5 tu",
+        "published": "Mon, 05 Jun 2017 20:31:13 +0000",
+        "author": "Eddy Love",
+        "link": "https://www.jamiiforums.com/threads/mwanamke-anaweza-kuishi-na-mwanaume-asiyekuwa-na-kazi-kwa-muda-wa-siku-5-tu.1226610/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/watu-wa-temeke-mnaaishije-bar-chafu-na-hazina-warembo.1262014/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            46,
-            14,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/watu-wa-temeke-mnaaishije-bar-chafu-na-hazina-warembo.1262014/"
-            }
-        ],
-        "title": "Watu wa Temeke mnaaishije bar chafu na hazina warembo?",
-        "author_detail": {
-            "name": "wakusoma",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Watu wa Temeke mnaaishije bar chafu na hazina warembo?",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "wakusoma",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "wakusoma"
-            }
-        ],
-        "slash_comments": "56",
-        "link": "https://www.jamiiforums.com/threads/watu-wa-temeke-mnaaishije-bar-chafu-na-hazina-warembo.1262014/",
-        "author": "wakusoma",
-        "published": "Sun, 04 Jun 2017 17:46:14 +0000"
+        "title": "THAQAAFA HIGH SCHOOL 2003 TUONANE HAPA.",
+        "published": "Mon, 05 Jun 2017 20:30:14 +0000",
+        "author": "ngoshaboy",
+        "link": "https://www.jamiiforums.com/threads/thaqaafa-high-school-2003-tuonane-hapa.1263143/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/hebu-wanaume-sererekeni-hapa.1262455/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            41,
-            2,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/hebu-wanaume-sererekeni-hapa.1262455/"
-            }
-        ],
-        "title": "Hebu wanaume sererekeni hapa.",
-        "author_detail": {
-            "name": "ndayilagije",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Hebu wanaume sererekeni hapa.",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "ndayilagije",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "ndayilagije"
-            }
-        ],
-        "slash_comments": "17",
-        "link": "https://www.jamiiforums.com/threads/hebu-wanaume-sererekeni-hapa.1262455/",
-        "author": "ndayilagije",
-        "published": "Sun, 04 Jun 2017 17:41:02 +0000"
+        "title": "Mwanaume kumtawaza mtoto ni sawa kweli?",
+        "published": "Mon, 05 Jun 2017 20:26:50 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/mwanaume-kumtawaza-mtoto-ni-sawa-kweli.1218807/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/aya-ya-siku.1262317/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            30,
-            6,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/aya-ya-siku.1262317/"
-            }
-        ],
-        "title": "Aya ya siku",
-        "author_detail": {
-            "name": "E.14",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Aya ya siku",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "E.14",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "E.14"
-            }
-        ],
-        "slash_comments": "2",
-        "link": "https://www.jamiiforums.com/threads/aya-ya-siku.1262317/",
-        "author": "E.14",
-        "published": "Sun, 04 Jun 2017 17:30:06 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/hawa-watu-ndio-wameniacha-hoi.1262464/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            24,
-            27,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/hawa-watu-ndio-wameniacha-hoi.1262464/"
-            }
-        ],
-        "title": "Hawa watu ndio wameniacha hoi.",
-        "author_detail": {
-            "name": "proton pump",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Hawa watu ndio wameniacha hoi.",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "proton pump",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "proton pump"
-            }
-        ],
-        "slash_comments": "1",
-        "link": "https://www.jamiiforums.com/threads/hawa-watu-ndio-wameniacha-hoi.1262464/",
-        "author": "proton pump",
-        "published": "Sun, 04 Jun 2017 17:24:27 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/maneno-haya-ni-marufu-sana-humu-ndan-sijajua-ni-kwanini.1262456/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            21,
-            19,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/maneno-haya-ni-marufu-sana-humu-ndan-sijajua-ni-kwanini.1262456/"
-            }
-        ],
-        "title": "Maneno haya ni marufu sana humu ndan sijajua ni kwanini",
-        "author_detail": {
-            "name": "nanyupu",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Maneno haya ni marufu sana humu ndan sijajua ni kwanini",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "nanyupu",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "nanyupu"
-            }
-        ],
-        "slash_comments": "4",
-        "link": "https://www.jamiiforums.com/threads/maneno-haya-ni-marufu-sana-humu-ndan-sijajua-ni-kwanini.1262456/",
-        "author": "nanyupu",
-        "published": "Sun, 04 Jun 2017 17:21:19 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/kituko-gani-kilikuacha-hoi-kwa-kicheko-mnamo-6-6.1262404/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            19,
-            14,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kituko-gani-kilikuacha-hoi-kwa-kicheko-mnamo-6-6.1262404/"
-            }
-        ],
-        "title": "Kituko gani kilikuacha hoi kwa kicheko mnamo 6*6?",
-        "author_detail": {
-            "name": "Paprika",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kituko gani kilikuacha hoi kwa kicheko mnamo 6*6?",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Paprika",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Paprika"
-            }
-        ],
-        "slash_comments": "84",
-        "link": "https://www.jamiiforums.com/threads/kituko-gani-kilikuacha-hoi-kwa-kicheko-mnamo-6-6.1262404/",
-        "author": "Paprika",
-        "published": "Sun, 04 Jun 2017 17:19:14 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/uzoefu-wangu-kwa-wachangia-mada-jf.1262219/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            17,
-            14,
-            24,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/uzoefu-wangu-kwa-wachangia-mada-jf.1262219/"
-            }
-        ],
-        "title": "Uzoefu wangu Kwa Wachangia Mada JF",
-        "author_detail": {
-            "name": "Amavubi",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Uzoefu wangu Kwa Wachangia Mada JF",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Amavubi",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Amavubi"
-            }
-        ],
-        "slash_comments": "35",
-        "link": "https://www.jamiiforums.com/threads/uzoefu-wangu-kwa-wachangia-mada-jf.1262219/",
-        "author": "Amavubi",
-        "published": "Sun, 04 Jun 2017 17:14:24 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/ni-sababu-gani-inatufanya-wanaume-tushindwe-kujizuia-kuangalia-makalio-ya-wanawake.1261694/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            16,
-            46,
-            1,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/ni-sababu-gani-inatufanya-wanaume-tushindwe-kujizuia-kuangalia-makalio-ya-wanawake.1261694/"
-            }
-        ],
-        "title": "Ni sababu gani inatufanya wanaume tushindwe kujizuia kuangalia makalio ya wanawake?",
-        "author_detail": {
-            "name": "barafuyamoto",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Ni sababu gani inatufanya wanaume tushindwe kujizuia kuangalia makalio ya wanawake?",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "barafuyamoto",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "barafuyamoto"
-            }
-        ],
-        "slash_comments": "153",
-        "link": "https://www.jamiiforums.com/threads/ni-sababu-gani-inatufanya-wanaume-tushindwe-kujizuia-kuangalia-makalio-ya-wanawake.1261694/",
-        "author": "barafuyamoto",
-        "published": "Sun, 04 Jun 2017 16:46:01 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/nimeandaa-daku-kwa-ajili-ya-wafungaji-karibuni-jamani.1262408/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            16,
-            0,
-            27,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/nimeandaa-daku-kwa-ajili-ya-wafungaji-karibuni-jamani.1262408/"
-            }
-        ],
-        "title": "Nimeandaa Daku kwa ajili ya wafungaji ,Karibuni jamani...!!",
-        "author_detail": {
-            "name": "Nyoka_mzee",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Nimeandaa Daku kwa ajili ya wafungaji ,Karibuni jamani...!!",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Nyoka_mzee",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Nyoka_mzee"
-            }
-        ],
-        "slash_comments": "7",
-        "link": "https://www.jamiiforums.com/threads/nimeandaa-daku-kwa-ajili-ya-wafungaji-karibuni-jamani.1262408/",
-        "author": "Nyoka_mzee",
-        "published": "Sun, 04 Jun 2017 16:00:27 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/kama-hujafanya-hii-katika-ujana-wako-pole-sana.1250565/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            14,
-            57,
-            14,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/kama-hujafanya-hii-katika-ujana-wako-pole-sana.1250565/"
-            }
-        ],
-        "title": "Kama hujafanya hii katika ujana wako POLE sana",
-        "author_detail": {
-            "name": "Ethos",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Kama hujafanya hii katika ujana wako POLE sana",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Ethos",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Ethos"
-            }
-        ],
-        "slash_comments": "145",
-        "link": "https://www.jamiiforums.com/threads/kama-hujafanya-hii-katika-ujana-wako-pole-sana.1250565/",
-        "author": "Ethos",
-        "published": "Sun, 04 Jun 2017 14:57:14 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/ulisifika-kwa-lipi-shuleni.1257183/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            14,
-            18,
-            7,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/ulisifika-kwa-lipi-shuleni.1257183/"
-            }
-        ],
-        "title": "Ulisifika Kwa Lipi Shuleni....",
-        "author_detail": {
-            "name": "Director D",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Ulisifika Kwa Lipi Shuleni....",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Director D",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Director D"
-            }
-        ],
-        "slash_comments": "168",
-        "link": "https://www.jamiiforums.com/threads/ulisifika-kwa-lipi-shuleni.1257183/",
-        "author": "Director D",
-        "published": "Sun, 04 Jun 2017 14:18:07 +0000"
-    },
-    {
-        "id": "https://www.jamiiforums.com/threads/nyani-ngabu-mjengoni-interview-mapenzi-utajiri-mali-marafiki-na-maisha-ya-ugenini.1261483/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            14,
-            6,
-            48,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/nyani-ngabu-mjengoni-interview-mapenzi-utajiri-mali-marafiki-na-maisha-ya-ugenini.1261483/"
-            }
-        ],
         "title": "Nyani Ngabu Mjengoni! Interview: Mapenzi, Utajiri&Mali, Marafiki na Maisha ya ugenini.",
-        "author_detail": {
-            "name": "STUNTER",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Nyani Ngabu Mjengoni! Interview: Mapenzi, Utajiri&Mali, Marafiki na Maisha ya ugenini.",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "STUNTER",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "STUNTER"
-            }
-        ],
-        "slash_comments": "322",
-        "link": "https://www.jamiiforums.com/threads/nyani-ngabu-mjengoni-interview-mapenzi-utajiri-mali-marafiki-na-maisha-ya-ugenini.1261483/",
+        "published": "Mon, 05 Jun 2017 20:26:01 +0000",
         "author": "STUNTER",
-        "published": "Sun, 04 Jun 2017 14:06:48 +0000"
+        "link": "https://www.jamiiforums.com/threads/nyani-ngabu-mjengoni-interview-mapenzi-utajiri-mali-marafiki-na-maisha-ya-ugenini.1261483/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/shilawadu-shilawadu-tunawaona-tunawaona-tunasubiri-ubuyu.1262312/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            14,
-            4,
-            45,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/shilawadu-shilawadu-tunawaona-tunawaona-tunasubiri-ubuyu.1262312/"
-            }
-        ],
-        "title": "Shilawadu...Shilawadu...Tunawaona tunawaona...Tunasubiri Ubuyu!",
-        "author_detail": {
-            "name": "jingalao",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Shilawadu...Shilawadu...Tunawaona tunawaona...Tunasubiri Ubuyu!",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "jingalao",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "jingalao"
-            }
-        ],
-        "slash_comments": "12",
-        "link": "https://www.jamiiforums.com/threads/shilawadu-shilawadu-tunawaona-tunawaona-tunasubiri-ubuyu.1262312/",
-        "author": "jingalao",
-        "published": "Sun, 04 Jun 2017 14:04:45 +0000"
+        "title": "Kama hujafanya hii katika ujana wako POLE sana",
+        "published": "Mon, 05 Jun 2017 20:05:40 +0000",
+        "author": "Ethos",
+        "link": "https://www.jamiiforums.com/threads/kama-hujafanya-hii-katika-ujana-wako-pole-sana.1250565/"
     },
     {
-        "id": "https://www.jamiiforums.com/threads/hizi-ndio-id-za-ajabu-sana-humu-jf.1258638/",
-        "published_parsed": [
-            2017,
-            6,
-            4,
-            13,
-            58,
-            48,
-            6,
-            155,
-            0
-        ],
-        "links": [
-            {
-                "type": "text/html",
-                "rel": "alternate",
-                "href": "https://www.jamiiforums.com/threads/hizi-ndio-id-za-ajabu-sana-humu-jf.1258638/"
-            }
-        ],
-        "title": "Hizi Ndio ID Za Ajabu Sana  Humu JF",
-        "author_detail": {
-            "name": "Director D",
-            "email": "invalid@example.com"
-        },
-        "guidislink": false,
-        "title_detail": {
-            "type": "text/plain",
-            "value": "Hizi Ndio ID Za Ajabu Sana  Humu JF",
-            "base": "https://www.jamiiforums.com/forums/jf-chit-chat.103/index.rss",
-            "language": null
-        },
-        "authors": [
-            {
-                "name": "Director D",
-                "email": "invalid@example.com"
-            },
-            {
-                "name": "Director D"
-            }
-        ],
-        "slash_comments": "141",
-        "link": "https://www.jamiiforums.com/threads/hizi-ndio-id-za-ajabu-sana-humu-jf.1258638/",
-        "author": "Director D",
-        "published": "Sun, 04 Jun 2017 13:58:48 +0000"
+        "title": "Kuwa na mwanamke askari ni shida",
+        "published": "Mon, 05 Jun 2017 19:43:50 +0000",
+        "author": "banned do",
+        "link": "https://www.jamiiforums.com/threads/kuwa-na-mwanamke-askari-ni-shida.1262149/"
+    },
+    {
+        "title": "Humu ndani kumepoa sana",
+        "published": "Mon, 05 Jun 2017 19:35:28 +0000",
+        "author": "Daby",
+        "link": "https://www.jamiiforums.com/threads/humu-ndani-kumepoa-sana.1262365/"
+    },
+    {
+        "title": "Wanachokisema wazungu kuhusu Tanzania...",
+        "published": "Mon, 05 Jun 2017 19:24:31 +0000",
+        "author": "TANMO",
+        "link": "https://www.jamiiforums.com/threads/wanachokisema-wazungu-kuhusu-tanzania.118232/"
+    },
+    {
+        "title": "Hivi kwa nini mtu mzima akiua paka maisha yake yanakuwa mabovu sana",
+        "published": "Mon, 05 Jun 2017 19:17:34 +0000",
+        "author": "Yeezus 2",
+        "link": "https://www.jamiiforums.com/threads/hivi-kwa-nini-mtu-mzima-akiua-paka-maisha-yake-yanakuwa-mabovu-sana.1262903/"
+    },
+    {
+        "title": "WanaJF wenyeji wa Lindi na Mtwara tukutane hapa",
+        "published": "Mon, 05 Jun 2017 19:00:58 +0000",
+        "author": "GAZETI",
+        "link": "https://www.jamiiforums.com/threads/wanajf-wenyeji-wa-lindi-na-mtwara-tukutane-hapa.1250120/"
+    },
+    {
+        "title": "Nani ambaye hajawahi kufungua nyuzi zangu?",
+        "published": "Mon, 05 Jun 2017 19:00:13 +0000",
+        "author": "HR 666",
+        "link": "https://www.jamiiforums.com/threads/nani-ambaye-hajawahi-kufungua-nyuzi-zangu.1243952/"
+    },
+    {
+        "title": "Vifisadi Vitoto Tunavijua (VVT)",
+        "published": "Mon, 05 Jun 2017 18:54:34 +0000",
+        "author": "Gagurito",
+        "link": "https://www.jamiiforums.com/threads/vifisadi-vitoto-tunavijua-vvt.118037/"
+    },
+    {
+        "title": "Makusudi au bahati mbaya?",
+        "published": "Mon, 05 Jun 2017 18:50:58 +0000",
+        "author": "tinya",
+        "link": "https://www.jamiiforums.com/threads/makusudi-au-bahati-mbaya.117931/"
     }
 ]
