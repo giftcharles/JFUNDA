@@ -56,15 +56,21 @@ class Jfunda():
             
             for entry in f.entries:
             
-                title = f.entries[counter].title
-                author = f.entries[counter].author
-                pub = f.entries[counter].published
-                link = f.entries[counter].link
-                
                 if 'slash_comments' in entry:
                     comments = f.entries[counter].slash_comments
                 else:
                     comments = 0
+                    
+                if 'title' in entry:
+                    title = f.entries[counter].title
+                else:
+                    title = '(No Title Here)'                
+                
+                
+                title = f.entries[counter].title
+                author = f.entries[counter].author
+                pub = f.entries[counter].published
+                link = f.entries[counter].link                
                 
                 thread_data = {"title":title,
                                "author":author,
@@ -83,10 +89,10 @@ class Jfunda():
             print("entires saved for {0} \n".format(key))
             time.sleep(1)
             
-        with codecs.open("feeds.json", "a", "utf-8") as file:
+        with codecs.open("feeds.json", "w", "utf-8") as file:
             file.write(json.dumps(json_data, indent=4, separators=(',', ': ')))        
             
-        print("All processions are complete!")
+        print("All feeds downloaded into feed.json!")
         
         
 inst = Jfunda()
